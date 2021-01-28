@@ -2,7 +2,7 @@
 title: About
 ---
 
-<center>## __Contact__ </center>
+<center> ## __Contact__ </center>
 
 <center> - e-mail: knsofy@gmail.com </center>
-<center> - Github: https://github.com/chalgx </center>
+<center> - github: https://github.com/chalgx </center>

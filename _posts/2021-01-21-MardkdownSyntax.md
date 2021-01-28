@@ -326,14 +326,14 @@ URL에 빈 공백이 있어야 한다면 %20을 삽입해야 함
 * 작성법
 
   ```
-  [DtB Blog](https://changx545.github.io)  
-  [DtB Blog](https://changx545.github.io "git blog")
+  [Modifiablepaper](https://chalgx.github.io)  
+  [Modifiablepaper](https://chalgx.github.io "git blog")
   ```
 
 * 출력 결과
   
-  [DtB Blog](https://changx545.github.io)  
-  [DtB Blog](https://changx545.github.io "git blog")
+  [Modifiablepaper](https://chalgx.github.io)  
+  [Modifiablepaper](https://chalgx.github.io "git blog")
 
 ### __8.2 URL과 이메일__
 
@@ -342,13 +342,13 @@ URL에 빈 공백이 있어야 한다면 %20을 삽입해야 함
 * 작성법
 
   ```
-  <https://changx545.github.io>  
+  <https://chalgx.github.io>  
   <example@example.com>
   ```
 
 * 출력 결과
 
-  <https://changx545.github.io>  
+  <https://chalgx.github.io>  
   <example@example.com>
 
 ### __8.3 참조 형식__
@@ -356,16 +356,16 @@ URL에 빈 공백이 있어야 한다면 %20을 삽입해야 함
 * 작성법
 
   ```
-  [DtB Blog][1]
+  [Modifiable][1]
 
-  [1]: https://changx545.github.io
+  [1]: https://chalgx.github.io
   ```
 
 * 출력 결과
 
-  [DtB Blog][1]
+  [Modifiable][1]
 
-  [1]: https://changx545.github.io
+  [1]: https://chalgx.github.io
 
 ***
 

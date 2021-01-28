@@ -1,8 +1,7 @@
 ---
 title: 텀프로젝트의 추억_1.움직이지마
-author: Jang_Hyeoon_Soo
 date: 2021-01-17 
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, term project]
 pin: true
 use_math: true

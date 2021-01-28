@@ -1,8 +1,7 @@
 ---
 title: 캡스톤디자인(졸업작품)의 추억_2.후천적 쌍둥이
-author: Jang_Hyeoon_Soo
 date: 2021-01-19
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true

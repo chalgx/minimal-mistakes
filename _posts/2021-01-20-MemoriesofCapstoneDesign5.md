@@ -1,8 +1,7 @@
 ---
 title: 캡스톤디자인(졸업작품)의 추억_5.이래라 저래라 하는 사람
-author: Jang_Hyeoon_Soo
-date: 2021-01-20 02:00:00
-categories: [Writing, Essay]
+date: 2021-01-20 
+categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true

@@ -1,8 +1,7 @@
 ---
 title: 대학 생활을 위한 조언_6.방학 때 뭐 하지
-author: Jang_Hyeoon_Soo
-date: 2021-01-28
-categories: [Writing, Essay]
+date: 2021-01-29
+categories: [Essay]
 tags: [essay, university, college, advice]
 pin: true
 use_math: true

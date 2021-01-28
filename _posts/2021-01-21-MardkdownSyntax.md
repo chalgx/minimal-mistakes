@@ -1,6 +1,5 @@
 ---
 title: 마크다운 문법
-author: Jang_Hyeoon_Soo
 date: 2021-01-21
 categories: [manual]
 tags: [manual, markdown, syntax]

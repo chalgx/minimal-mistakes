@@ -1,7 +1,6 @@
 ---
 title: 대학 생활을 위한 조언_7.취업에 도움이 될까?
-author: Jang_Hyeoon_Soo
-date: 2021-01-28
+date: 2021-01-30
 categories: [Writing, Essay]
 tags: [essay, university, college, advice]
 pin: true

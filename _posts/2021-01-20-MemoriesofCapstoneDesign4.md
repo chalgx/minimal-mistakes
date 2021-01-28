@@ -1,8 +1,7 @@
 ---
 title: 캡스톤디자인(졸업작품)의 추억_4.작업을 거꾸로 거슬러 오르는 우리들
-author: Jang_Hyeoon_Soo
-date: 2021-01-20 01:00:00
-categories: [Writing, Essay]
+date: 2021-01-20
+categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true

@@ -1,8 +1,7 @@
 ---
 title: 밀그램 실험 - 권위에 대한 복종 실험
-author: Jang_Hyeoon_Soo
 date: 2020-08-23 
-categories: [Knowledge, Psychology]
+categories: [Psychology]
 tags: [Milgram, psychology]
 pin: true
 use_math: true

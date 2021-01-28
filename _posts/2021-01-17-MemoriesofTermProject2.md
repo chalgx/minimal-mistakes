@@ -1,8 +1,7 @@
 ---
 title: 텀프로젝트의 추억_2.미루지마
-author: Jang_Hyeoon_Soo
-date: 2021-01-17 01:00:00
-categories: [Writing, Essay]
+date: 2021-01-17
+categories: [Essay]
 tags: [essay, term project]
 pin: true
 use_math: true

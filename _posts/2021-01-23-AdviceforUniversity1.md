@@ -1,8 +1,7 @@
 ---
 title: 대학 생활을 위한 조언_1. 전략 수립
-author: Jang_Hyeoon_Soo
 date: 2021-01-23
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, university, college, advice]
 pin: true
 use_math: true

@@ -1,8 +1,7 @@
 ---
 title: 대학 생활을 위한 조언_2. 수강 신청
-author: Jang_Hyeoon_Soo
 date: 2021-01-24
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, university, college, advice]
 pin: true
 use_math: true

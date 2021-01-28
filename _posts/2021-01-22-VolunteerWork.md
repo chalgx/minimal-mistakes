@@ -1,8 +1,7 @@
 ---
 title: 봉사활동을 하며
-author: Jang_Hyeoon_Soo
 date: 2021-01-22
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, volunteer work]
 pin: true
 use_math: true

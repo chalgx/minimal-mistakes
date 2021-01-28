@@ -1,9 +1,7 @@
 ---
 title: 공대생을 위한 효율적인 공부법_0.시작하면서
-subtitle: example
-author: Jang_Hyeoon_Soo
 date: 2019-07-31
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, study]
 pin: true
 use_math: true

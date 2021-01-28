@@ -1,8 +1,7 @@
 ---
 title: 텀프로젝트의 추억_5.잘난척
-author: Jang_Hyeoon_Soo
 date: 2021-01-17 04:00:00
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, term project]
 pin: true
 use_math: true

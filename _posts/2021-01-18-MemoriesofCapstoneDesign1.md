@@ -1,8 +1,7 @@
 ---
 title: 캡스톤디자인(졸업작품)의 추억_1.깊게 좀 생각해라
-author: Jang_Hyeoon_Soo
 date: 2021-01-18
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true

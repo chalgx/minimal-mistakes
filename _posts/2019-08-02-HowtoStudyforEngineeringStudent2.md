@@ -1,8 +1,7 @@
 ---
 title: 공대생을 위한 효율적인 공부법_2.심리
-author: Jang_Hyeoon_Soo
-date: 2019-08-02 01:00:00
-categories: [Writing, Essay]
+date: 2019-08-02
+categories: [Essay]
 tags: [essay, study]
 pin: true
 use_math: true

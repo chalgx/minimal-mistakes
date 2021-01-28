@@ -1,8 +1,7 @@
 ---
 title: 캡스톤디자인(졸업작품)의 추억_6.같은 작품 다른 평가
-author: Jang_Hyeoon_Soo
-date: 2021-01-20 03:00:00
-categories: [Writing, Essay]
+date: 2021-01-20
+categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true

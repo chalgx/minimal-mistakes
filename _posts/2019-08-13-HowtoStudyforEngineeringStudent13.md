@@ -1,8 +1,7 @@
 ---
 title: 공대생을 위한 효율적인 공부법_13.지필고사 & 수시고사
-author: Jang_Hyeoon_Soo
 date: 2019-08-13
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, study]
 pin: true
 use_math: true

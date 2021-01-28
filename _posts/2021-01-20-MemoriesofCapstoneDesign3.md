@@ -1,8 +1,7 @@
 ---
 title: 캡스톤디자인(졸업작품)의 추억_3.환상을 팔아라
-author: Jang_Hyeoon_Soo
 date: 2021-01-20
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true

@@ -1,8 +1,7 @@
 ---
 title: 공대생을 위한 효율적인 공부법_14.발표
-author: Jang_Hyeoon_Soo
 date: 2019-08-14
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, study]
 pin: true
 use_math: true

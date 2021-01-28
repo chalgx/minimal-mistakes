@@ -1,8 +1,7 @@
 ---
 title: 공대생을 위한 효율적인 공부법_8.복습
-author: Jang_Hyeoon_Soo
 date: 2019-08-08
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, study]
 pin: true
 use_math: true

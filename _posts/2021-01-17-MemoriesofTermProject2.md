@@ -5,11 +5,12 @@ categories: [Essay]
 tags: [essay, term project]
 pin: true
 use_math: true
+toc: true
 ---
 
 1학년 2학기. 객체지향언어 수업을 들었다. 배우는 건 C++이었다. 중간고사, 과제, 기말고사 외에도 별도로 텀프로젝트가 있었다. 개인별 제출이고 성적을 메기는 프로그램을 만드는 것이었다. 난이도가 살짝 높은 과제 수준으로 크게 어려운 건 아니었다.
 
-*****
+***
 
 ## __입대__
 
@@ -25,10 +26,22 @@ use_math: true
   
 밤에 부모님 차를 타고 가는 와중에도 내가 군대에 간다는 것이 실감이 나지 않았다. 밖을 보면서 멍하니 있는데 카톡이 왔다. 동기였다. 객체지향언어 텀프로젝트 과제에 대해 물어볼 것이 있다고 했다.  
   
-*****
+***
 
 ## __교훈__
 
  텀프로젝트가 있다면 미리 준비해서 최대한 빨리 끝내자. 과제도 마찬가지다.  
-   
+
  지금 바쁘다고 일을 미뤄서는 안 된다. 나중에는 더 바빠진다. 학기 중에 가장 여유가 있는 때는 학기 초이다. 첫 시간에 진도를 나가지 않는 과목들이 있고, 과제도 보통 내주지 않는다. 점점 학기가 진행되면 공부할 것도 생기고, 과제도 해야 하고, 시험도 준비해야 한다. 한 번 바빠지면 다시 여유가 생기는 시기가 없어진다. 보통 중간고사가 1주에 다 끝나지 않고 여러 주에 나눠서 시험을 본다. 그러다 보니 중간고사가 끝나면 바로 미뤄놨던 과제와 다른 과목 공부를 해야 한다. 기말고사가 모두 끝날 때까지 쉴 틈이 없다.  
+
+***
+
+## __텀 프로젝트의 추억 글__
+
+- [1.움직이지마](https://chalgx.github.io/essay/MemoriesofTermProject1)
+- [2.미루지마](https://chalgx.github.io/essay/MemoriesofTermProject2)
+- [3.원래 한 번에 안 되는 거야](https://chalgx.github.io/essay/MemoriesofTermProject3)
+- [4.안 배웠는데](https://chalgx.github.io/essay/MemoriesofTermProject4)
+- [5.잘난척](https://chalgx.github.io/essay/MemoriesofTermProject5)
+- [6.고행 그리고 기도](https://chalgx.github.io/essay/MemoriesofTermProject6)
+- [7.에라 모르겠다](https://chalgx.github.io/essay/MemoriesofTermProject7)

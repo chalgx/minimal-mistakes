@@ -5,6 +5,7 @@ categories: [Essay]
 tags: [essay, term project]
 pin: true
 use_math: true
+toc: true
 ---
 
 2학년 2학기 전자회로 2를 수강했다. 텀 프로젝트로 BJT를 이용해서 증폭기를 만드는 것이 과제였다. 오디오 입력을 받고 스피커로 출력을 해서 진짜 소리가 나야 했다.  
@@ -13,7 +14,7 @@ use_math: true
   
 만능기판에 BJT와 저항, 커패시터, 연결 잭 등을 직접 납땝해야 했다. 관련된 이론은 1학기 때 배웠었다. Chip 형태의 제품이나 OP-AMP는 사용하면 안 된다는 조건이 있었다.  
 
-*****
+***
 
 ## __설계도 구하기__
 
@@ -21,7 +22,7 @@ use_math: true
   
 구글에서 검색하고 며칠 동안 조사에만 매달렸다. 보통은 chip이나 OP-AMP를 쓰는 것이 많았다. BJT를 사용하고 지나치게 복잡한 것들을 제외해서 쓸만한 것들을 선정했다.  
 
-*****
+***
 
 ## __구매__
 
@@ -29,7 +30,7 @@ use_math: true
   
 단지 토요일에 영업을 대부분 안 한다는 것을 모르고 찾아가서 원하는 것들을 구매하지 못했다. 나중에 용산에 다시 가는 친구에게 대신 사달라고 부탁했다.  
 
-*****
+***
 
 ## __장비빨__
 
@@ -45,7 +46,7 @@ use_math: true
   
 회로도랑 만능기판을 훑어보며 원인을 찾아 나섰고 잘못 납땜 된 부분을 찾았다. 수정을 좀 해보려 했지만 포기했다. 이미 만능기판에 여유 공간이 없었고, 이래저래 부서져 있었기 때문이다.  
 
-*****
+***
 
 ## __재구매, 재납땜__
 
@@ -53,14 +54,26 @@ use_math: true
   
 다시 납땜했고 결국 완성을 했다. 소리는 깨끗하지 않았고 잡음이 심했다. 마음 같아서는 더 성능을 개선하고 싶었지만, 시간이 없었다.  
 
-*****
+***
 
 ## __평가__
 
 다행히도 소리가 나면 좋게 점수를 주시는 모양이었다. 트랜지스터를 여러 개 사용해서 가산점을 받았다. 트랜지스터 1개를 사용했는데도 잘 증폭되고 소리도 깔끔한 사람도 있었다. 대부분은 소리가 잘, 깔끔하게 나왔다.  
 
-*****
+***
 
 ## __교훈__
 
 한 번에 완성될 거라는 생각을 하지 말고 부품, 시간 등을 여유 있게 준비해야 한다.  
+
+***
+
+## __텀 프로젝트의 추억 글__
+
+- [1.움직이지마](https://chalgx.github.io/essay/MemoriesofTermProject1)
+- [2.미루지마](https://chalgx.github.io/essay/MemoriesofTermProject2)
+- [3.원래 한 번에 안 되는 거야](https://chalgx.github.io/essay/MemoriesofTermProject3)
+- [4.안 배웠는데](https://chalgx.github.io/essay/MemoriesofTermProject4)
+- [5.잘난척](https://chalgx.github.io/essay/MemoriesofTermProject5)
+- [6.고행 그리고 기도](https://chalgx.github.io/essay/MemoriesofTermProject6)
+- [7.에라 모르겠다](https://chalgx.github.io/essay/MemoriesofTermProject7)

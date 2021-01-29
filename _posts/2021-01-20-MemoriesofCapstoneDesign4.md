@@ -5,6 +5,7 @@ categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true
+toc: true
 ---
 
 텀프로젝트나 공모전을 준비하면서 개발과정을 기억하고 추적할 필요가 있다는 것을 알았다. 그래서 졸업작품을 만들기 위해서는 아예 Git을 사용해야겠다고 다짐했었다. github 아이디를 만들고 깃을 다운로드받았다.  
@@ -15,7 +16,7 @@ use_math: true
   
 하지만 팀원이 사용할 줄 모르니 큰 의미는 없었다. 그냥 적절한 시점에, 적절한 버전들을 백업하는 용도로 끝났다. 그래도 덕분에 손쉽게 프로젝트를 관리할 수 있었고 불상사가 생기는 일을 미연에 방지했다.
   
-*****
+***
 
 ## __회귀__
 
@@ -23,7 +24,7 @@ use_math: true
   
 또 여러 사람이 동시에 작업할 수 있는 환경도 조성되어야 한다.  
 
-*****
+***
 
 ## __다양한 툴__
 
@@ -37,7 +38,7 @@ Git을 이용하면 소스 코드 관리가 가능하지만, 하드웨어적 요
   
 회로도를 그리고, 만약 만능기판에 납땜한다면 관련 툴을 사용해서 만능기판 회로도를 별도로 그려야 한다.  
 
-*****
+***
 
 ## __인수인계서__
 
@@ -56,3 +57,14 @@ Git을 이용하면 소스 코드 관리가 가능하지만, 하드웨어적 요
 단시간 내에 끝내기 위해서는 먼저 끝낸 사람이 다른 팀원을 도와야 한다. 이때 설명서를 만들어서 다른 팀원에게 맡기면 수준에 상관없이 일을 진행할 수 있고, 가장 어려운 문제에 가장 실력이 좋은 팀원을 투입할 수 있다.  
   
 혼자서 프로젝트를 진행해도 마찬가지이다. 했던 프로젝트를 모두 기억할 수는 없다. 그럴 때 이런 설명서는 큰 힘을 발휘한다. 자신이 과거에 정말 다양한 것을 알고 있었다는 사실에 놀라며 편하게 일을 할 수 있다.  
+
+***
+
+## __캡스톤디자인(졸업작품)의 추억 글__
+
+- [1.깊게 좀 생각해라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign1)
+- [2.후천적 쌍둥이](https://chalgx.github.io/essay/MemoriesofCapstoneDesign2)
+- [3.환상을 팔아라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign3)
+- [4.작업을 거꾸로 거슬러 오르는 우리들](https://chalgx.github.io/essay/MemoriesofCapstoneDesign4)
+- [5.이래라 저래라 하는 사람](https://chalgx.github.io/essay/MemoriesofCapstoneDesign5)
+- [6.같은 작품 다른 평가](https://chalgx.github.io/essay/MemoriesofCapstoneDesign6)

@@ -5,13 +5,14 @@ categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true
+toc: true
 ---
 
 개발하다 보면 막히기 마련이다. 문제를 해결하기 위해 이것저것 검색하다 보면 구글 찬양론자로 다시 태어난다. 그리고 영어의 중요성을 뼈저리게 느낀다.  
   
 돌이켜보면 졸업작품을 만들면서 안 막히는 부분이 없었던 것 같다. 대수롭지 않은 것들마저도 쉽지 않았다.  
 
-*****
+***
 
 ## __이래라 저래라 하는 사람__
 
@@ -23,7 +24,7 @@ use_math: true
   
 안타깝게도 다른 팀원들은 나에게 그런 믿음을 가지고 있었다. 소스 코드를 작성하는 시간보다 SD카드를 포맷하고 구글에서 검색하는 시간이 긴 나에게 말이다.  
 
-*****
+***
 
 ## __되는 게 없다__
 
@@ -61,7 +62,7 @@ use_math: true
   
 뭔가 하려 하면 막히고, 검색을 해봐도 모르겠고, 그러면 밖에 나가서 톱으로 아크릴을 잘랐다. 외형을 만들기 위해서였다. 톱이 앞뒤로 오갈 때마다 자잘한 부스러기들이 바람에 휘날리기도 하고 아크릴판이나 옷에 달라붙어서 떨어지지 않았다. 팔이 너무 아프거나 추워서 못 견디겠으면 다신 연구실에 와서 다시 키보드를 두들겼고 도서관에서 관련 책들을 빌렸다.  
 
-*****
+***
 
 ## __꾸역꾸역 하면 되기 시작한다__
 
@@ -69,7 +70,7 @@ use_math: true
   
 무수한 삽질과 공부를 하며 꾸역꾸역하니까 하나둘 되기 시작했다. 때로는 방향을 바꾸고, 때때로 포기하기도 했다. 그렇게 해서 결국 도착지에 올 수 있었다.  
 
-*****
+***
 
 ## __성장 중__
 
@@ -86,3 +87,14 @@ use_math: true
 공부하면 할수록 모르는 것이 많다는 것을 알았고, 모든 것을 알 수는 없다는 것을 깨달았다. 그래도 새로운 문제에 직면했을 때 전보다 빠르게 원인을 파악해서 무엇을 공부하면 될지 알았다.  
   
 고생한 만큼 기억에서 지워지지 않는다. 괴로웠던 만큼 아는 게 많아진다.  
+
+***
+
+## __캡스톤디자인(졸업작품)의 추억 글__
+
+- [1.깊게 좀 생각해라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign1)
+- [2.후천적 쌍둥이](https://chalgx.github.io/essay/MemoriesofCapstoneDesign2)
+- [3.환상을 팔아라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign3)
+- [4.작업을 거꾸로 거슬러 오르는 우리들](https://chalgx.github.io/essay/MemoriesofCapstoneDesign4)
+- [5.이래라 저래라 하는 사람](https://chalgx.github.io/essay/MemoriesofCapstoneDesign5)
+- [6.같은 작품 다른 평가](https://chalgx.github.io/essay/MemoriesofCapstoneDesign6)

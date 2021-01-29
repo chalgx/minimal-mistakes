@@ -5,6 +5,7 @@ categories: [Essay]
 tags: [essay, university, college, advice]
 pin: true
 use_math: true
+toc: true
 ---
 
 _※ 본 내용은 필자의 개인적인 경험과 생각을 기반으로 작성한 것으로 독자의 대학, 전공, 가치관 등에 따라 선택해서 받아들이길 바람._  
@@ -115,5 +116,16 @@ MT는 학기 중에 간다. 그리고 출석 인정이 안 될 수 있다는 단
 
 성적이 좋진 않지만 연애하는 걸 후회하지 않는 사람도 있다. 아마 공부를 해서 얻을 수 있는 만족보다 연애를 통해 얻는 것이 훨씬 크기 때문일 것이다.
 
-연애하고 싶다면 기본적으로 해야 하는 노력이 있다. 자신을 가꾸고, 많은 사람을 만나며 친해져야 한다. 여러 번 시도해보고 문제점을 점차 고쳐나가도록 한다.
+CC를 하면 사랑하는 사람과 매일 볼 수 있다는 장점이 있지만, 헤어진 후에도 매일 봐야 한다는 단점이 있다. 학교 친구들 또한 겹치는데 한 사람이 다른 사람에게 안 좋은 말을 하면 그 소문은 증폭되어서 퍼진다.
 
+***
+
+## __캡스톤디자인(졸업작품)의 추억 글__
+
+- [1.전략 수립](https://chalgx.github.io/essay/AdviceforUniversity1)
+- [2.수강 신청](https://chalgx.github.io/essay/AdviceforUniversity2)
+- [3.말할 줄 아는 감자](https://chalgx.github.io/essay/AdviceforUniversity3)
+- [4.본전 뽑기](https://chalgx.github.io/essay/AdviceforUniversity4)
+- [5.낭만](https://chalgx.github.io/essay/AdviceforUniversity5)
+- [6.방학 때 뭐 하지](https://chalgx.github.io/essay/AdviceforUniversity6)
+- [7.취업에 도움이 될까?](https://chalgx.github.io/essay/AdviceforUniversity7)

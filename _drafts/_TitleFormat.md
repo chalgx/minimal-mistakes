@@ -1,16 +1,11 @@
 ---
-title: 학벌과 객관성
-subtitle: 
+title: 
 date: 
-categories: [Writing, Essay]
-tags: [essay, capstone design]
+categories: []
+tags: []
 pin: true
 math: true
-Mermaid: true
-toc: false
-comments: false
-image: /path/to/image-file
-img_cdn: https://cdn.com
+toc: true
 ---
 
 ## __1. 제목1__

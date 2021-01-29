@@ -5,6 +5,7 @@ categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true
+toc: true
 ---
 
 보통 학사 학위 취득을 위해서 논문을 요구하는 경우가 많으나 공대는 캡스톤 디자인이라 해서 무언가를 제작해서 평가받는 것이 더 흔하다. 물론 제작한 것을 기반으로 논문도 써야 한다.  
@@ -15,7 +16,7 @@ use_math: true
   
 그래서 단순히 졸업을 위한 것이 아니라 상을 받는 것을 목표로 일찍부터 준비를 시작했다.  
 
-*****
+***
 
 ## __주제를 정하기 위한 자료조사__
 
@@ -27,7 +28,7 @@ use_math: true
   
 교수님은 학생들이 발표하는 것을 보시며 몇 가지 단순한 피드백을 주셨다. 그중 하나가 “깊게 생각해라”였다.  
 
-*****
+***
 
 ## __깊게 생각하기__
 
@@ -116,10 +117,21 @@ use_math: true
   
     만약 자료조사에서 관련된 개발 내용이 전혀 혹은 거의 없다면 보험 없이 프로젝트를 진행하는 것이므로 곰곰이 생각해봐야 한다.  
 
-*****
+***
 
 기왕이면 목표를 정하면 좋을 것이다. 이런 프로젝트를 수행하는 과정을 거치면서 본인이 얻고 싶은 것이 무엇인지 고민해볼 필요가 있다.  
   
 자신이 관심 있는 분야를 더 익히기 위해서인지, 자신이 할 줄 아는 것을 보여주고 싶은 것인지, 상을 받고 싶은 것인지, 특허를 내고 싶은 것인지, 창업을 하거나 기술이전을 하고 싶은 것인지, 학술대회나 학회지에 논문 제출을 위한 것인지 말이다.  
   
-모든 걸 다 하면 물론 좋겠지만, 현실적으로 쉽지 않다. 따라서 우선순위를 메겨야 한다. 본인이 원하는 진로를 정했다면 별로 어렵지 않게 답이 나올 것이다.  
+모든 걸 다 하면 물론 좋겠지만, 현실적으로 쉽지 않다. 따라서 우선순위를 메겨야 한다. 본인이 원하는 진로를 정했다면 별로 어렵지 않게 답이 나올 것이다.
+
+***
+
+## __캡스톤디자인(졸업작품)의 추억 글__
+
+- [1.깊게 좀 생각해라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign1)
+- [2.후천적 쌍둥이](https://chalgx.github.io/essay/MemoriesofCapstoneDesign2)
+- [3.환상을 팔아라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign3)
+- [4.작업을 거꾸로 거슬러 오르는 우리들](https://chalgx.github.io/essay/MemoriesofCapstoneDesign4)
+- [5.이래라 저래라 하는 사람](https://chalgx.github.io/essay/MemoriesofCapstoneDesign5)
+- [6.같은 작품 다른 평가](https://chalgx.github.io/essay/MemoriesofCapstoneDesign6)

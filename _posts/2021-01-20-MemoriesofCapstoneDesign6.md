@@ -5,11 +5,12 @@ categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true
+toc: true
 ---
 
 다양한 공모전을 조사하고 실제 참여하면서 같은 혹은 아주 비슷한 작품인데 평가가 천차만별인 경우를 종종 볼 수 있었다.  
 
-*****
+***
 
 ## __대회 특성__
 
@@ -21,7 +22,7 @@ use_math: true
   
 특허라면 기존에 있는 기술 여러 가지를 단순히 융합한 것보다 하나의 기술이라도 더 심층적으로 파고들어서 쉽게 생각해내지 못했을 것을 만드는 것이 좋다.  
 
-*****
+***
 
 ## __심사위원__
 
@@ -31,7 +32,7 @@ use_math: true
   
 또한 사람마다 관심사가 다르기 때문에 작품의 가치 자체의 평가가 다를 수밖에 없다.  
 
-*****
+***
 
 ## __평가 요소__
   
@@ -43,7 +44,7 @@ use_math: true
   
 심사 위원들도 작품 그 자체의 평가가 주관적일 수밖에 없다는 것을 안다. 비슷한 수준의 작품 중에서 순위를 매겨야 한다면 이런 정량적인 지표를 활용하는 경우가 많다.  
 
-*****
+***
 
 ## __운__
 
@@ -63,7 +64,7 @@ use_math: true
   
 그런 것 외에도 정말 운 때문에 다른 결과가 나오기도 한다는 점을 명심해야 한다. 좋은 결과를 얻지 못했다고 실망하고 포기할 필요는 없다.  
 
-*****
+***
 
 ## __분산 투자__
 
@@ -80,3 +81,14 @@ IT 분야라면 한이음이 있다. 멘토링에 참여하면 공모전에 참�
 학회마다 학술대회에서 학부생 논문을 싣는 트랙이 있다. 졸업작품, 캡스톤 디자인으로 한 것을 논문으로 써서 제출할 수 있다. 학술대회에 참가하려면 돈을 내야 하는데 비용이 만만치는 않다. 이런 학술대회를 지원해주는 프로그램에 참여하는 것이 좋다.  
   
 특허를 알아본다면 특허를 지원해주는 공모전을 신청하는 것이 좋다. 그렇지 않다면 교수님에게 직접 요청해서 학교와 연계된 변리사를 만날 수 있다.  
+
+***
+
+## __캡스톤디자인(졸업작품)의 추억 글__
+
+- [1.깊게 좀 생각해라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign1)
+- [2.후천적 쌍둥이](https://chalgx.github.io/essay/MemoriesofCapstoneDesign2)
+- [3.환상을 팔아라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign3)
+- [4.작업을 거꾸로 거슬러 오르는 우리들](https://chalgx.github.io/essay/MemoriesofCapstoneDesign4)
+- [5.이래라 저래라 하는 사람](https://chalgx.github.io/essay/MemoriesofCapstoneDesign5)
+- [6.같은 작품 다른 평가](https://chalgx.github.io/essay/MemoriesofCapstoneDesign6)

@@ -5,11 +5,12 @@ categories: [Essay]
 tags: [essay, term project]
 pin: true
 use_math: true
+toc: true
 ---
 
 3학년 2학기. 영상신호처리 과목을 수강했다. 텀 프로젝트는 주어진 이미지의 노이즈를 매스매티카 툴을 이용해서 줄이는 것이었다. 결과로 나오는 PSNR을 계산해서 클수록 좋은 점수를 받았다. 개인별 제출이었다.  
 
-*****
+***
 
 ## __논리적으로 완벽한 답__
 
@@ -17,7 +18,7 @@ use_math: true
   
 이론적으로는 완벽하나 교수님이 원하는 답안은 아닐 것 같았다. 그래도 혹시 모르니 보고서에는 언급은 해놨다. 읽진 않으셨겠지만.  
 
-*****
+***
 
 ## __삽질__
 
@@ -29,7 +30,7 @@ use_math: true
   
 값을 일일이 바꿔가며 가장 높은 PSNR 수치가 나올 때까지 삽질했다.  
 
-*****
+***
 
 ## __잘난 척__
   
@@ -37,7 +38,7 @@ use_math: true
   
 그 말을 듣고 가만히 있을 수 없었다. 잘난 척을 하고 싶어서 견딜 수 없었다. 하지만 이내 현실적인 벽에 부딪혔다. 난 프로그래밍을 잘 못 하고, 매스매티카도 잘 쓸 줄 모르며, 다른 텀 프로젝트도 해야 했다.  
 
-*****
+***
 
 ## __양 많아서 손해 보지는 않을 것 같으니__
 
@@ -47,16 +48,28 @@ use_math: true
   
 둘 중 어느 것을 제출할까 고민하다가 그냥 둘 다 제출했다. 이것저것 다양하게 해본 학생에게 감점을 줄 것 같지는 않았다.  
 
-*****
+***
 
 ## __평가__
 
 최고 수준에 해당하는 점수를 받았다. 아마 내 마음대로 했던 버전이 수치가 높아서 그렇게 주신 모양이다.
 
-*****
+***
 
 ## __교훈__
 
 단순히 남에게 잘 보이기 위해 시간을 버리지 말자. 다른 할 일이 없으면 모르겠으나, 해야 하는 일이 잔뜩 쌓여 있다면 과감하게 포기해야 한다. 어차피 나중에 아무도 기억 못 한다. 그나마 남는 건 전체 평점이다.  
 
 이때 자존심을 굽히지 않고 멋진 걸 만들려고 했다면 이 과목은 물론이고 3학년 2학기 전체 평점이 수직으로 하락했을 것이다. 또 이것은 전체 평점에도 큰 영향을 주었을 것이다. 그리고 그것만 기억에 남아서 괴롭고 후회했을 것이다.
+
+***
+
+## __텀 프로젝트의 추억 글__
+
+- [1.움직이지마](https://chalgx.github.io/essay/MemoriesofTermProject1)
+- [2.미루지마](https://chalgx.github.io/essay/MemoriesofTermProject2)
+- [3.원래 한 번에 안 되는 거야](https://chalgx.github.io/essay/MemoriesofTermProject3)
+- [4.안 배웠는데](https://chalgx.github.io/essay/MemoriesofTermProject4)
+- [5.잘난척](https://chalgx.github.io/essay/MemoriesofTermProject5)
+- [6.고행 그리고 기도](https://chalgx.github.io/essay/MemoriesofTermProject6)
+- [7.에라 모르겠다](https://chalgx.github.io/essay/MemoriesofTermProject7)

@@ -5,6 +5,7 @@ categories: [Essay]
 tags: [essay, term project]
 pin: true
 use_math: true
+toc: true
 ---
 
 ## __발단__
@@ -13,7 +14,7 @@ use_math: true
   
 이미 강의 계획서에 다 적혀 있었던 내용이었고, 수시고사나 발표가 있으면 평소에도 공부하는 나에겐 오히려 이점으로 작용하리라 생각해서 그냥 들었다.  
 
-*****
+***
 
 ## __전개__
 
@@ -23,7 +24,7 @@ use_math: true
   
 하지만 진도가 느려서 실습 시간은 늘 이론 수업으로 대체되었다. 항상 4시간을 꽉 채워서 수업했지만 부족했다.
 
-*****
+***
 
 ## __위기__
 
@@ -35,7 +36,7 @@ use_math: true
   
 보여준 예시 정도까지 할 필요는 없고 적당히 해도 된다고 하셨지만, 중간, 기말 점수가 불안했던 난 대충할 수 없었다.  
 
-*****
+***
 
 ## __절정__
 
@@ -53,7 +54,7 @@ use_math: true
   
 며칠 동안 오셀로 프로그램을 수정해서 소켓 통신으로 구현하는 것에 매달렸는데 결국 포기하고 오목을 하는 것으로 결정했다. 난 프로그래밍을, 팀원은 보고서를 담당하기로 했다.  
   
-*****
+***
 
 ## __결말__
 
@@ -67,14 +68,26 @@ use_math: true
   
 2개의 클라이언트가 접속되면 게임을 시작한다. 흑백은 들어온 순서에 따라 배정된다. 오목의 승패는 서버에서 판정한다. 게임이 종료되면 그에 따라서 전적이 바뀐다. 이후에 또 재게임이 가능하다. 이때는 이전 게임의 승패에 따라 흑백이 결정된다.  
 
-*****
+***
 
 ## __평가__
 
 정확한 점수는 모르겠으나, 나나 팀원이나 최종적으로 좋은 점수를 받은 걸 보면 좋게 평가받은 듯하다.
 
-*****
+***
 
 ## __교훈__
 
 자신이 했던 프로젝트는 남겨두자. 나중에 사용할 수 있다. 그리고 배우지도 않은 거로 프로젝트를 진행하는 경우도 있다. 예습을 두텁게 해두는 보험이 필요하다. 무엇보다도 때로는 정말 피해야 할 과목도 존재한다는 것을 명심하자.
+
+***
+
+## __텀 프로젝트의 추억 글__
+
+- [1.움직이지마](https://chalgx.github.io/essay/MemoriesofTermProject1)
+- [2.미루지마](https://chalgx.github.io/essay/MemoriesofTermProject2)
+- [3.원래 한 번에 안 되는 거야](https://chalgx.github.io/essay/MemoriesofTermProject3)
+- [4.안 배웠는데](https://chalgx.github.io/essay/MemoriesofTermProject4)
+- [5.잘난척](https://chalgx.github.io/essay/MemoriesofTermProject5)
+- [6.고행 그리고 기도](https://chalgx.github.io/essay/MemoriesofTermProject6)
+- [7.에라 모르겠다](https://chalgx.github.io/essay/MemoriesofTermProject7)

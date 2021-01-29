@@ -5,6 +5,7 @@ categories: [Essay]
 tags: [essay, university, college, advice]
 pin: true
 use_math: true
+toc: true
 ---
 
 _※ 본 내용은 필자의 개인적인 경험과 생각을 기반으로 작성한 것으로 독자의 대학, 전공, 가치관 등에 따라 선택해서 받아들이길 바람._  
@@ -76,3 +77,15 @@ _※ 본 내용은 필자의 개인적인 경험과 생각을 기반으로 작�
 학교 계정을 통해서 마이크로소프트 회사의 오피스 프로그램이나 원드라이브 혹은 구글 드라이브와 같은 웹 클라우드를 제공하는 곳이 있다.
 
 또한 매틀랩과 같이 유료프로그램을 사용할 수 있게 학생 라이센스를 제공하기도 한다.
+
+***
+
+## __캡스톤디자인(졸업작품)의 추억 글__
+
+- [1.전략 수립](https://chalgx.github.io/essay/AdviceforUniversity1)
+- [2.수강 신청](https://chalgx.github.io/essay/AdviceforUniversity2)
+- [3.말할 줄 아는 감자](https://chalgx.github.io/essay/AdviceforUniversity3)
+- [4.본전 뽑기](https://chalgx.github.io/essay/AdviceforUniversity4)
+- [5.낭만](https://chalgx.github.io/essay/AdviceforUniversity5)
+- [6.방학 때 뭐 하지](https://chalgx.github.io/essay/AdviceforUniversity6)
+- [7.취업에 도움이 될까?](https://chalgx.github.io/essay/AdviceforUniversity7)

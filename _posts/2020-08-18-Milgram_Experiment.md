@@ -5,6 +5,7 @@ categories: [Psychology]
 tags: [Milgram, psychology]
 pin: true
 use_math: true
+toc: true
 ---
 
 ## __초록, 요약__

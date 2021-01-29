@@ -5,6 +5,7 @@ categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true
+toc: true
 ---
 
 회사에서 R&D에 투자하는 것을 꺼리는 이유가 많은 돈을 쓰면서 그만큼의 수익을 낼 수 있다는 확신이 없기 때문이라고 들었다. 다시 말하면 개발에는 큰돈이 필요하다는 것이다. 이건 졸업작품도 예외가 아니다.  
@@ -13,7 +14,7 @@ use_math: true
   
 졸업작품 주제를 정하고 이것저것 알아보니 수백만 원의 돈이 필요했다. 학부에서 지원해주는 금액은 십수만 원이라고 들었다. 어디선가 돈을 추가로 받아야 했다. 이것저것 알아보면서 각종 지원금을 받았고 결과적으로 대부분을 충당할 수 있었다.  
 
-*****
+***
 
 ## __캡스톤 디자인 지원__
 
@@ -23,7 +24,7 @@ use_math: true
   
 외부에서 캡스톤 디자인 지원을 받을 수 있는 경우가 있으니 알아보면 좋을 것이다.  
 
-*****
+***
 
 ## __공모전__
 
@@ -53,7 +54,7 @@ use_math: true
   
 근본적인 그림 실력을 향상하는 것도 글쓰기와 마찬가지다. 많이 그려보고, 남이 그린 것도 보고, 계속 수정해나가야 한다.  
 
-*****
+***
 
 ## __지도교수님께 요청__
 
@@ -69,7 +70,7 @@ use_math: true
   
 교수님이 하시는 과제나 산학연계로 할 수 있는 것이 있는지 알아보는 방법도 있다. 학부 연구생이거나 현장실습, 인턴 등의 경험이 있다면 충분히 고려할 가치가 있는 선택지다.  
 
-*****
+***
 
 ## __사비__
 
@@ -78,3 +79,14 @@ use_math: true
 돈을 충당하기 위해 물주를 탐색하는 경우도 간혹 있다. 돈을 많이 쓸 수 있는 사람을 찾아 팀원으로 끌어들이는 것이다. 돈이 많은 누군가가 비용을 다 충단하는 것 자체는 문제가 안 된다. 하지만 보통 이 경우 돈을 지원하는 사람은 개발에 빠지는 것을 전제로 하는 경우가 많다. 이건 윤리적으로 어긋나는 행위이다.  
   
 말할 필요도 없이 아예 졸업작품을 구매하는 행위 또한 부정행위다.  
+
+***
+
+## __캡스톤디자인(졸업작품)의 추억 글__
+
+- [1.깊게 좀 생각해라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign1)
+- [2.후천적 쌍둥이](https://chalgx.github.io/essay/MemoriesofCapstoneDesign2)
+- [3.환상을 팔아라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign3)
+- [4.작업을 거꾸로 거슬러 오르는 우리들](https://chalgx.github.io/essay/MemoriesofCapstoneDesign4)
+- [5.이래라 저래라 하는 사람](https://chalgx.github.io/essay/MemoriesofCapstoneDesign5)
+- [6.같은 작품 다른 평가](https://chalgx.github.io/essay/MemoriesofCapstoneDesign6)

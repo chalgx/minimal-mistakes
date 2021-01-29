@@ -6,9 +6,7 @@ categories: [Manual]
 tags: [manual, github]
 pin: true
 math: false
-Mermaid: false
-toc: false
-comments: false
+toc: true
 ---
 
 ## __1. 가입하기__

@@ -5,6 +5,7 @@ categories: [manual]
 tags: [manual, markdown, syntax]
 pin: true
 use_math: true
+toc: true
 ---
 
 ※ 마크다운은 표준이 없기 때문에 적용 결과가 다를 수 있음

@@ -1,15 +1,16 @@
 ---
-title: 텀프로젝트의 추억_7.에라 모르겠다.
+title: 텀프로젝트의 추억_7.에라 모르겠다
 date: 2021-01-17 06:00:00
 categories: [Essay]
 tags: [essay, term project]
 pin: true
 use_math: true
+toc: true
 ---
 
 4학년 1학기. 리눅스 시스템 설계 과목이었다. i.mx6q를 기반으로 한 보드에 프로그래밍하는 텀 프로젝트였다. 주제는 자유였다. 기본적인 LED, 스위치 사용에 필요한 디바이스 드라이버는 제공됐다. 추가로 주어진 매뉴얼을 통해 GPIO를 사용할 수 있었다.
 
-*****
+***
 
 ## __상쾌한 시작__
 
@@ -21,7 +22,7 @@ use_math: true
   
 코로나 때문에 실습을 많이 하지는 못 했지만, 두렵지 않았다.  
 
-*****
+***
 
 ## __구체적인 기능 설계__
 
@@ -39,7 +40,7 @@ use_math: true
 
 어차피 NFC 카드 리더기도 아두이노로 구현했다. 아두이노를 안 쓴다면 실습 보드에서 I2C뿐 아니라 SPI 통신도 구현해야 했다. 통신 구현 + 디바이스 드라이버 제작까지 해야 했다.
 
-*****
+***
 
 ## __설명서 대로 해도 안 되면 어떻게 해야 하는 지는 안 배웠다.__
 
@@ -47,7 +48,7 @@ use_math: true
   
 그동안의 경험을 종합해서 가장 합리적인 결과를 도출했다. 난 에라 모르겠다 하고 포기했다. 현명한 선택이었다.  
 
-*****
+***
 
 ## __경험하지 못했다면 몰랐을 것__
 
@@ -61,14 +62,26 @@ use_math: true
   
 이후 작업은 순조로웠다. 생각한 대로 잘 진행됐다.  
 
-*****
+***
 
 ## __평가__
 
 교수님은 왜 굳이 무선을 썼냐고 물어보셨다. 나름대로 생각해놓은 답안이 있었는데 당황해서 제대로 대답하지 못했다. 나중에 받은 점수를 보니 점수를 좋게 주신 것 같았다. 배운 디바이스들을 많이 사용하고, GPIO를 한 번에 여러 개 사용한 것에서 가산점을 받은 모양이다.  
 
-*****
+***
 
 ## __교훈__
 
 대학 시절 수업에서 주어지는 마지막 텀 프로젝트였다. 그동안 쌓인 노하우들이 큰 힘을 발휘했다. 수많은 시행착오, 경험을 정리하고 기억해두면 유용하게 쓸 수 있다. 이미 지난 일이라고 기억에서 지워버리지 말고 차곡차곡 잘 쌓아두자.  
+
+***
+
+## __텀 프로젝트의 추억 글__
+
+- [1.움직이지마](https://chalgx.github.io/essay/MemoriesofTermProject1)
+- [2.미루지마](https://chalgx.github.io/essay/MemoriesofTermProject2)
+- [3.원래 한 번에 안 되는 거야](https://chalgx.github.io/essay/MemoriesofTermProject3)
+- [4.안 배웠는데](https://chalgx.github.io/essay/MemoriesofTermProject4)
+- [5.잘난척](https://chalgx.github.io/essay/MemoriesofTermProject5)
+- [6.고행 그리고 기도](https://chalgx.github.io/essay/MemoriesofTermProject6)
+- [7.에라 모르겠다](https://chalgx.github.io/essay/MemoriesofTermProject7)

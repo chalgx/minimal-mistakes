@@ -6,6 +6,7 @@ tags: [essay, capstone design]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 개발하다 보면 막히기 마련이다. 문제를 해결하기 위해 이것저것 검색하다 보면 구글 찬양론자로 다시 태어난다. 그리고 영어의 중요성을 뼈저리게 느낀다.  

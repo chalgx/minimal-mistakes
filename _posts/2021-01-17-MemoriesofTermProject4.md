@@ -6,6 +6,7 @@ tags: [essay, term project]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 ## __발단__

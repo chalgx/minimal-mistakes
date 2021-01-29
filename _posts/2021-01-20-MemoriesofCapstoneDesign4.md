@@ -6,6 +6,7 @@ tags: [essay, capstone design]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 텀프로젝트나 공모전을 준비하면서 개발과정을 기억하고 추적할 필요가 있다는 것을 알았다. 그래서 졸업작품을 만들기 위해서는 아예 Git을 사용해야겠다고 다짐했었다. github 아이디를 만들고 깃을 다운로드받았다.  

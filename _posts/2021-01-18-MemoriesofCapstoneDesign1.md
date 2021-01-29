@@ -6,6 +6,7 @@ tags: [essay, capstone design]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 보통 학사 학위 취득을 위해서 논문을 요구하는 경우가 많으나 공대는 캡스톤 디자인이라 해서 무언가를 제작해서 평가받는 것이 더 흔하다. 물론 제작한 것을 기반으로 논문도 써야 한다.  

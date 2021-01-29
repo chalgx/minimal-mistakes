@@ -6,6 +6,7 @@ tags: [Milgram, psychology]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 ## __초록, 요약__

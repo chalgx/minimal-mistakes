@@ -6,6 +6,7 @@ tags: [essay, volunteer work]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 ## __동기__

@@ -6,6 +6,7 @@ tags: [essay, term project]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 2학년 2학기 전자회로 2를 수강했다. 텀 프로젝트로 BJT를 이용해서 증폭기를 만드는 것이 과제였다. 오디오 입력을 받고 스피커로 출력을 해서 진짜 소리가 나야 했다.  

@@ -6,6 +6,7 @@ tags: [essay, capstone design]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 다양한 공모전을 조사하고 실제 참여하면서 같은 혹은 아주 비슷한 작품인데 평가가 천차만별인 경우를 종종 볼 수 있었다.  

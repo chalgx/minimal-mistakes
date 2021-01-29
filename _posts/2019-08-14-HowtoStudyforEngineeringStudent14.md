@@ -6,6 +6,7 @@ tags: [essay, study]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 ## __수시발표__

@@ -6,6 +6,7 @@ tags: [essay, capstone design]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 회사에서 R&D에 투자하는 것을 꺼리는 이유가 많은 돈을 쓰면서 그만큼의 수익을 낼 수 있다는 확신이 없기 때문이라고 들었다. 다시 말하면 개발에는 큰돈이 필요하다는 것이다. 이건 졸업작품도 예외가 아니다.  

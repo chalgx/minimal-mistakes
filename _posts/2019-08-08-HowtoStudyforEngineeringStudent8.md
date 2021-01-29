@@ -6,6 +6,7 @@ tags: [essay, study]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 ## __복습의 목적__

@@ -6,6 +6,7 @@ tags: [essay, term project]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 4학년 1학기. 리눅스 시스템 설계 과목이었다. i.mx6q를 기반으로 한 보드에 프로그래밍하는 텀 프로젝트였다. 주제는 자유였다. 기본적인 LED, 스위치 사용에 필요한 디바이스 드라이버는 제공됐다. 추가로 주어진 매뉴얼을 통해 GPIO를 사용할 수 있었다.

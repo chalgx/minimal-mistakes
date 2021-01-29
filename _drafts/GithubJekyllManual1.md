@@ -6,6 +6,7 @@ tags: [manual, github, blog, jekyll]
 pin: true
 math: false
 toc: true
+toc_sticky: true
 ---
 
 ## __0.전제 조건__

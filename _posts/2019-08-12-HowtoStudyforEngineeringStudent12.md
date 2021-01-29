@@ -6,6 +6,7 @@ tags: [essay, study]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 수식이 없거나 중요한 의미를 가지지 않는 과목이 있다. 주로 개념을 설명하는 과목으로 디지털공학, 컴퓨터 아키텍쳐, 데이터 통신 등이 있다. 교양 과목도 대부분 이런 분류에 속한다.

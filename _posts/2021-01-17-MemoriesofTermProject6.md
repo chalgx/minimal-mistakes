@@ -6,6 +6,7 @@ tags: [essay, term project]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 3학년 2학기. 마이크로프로세서 2. 대학 생활 중 가장 고생했던 기간을 만들어준 프로젝트.

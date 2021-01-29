@@ -6,6 +6,7 @@ tags: [essay, study]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 교수님과 대화 중에 들은 내용으로 1학년 첫 학기에 학생들에게 가장 어려운 과목이 뭐냐고 물어보면 80% 이상이 C언어라고 대답한다고 했다.

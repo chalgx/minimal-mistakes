@@ -6,6 +6,8 @@ categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true
+toc: true
+toc_sticky: true
 ---
 
 대학원에 원서를 제출했는데 떨어졌다.  ㅈ학벌이 가지는 의미에 대해 생각해봤다.

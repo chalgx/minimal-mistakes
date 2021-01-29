@@ -6,6 +6,7 @@ tags: [manual, github]
 pin: true
 math: false
 toc: true
+toc_sticky: true
 ---
 
 ## __1. 가입하기__

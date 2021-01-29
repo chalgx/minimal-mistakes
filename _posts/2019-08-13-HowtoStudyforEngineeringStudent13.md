@@ -6,6 +6,7 @@ tags: [essay, study]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 성적을 받을 때 보통 가장 큰 비율을 차지하는 것이 중간고사와 기말고사다. 그리고 수시고사도 평가항목에 자주 등장하는 것이므로 이것을 준비하기 위한 방법을 짚고 넘어갈 것이다.

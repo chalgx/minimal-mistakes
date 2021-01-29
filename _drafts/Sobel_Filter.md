@@ -6,6 +6,8 @@ categories: [Filter]
 tags: [Sobel_filter, Sobel_Operator, filter, Sobel]
 pin: true
 use_math: true
+toc: true
+toc_sticky: true
 ---
 
 # 사용 용도

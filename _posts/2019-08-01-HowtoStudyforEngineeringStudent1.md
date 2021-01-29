@@ -6,6 +6,7 @@ tags: [essay, study]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 공대는 평생 자신의 분야를 공부해야 한다. 그런데 첫 만남부터 잘못된 선입견을 품고 만나면 평생 서먹서먹한 관계에서 진전이 될 수 없다. 공부도 마찬가지다. 공부에 대해서 가지고 있는 몇 가지 오해를 풀고 가고자 한다.

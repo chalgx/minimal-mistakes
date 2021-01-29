@@ -6,6 +6,7 @@ tags: [essay, study]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 텀프로젝트는 일정기간을 주고 수업에서 배운 것을 토대로 하나의 작품을 완성시켜야 하는 과제다. 보통 팀을 구성해서 하는 경우가 많다.

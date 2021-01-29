@@ -6,6 +6,7 @@ tags: [essay, capstone design]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 프로젝트를 할 때 보통 가장 먼저 하는 것은 조사다. 이걸 얼마나 해야 할지 감을 못 잡았었는데 프로젝트를 수행하면서 깨달았다. 모든 자료를 조사해야 한다는 것을…  

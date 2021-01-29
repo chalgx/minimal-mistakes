@@ -6,6 +6,7 @@ tags: [essay, term project]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 3학년 2학기. 영상신호처리 과목을 수강했다. 텀 프로젝트는 주어진 이미지의 노이즈를 매스매티카 툴을 이용해서 줄이는 것이었다. 결과로 나오는 PSNR을 계산해서 클수록 좋은 점수를 받았다. 개인별 제출이었다.  

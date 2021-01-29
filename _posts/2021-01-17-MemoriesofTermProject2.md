@@ -6,6 +6,7 @@ tags: [essay, term project]
 pin: true
 use_math: true
 toc: true
+toc_sticky: true
 ---
 
 1학년 2학기. 객체지향언어 수업을 들었다. 배우는 건 C++이었다. 중간고사, 과제, 기말고사 외에도 별도로 텀프로젝트가 있었다. 개인별 제출이고 성적을 메기는 프로그램을 만드는 것이었다. 난이도가 살짝 높은 과제 수준으로 크게 어려운 건 아니었다.

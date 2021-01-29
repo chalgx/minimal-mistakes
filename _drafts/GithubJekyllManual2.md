@@ -14,4 +14,6 @@ toc: true
 
 ## __
 
-## __구글 서치 콘솔__
+## __rss.xml
+
+https://jekyllcodex.org/without-plugin/rss-feed/

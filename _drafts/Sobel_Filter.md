@@ -2,7 +2,7 @@
 title: Sobel-Feldman Operator / Sobel Filter
 author: Jang_Hyeoon_Soo
 date: 2020-08-30
-categories: [knowledge, filter]
+categories: [Filter]
 tags: [Sobel_filter, Sobel_Operator, filter, Sobel]
 pin: true
 use_math: true

@@ -1,10 +1,8 @@
 ---
 layout: post
-title:
-subtitle: 
-author: 
-date: 
-categories: [Writing, Essay]
+title: 학벌과 객관성
+date: 2021-01-29
+categories: [Essay]
 tags: [essay, capstone design]
 pin: true
 use_math: true

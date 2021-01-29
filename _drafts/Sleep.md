@@ -2,7 +2,7 @@
 title: 수면
 author: Jang_Hyeoon_Soo
 date: 2021-01-22
-categories: [Writing, Essay]
+categories: [Essay]
 tags: [essay, sleep]
 pin: true
 use_math: true

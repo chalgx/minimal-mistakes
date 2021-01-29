@@ -1,7 +1,7 @@
 ---
 title: 마크다운 문법
 date: 2021-01-21
-categories: [manual]
+categories: [Manual]
 tags: [manual, markdown, syntax]
 pin: true
 use_math: true

@@ -1,5 +1,5 @@
 ---
-title: 깃허브 사용법
+title: 깃허브 사용법_1.가입
 date: 
 categories: [Manual]
 tags: [manual, github]

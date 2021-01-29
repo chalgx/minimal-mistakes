@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /
+
+Allow: /
 
 Sitemap: https://chalgx.github.io/sitemap.xml

@@ -120,7 +120,7 @@ CC를 하면 사랑하는 사람과 매일 볼 수 있다는 장점이 있지만
 
 ***
 
-## __캡스톤디자인(졸업작품)의 추억 글__
+## __대학 생활을 위한 조언 글__
 
 - [1.전략 수립](https://chalgx.github.io/essay/AdviceforUniversity1)
 - [2.수강 신청](https://chalgx.github.io/essay/AdviceforUniversity2)

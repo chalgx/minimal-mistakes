@@ -104,7 +104,7 @@ _※ 본 내용은 필자의 개인적인 경험과 생각을 기반으로 작�
 
 ***
 
-## __캡스톤디자인(졸업작품)의 추억 글__
+## __대학 생활을 위한 조언 글__
 
 - [1.전략 수립](https://chalgx.github.io/essay/AdviceforUniversity1)
 - [2.수강 신청](https://chalgx.github.io/essay/AdviceforUniversity2)

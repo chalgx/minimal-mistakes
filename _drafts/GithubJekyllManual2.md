@@ -74,8 +74,9 @@ git push origin master
 
 ## __3.rss.xml 생성__
 
-RSS Feed는
+RSS Feed는 업데이트되는 정보를 자동으로 xml 형식으로 만들어준다. 이걸 이용해서 구독과 같이 바뀌는 정보를 받아서 볼 수 있다.
 
 이미 파일이 있다면 이 과정을 굳이 할 필요가 없다.
+
 
 https://jekyllcodex.org/without-plugin/rss-feed/

@@ -55,12 +55,17 @@ git push origin master
 
 이미 파일이 있다면 이 과정을 굳이 할 필요가 없다.
 
-1._config.yml에 아래 내용을 추가한다. minimal-mistakes 테마는 이미 되어 있다.
+1. _config.yml에 아래 내용을 추가한다. minimal-mistakes 테마는 이미 되어 있다.
 
 ```
 plugins :
    - jekyll-sitemap
+
+whitelist:
+   - jekyll-sitemap
 ```
+
+_config.yml 내부에서 plugins, whitelist 항목이 있으면 그 부분에 - jekyll-sitemap만 추가해준다.
 
 2. 원격 저장소에 업데이트 한다.
 

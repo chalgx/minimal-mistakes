@@ -77,7 +77,7 @@ _config.yml에서 자신에게 맞게 수정해야 한다. 들어간다.
 
 로컬에서 관리하기 위해 관련 파일을 저장할 곳을 정하고 깃허브에 있는 파일들을 다운로드 한다.
 
-```
+```bash
 git clone https://github.com/계정명/계정명.github.io
 ```
 
@@ -87,7 +87,7 @@ git clone https://github.com/계정명/계정명.github.io
 
 jekyll bundle을 설치해준다.
 
-```
+```bash
 gem install jekyll bundler
 ```
 
@@ -95,7 +95,7 @@ gem install jekyll bundler
 
 필요한 bundle도 설치해준다.
 
-```
+```bash
 gem install bundler
 ```
 
@@ -103,7 +103,7 @@ gem install bundler
 
 이제 로컬에서 사용할 수 있게 빌드한다.
 
-```
+```bash
 bundle install
 ```
 
@@ -113,7 +113,7 @@ bundle install
 
 터미널에 다음과 같이 입력하면 로컬 서버가 생성된다.
 
-```
+```bash
 jekyll serve
 ```
 
@@ -121,6 +121,6 @@ jekyll serve
 
 _drifts의 폴더안 내용도 테스트하고 싶다면 다음과 같은 옵션을 붙인다.
 
-```
+```bash
 jekyll serve --drifts
 ```

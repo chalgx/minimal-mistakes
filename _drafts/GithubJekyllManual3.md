@@ -1,5 +1,5 @@
 ---
-title: Jekyll을 이용해서 깃허브로 블로그 만들기_2.서치 콘솔, 애널리틱스, 웹마스터 연동
+title: Jekyll을 이용해서 깃허브로 블로그 만들기_3.서치 콘솔, 애널리틱스, 웹마스터 연동
 date: 2021-01-29
 categories: [Manual]
 tags: [manual, github, blog, jekyll]

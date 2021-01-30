@@ -1,6 +1,6 @@
 ---
 title: Jekyll을 이용해서 깃허브로 블로그 만들기_1.Jekyll 설치 및 github 연동
-date: 2021-01-29
+date: 2021-02-02
 categories: [Manual]
 tags: [manual, github, blog, jekyll]
 pin: true
@@ -21,11 +21,11 @@ toc_sticky: true
 
 ## __1.Jekyll 테마 선택__
 
-Jekyll 순정버전에서 본인이 원하는 대로 수정해서 사용할 수 있다. 아니면 무료 Jekyll theme 사이트에서 원하는 것을 선택해도 된다.
+Jekyll 순정 버전에서 본인이 원하는 대로 수정해서 사용할 수 있다. 아니면 무료 Jekyll theme 사이트에서 원하는 것을 선택해도 된다.
 
 설치 방법은 기본적으로 해당 테마가 있는 github에 가보면 Readme.md에 자세하게 설명되어 있고 그것을 따르면 된다.
 
-본 내용은 minimal-mistakes를 기준으로 작성했고 fork하는 방식을 사용했다.
+본 내용은 minimal-mistakes를 기준으로 작성했고 fork 하는 방식을 사용했다.
 
 ***
 
@@ -33,7 +33,7 @@ Jekyll 순정버전에서 본인이 원하는 대로 수정해서 사용할 수 
 
 ![GithubJekyll1](/images/GithubJekyll1/GithubJekyll1.png)
 
-깃허브로 원하는 Jekyll theme에 들어가면 상단에 Fork가 있다. 해당 버튼을 누르고 잠시기다리면 fork가 완료된다.
+깃허브로 원하는 Jekyll theme에 들어가면 상단에 Fork가 있다. 해당 버튼을 누르고 잠시 기다리면 fork가 완료된다.
 
 ![GithubJekyll2](/images/GithubJekyll1/GithubJekyll2.png)
 
@@ -75,7 +75,7 @@ _config.yml에서 자신에게 맞게 수정해야 한다. 들어간다.
 
 먼저 cmd, bash와 같은 터미널을 연다. 여기서는 git bash를 사용했다.
 
-로컬에서 관리하기 위해 관련 파일을 저장할 곳을 정하고 깃허브에 있는 파일들을 다운로드 한다.
+로컬에서 관리하기 위해 관련 파일을 저장할 곳을 정하고 깃허브에 있는 파일들을 다운로드한다.
 
 ```bash
 git clone https://github.com/계정명/계정명.github.io
@@ -119,7 +119,7 @@ jekyll serve
 
 컴퓨터 내부 네트워크인 127.0.0.1:4000에 접속하면 생성된 페이지를 볼 수 있다. 크롬이나 익스플로러 같은 웹브라우저 주소창에 입력하면 된다.
 
-_drifts의 폴더안 내용도 테스트하고 싶다면 다음과 같은 옵션을 붙인다.
+_drifts의 폴더 안 내용도 테스트하고 싶다면 다음과 같은 옵션을 붙인다.
 
 ```bash
 jekyll serve --drifts

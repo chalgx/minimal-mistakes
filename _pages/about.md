@@ -1,8 +1,11 @@
 ---
+layout: post
 title: About
 ---
 
-<center> ## __Contact__ </center>
+## __Contact__ </center>
 
-<center> - e-mail: knsofy@gmail.com </center>
-<center> - github: https://github.com/chalgx </center>
+- e-mail: knsofy@gmail.com
+- github: https://github.com/chalgx
+
+아는 것을 나누고 싶습니다.

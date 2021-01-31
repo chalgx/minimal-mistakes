@@ -6,6 +6,7 @@ tags: []
 pin: true
 math: true
 toc: true
+toc_sticky: true
 ---
 
 ## __1. 제목1__

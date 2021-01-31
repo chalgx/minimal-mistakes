@@ -45,34 +45,34 @@ Download 버튼을 클릭한다.
 
 다운로드 받은 설치프로그램을 실행한다.
 
-![RubyInstall4](/images/RubyInstall/RubyInstall4.png)
+![RubyInstall4](/images/RubyInstall/RubyInstall4.PNG)
 
 라이센스 동의를 하고 Next를 눌러서 다음으로 넘어간다.
 
-![RubyInstall5](/images/RubyInstall/RubyInstall5.png)
+![RubyInstall5](/images/RubyInstall/RubyInstall5.PNG)
 
 설치경로를 설정한다. 체크 박스 3개는 PATH 설정, .rb, .rbw 확장명을 가지는 파일을 자동으로 연결해주는 것, UTF-8을 기본 외부 인코딩으로 설정한다는 것이다. 특별히 설정해야 하는 게 아니면 그냥 둬도 상관없다.
 
 Install을 눌러서 다음으로 넘어간다.
 
-![RubyInstall6](/images/RubyInstall/RubyInstall6.png)
+![RubyInstall6](/images/RubyInstall/RubyInstall6.PNG)
 
 어떤 것을 설치할지 선택한다. 마찬가지로 절대 사용할 일이 없을 거란 걸 확신할 수 있는 게 아니면 다 설치해준다.
 
-![RubyInstall7](/images/RubyInstall/RubyInstall7.png)
+![RubyInstall7](/images/RubyInstall/RubyInstall7.PNG)
 
 그러면 다음과 같이 설치가 진행된다.
 
-![RubyInstall8](/images/RubyInstall/RubyInstall8.png)
+![RubyInstall8](/images/RubyInstall/RubyInstall8.PNG)
 
 체크 박스에 체크가 되어있도록 하고 Finish 버튼을 누른다. MSYS2development toolchain을 설치하기 위함이다.
 
 설령 여기서 모르고 넘어갔다면 설치경로로 들어가서 따로 설치를 할 수 있다.
 
-![RubyInstall9](/images/RubyInstall/RubyInstall9.png)
+![RubyInstall9](/images/RubyInstall/RubyInstall9.PNG)
 
 해당 창이 열리면 3을 누르고 엔터를 친다. 3번 옵션인 MSYS 2 and MINGW development toolchain을 설치하는 것이다.
 
-![RubyInstall10](/images/RubyInstall/RubyInstall10.png)
+![RubyInstall10](/images/RubyInstall/RubyInstall10.PNG)
 
 다음과 같이 설치가 진행되고 완료된다.

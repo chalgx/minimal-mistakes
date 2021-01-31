@@ -19,19 +19,19 @@ toc_sticky: true
 
 그럼 아래와 같은 화면이 나온다.
 
-![RubyInstall1](/images/RubyInstall/RubyInstall1.png)
+![RubyInstall1](/images/RubyInstall/RubyInstall1.PNG)
 
 자신의 컴퓨터의 운영체제에 맞는 것을 선택한다. 보통은 Windows일 것이다.
 
 ***
 
-![RubyInstall2](/images/RubyInstall/RubyInstall2.png)
+![RubyInstall2](/images/RubyInstall/RubyInstall2.PNG)
 
 Download 버튼을 클릭한다.
 
 ***
 
-![RubyInstall3](/images/RubyInstall/RubyInstall3.png)
+![RubyInstall3](/images/RubyInstall/RubyInstall3.PNG)
 
 보면 다양한 버전의 Ruby가 있다. 자신이 사용하고자 하는 목적에 따라 적합한 버전을 선택한다.
 

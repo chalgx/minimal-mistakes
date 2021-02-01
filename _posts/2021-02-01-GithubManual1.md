@@ -15,7 +15,7 @@ _※ 본 내용은 2021-02-01 기준으로 작성된 것으로 이 글을 읽는
 
 Test1
 
-![Test1](/images/RubyInstall/RubyInstall1.PNG)
+![Test1](/images/RubyInstall/Githubsignup1.PNG)
 
 Test2
 

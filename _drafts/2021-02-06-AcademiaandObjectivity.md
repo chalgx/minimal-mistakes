@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 학벌과 객관성
-date: 2021-02-05
+date: 2021-02-06
 categories: [Essay]
 tags: [essay, academia]
 pin: true

@@ -9,6 +9,8 @@ toc: true
 toc_sticky: true
 ---
 
+깃허브는 원격 깃 저장소이다. 깃허브 외에도 깃랩 등이 있다. 깃허브가 가장 유명하고 소스코드도 많다.
+
 ## __1.가입하기__
 
 깃허브에 가입하기 위해서는 이메일이 있어야 한다.
@@ -17,13 +19,13 @@ toc_sticky: true
 
 <https://www.github.com>
 
-위의 사이트 주소를 클릭하거나 검색해서 들어간다.
-
-![Githubsignup1](/images/Github1/Githubsignup1.PNG)
+위의 사이트 주소를 클릭하거나 검색해서 들어간다.  
+  
+![Githubsignup1](/images/Github1/Githubsignup1.PNG)  
 
 상단에 Sign up을 클릭한다. 계정이 있다면 Sign in으로 들어가면 로그인이 가능하다.
-
-![Githubsignup2](/images/Github1/Githubsignup2.PNG)
+  
+![Githubsignup2](/images/Github1/Githubsignup2.PNG)  
 
 깃허브에서 사용할 유저네임과 이메일주소, 비밀번호를 입력한다.
 

@@ -13,9 +13,9 @@ _※ 본 내용은 2021-02-01 기준으로 작성된 것으로 이 글을 읽는
 
 깃허브는 원격 깃 저장소이다. 깃허브 외에도 깃랩 등이 있다. 깃허브가 가장 유명하고 소스코드도 많다.
 
-Test
+![Test1](/images/RubyInstall/RubyInstall1.PNG)
 
-![Test](/images/RubyInstall/RubyInstall1.PNG)
+![Test2](/images/Github1/RubyInstall1.PNG)
 
 ## __1.가입하기__
 

@@ -1,6 +1,6 @@
 ---
 title: Jekyll을 이용해서 깃허브로 블로그 만들기_3.robots.txt, sitemap, feed 생성 및 설정
-date: 2021-02-03
+date: 2021-02-04
 categories: [Manual]
 tags: [manual, github, blog, jekyll]
 pin: true
@@ -9,19 +9,17 @@ toc: true
 toc_sticky: true
 ---
 
-![Test](/images/TestImage.png)
-
 ## __1.robots.txt 생성 및 설정__
 
-robots.txt는 크롤러에게 웹페이지에서 가지는 접근권한에 대해 알려준다. 즉 크롤러가 웹페이지의 데이터를 가져가도 되는지를 알려주는 것이다.
+robots.txt는 크롤러에 웹페이지에서 가지는 접근 권한에 대해 알려준다. 즉 크롤러가 웹페이지의 데이터를 가져가도 되는지를 알려주는 것이다.
 
-sitemap.xml의 위치를 등록해서 크롤링하는데 도움을 줄 수 있다.
+sitemap.xml의 위치를 등록해서 크롤링하는 데 도움을 줄 수 있다.
 
 이미 파일이 있다면 이 과정을 굳이 할 필요가 없다.
 
-1. Github Jekyll 블로그의 가장 상위 디렉토리인 루트에 robots.txt를 생성한다.
+1. Github Jekyll 블로그의 가장 상위 디렉터리인 루트에 robots.txt를 생성한다.
 
-2. 자신이 원하는 대로 디자인 한다. 예시는 다음과 같다.
+2. 자신이 원하는 대로 디자인한다. 예시는 다음과 같다.
 
    ```txt
    User-agent: *
@@ -31,13 +29,13 @@ sitemap.xml의 위치를 등록해서 크롤링하는데 도움을 줄 수 있�
    Sitemap: https://chalgx.github.io/sitemap.xml
    ```
 
-   모든 크롤러에게 모든 접속을 허용한다는 내용이다. 아마 대부분은 이런식으로 하면 문제가 없을 것이다.
+   모든 크롤러에 모든 접속을 허용한다는 내용이다. 아마 대부분은 이런 식으로 하면 문제가 없을 것이다.
 
-   특정 크롤러를 차단하거나 디렉토리를 검색되지 않게 하려면 다음을 참고해서 작성하면된다.
+   특정 크롤러를 차단하거나 디렉터리를 검색되지 않게 하려면 다음을 참고해서 작성하면 된다.
 
-   <https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%B4%87_%EB%B0%B0%EC%A0%9C_%ED%91%9C%EC%A4%80>
+   %EB%A1%9C%EB%B4%87_%EB%B0%B0%EC%A0%9C_%ED%91%9C%EC%A4%80>
 
-3. 원격 저장소에 업데이트 한다.
+3. 원격 저장소에 업데이트한다.
 
    ```bash
    git add robots.txt
@@ -99,7 +97,7 @@ Jekyll-feed 플러그인으로 자동으로 생성해줄 수 있는데 이때는
       - jekyll-feed
    ```
 
-2. 수정 내용을 원격 저장소에 업로드 한다.
+2. 수정 내용을 원격 저장소에 업로드한다.
 
    ```bash
    git add _config.yml

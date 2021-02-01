@@ -99,7 +99,7 @@ Jekyll-feed 플러그인으로 자동으로 생성해줄 수 있는데 이때는
 
 2. 수정 내용을 원격 저장소에 업로드한다.
 
-   ```git
+   ```bash
    git add _config.yml
    git commit -m "add plugins jekyll feed"
    git push origin master
@@ -155,7 +155,7 @@ Jekyll-feed 플러그인으로 자동으로 생성해줄 수 있는데 이때는
 
 4. 원격 저장소에 바꾼 내용을 업로드한다.
 
-   ```git
+   ```bash
    git rm feed.xml
    git add feed.xml
    git add _config.yml

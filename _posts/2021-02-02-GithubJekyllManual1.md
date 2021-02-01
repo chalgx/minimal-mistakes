@@ -77,7 +77,7 @@ _config.yml에서 자신에게 맞게 수정해야 한다. 들어간다.
 
 로컬에서 관리하기 위해 관련 파일을 저장할 곳을 정하고 깃허브에 있는 파일들을 다운로드한다.
 
-```git
+```bash
 git clone https://github.com/계정명/계정명.github.io
 ```
 
@@ -113,7 +113,7 @@ bundle install
 
 터미널에 다음과 같이 입력하면 로컬 서버가 생성된다.
 
-```jekyll
+```ruby
 jekyll serve
 ```
 
@@ -121,6 +121,6 @@ jekyll serve
 
 _drifts의 폴더 안 내용도 테스트하고 싶다면 다음과 같은 옵션을 붙인다.
 
-```jekyll
+```ruby
 jekyll serve --drifts
 ```

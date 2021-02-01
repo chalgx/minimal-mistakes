@@ -35,8 +35,6 @@ _※ 본 내용은 2021-02-01 기준으로 작성된 것으로 이 글을 읽는
 
 같은 이유로 하이픈을 쓰거나 대소문자를 섞는 것은 좋지 않다.
 
-![RubyInstall1](/images/RubyInstall/RubyInstall1.PNG)
-
 가장 기본적으로는 자기 이름 이니셜에 간단한 숫자를 붙이는 것이다.
 
 ![Githubsignup3](/images/Github1/Githubsignup3.PNG)

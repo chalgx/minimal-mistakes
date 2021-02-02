@@ -31,15 +31,15 @@ Jekyll 순정 버전에서 본인이 원하는 대로 수정해서 사용할 수
 
 ## __2.설치 과정__
 
-![GithubJekyll1](/images/GithubJekyll1/Jekyll1.PNG)
+![GithubJekyll1](/images/Jekyll1/Jekyll1.PNG)
 
 깃허브로 원하는 Jekyll theme에 들어가면 상단에 Fork가 있다. 해당 버튼을 누르고 잠시 기다리면 fork가 완료된다.
 
-![GithubJekyll2](/images/GithubJekyll1/Jekyll2.PNG)
+![GithubJekyll2](/images/Jekyll1/Jekyll2.PNG)
 
 제대로 됐다면 앞쪽 이름이 자신의 이름으로 바뀐다. 오른쪽에 있는 Settings에 들어간다.
 
-![GithubJekyll3](/images/GithubJekyll1/Jekyll3.PNG)
+![GithubJekyll3](/images/Jekyll1/Jekyll3.PNG)
 
 Repository name을 자신의 계정명.github.io로 바꾼다.
 
@@ -51,15 +51,15 @@ Repository는 Public으로 공개되어 있어야 한다.
 
 다시 Code로 돌아간다.
 
-![GithubJekyll4](/images/GithubJekyll1/Jekyll4.PNG)
+![GithubJekyll4](/images/Jekyll1/Jekyll4.PNG)
 
 _config.yml에서 자신에게 맞게 수정해야 한다. 들어간다.
 
-![GithubJekyll5](/images/GithubJekyll1/Jekyll5.PNG)
+![GithubJekyll5](/images/Jekyll1/Jekyll5.PNG)
 
 들어가면 다음과 같이 내용을 읽을 수 있다. 오른쪽의 수정 버튼을 눌러서 내용을 수정한다.
 
-![GithubJekyll6](/images/GithubJekyll1/Jekyll6.PNG)
+![GithubJekyll6](/images/Jekyll1/Jekyll6.PNG)
 
 이중에서 url은 반드시 바꿔야 한다. 앞서서 바꾼 Repository명으로 바꾼다. "https://계정명.github.io"가 된다. 예시로는 "https://chalgx.github.io"다.
 
@@ -83,7 +83,7 @@ git clone https://github.com/계정명/계정명.github.io
 
 다음은 예시 화면이다.
 
-![GithubJekyll8](/images/GithubJekyll1/Jekyll8.PNG)  
+![GithubJekyll8](/images/Jekyll1/Jekyll8.PNG)  
 
 jekyll bundle을 설치해준다.
 
@@ -91,7 +91,7 @@ jekyll bundle을 설치해준다.
 gem install jekyll bundler
 ```
 
-![GithubJekyll10](/images/GithubJekyll1/Jekyll10.PNG)
+![GithubJekyll10](/images/Jekyll1/Jekyll10.PNG)
 
 필요한 bundle도 설치해준다.
 
@@ -99,7 +99,7 @@ gem install jekyll bundler
 gem install bundler
 ```
 
-![GithubJekyll12](/images/GithubJekyll1/Jekyll12.PNG)
+![GithubJekyll12](/images/Jekyll1/Jekyll12.PNG)
 
 이제 로컬에서 사용할 수 있게 빌드한다.
 
@@ -107,7 +107,7 @@ gem install bundler
 bundle install
 ```
 
-![GithubJekyll13](/images/GithubJekyll1/Jekyll13.PNG)
+![GithubJekyll13](/images/Jekyll1/Jekyll13.PNG)
 
 완료되면 준비가 다 된 것이다.
 

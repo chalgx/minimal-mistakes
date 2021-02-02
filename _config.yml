@@ -86,11 +86,10 @@ social:
 # Analytics
 analytics:
   provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
-    - "google"
     - "google-universal"
     - "google-gtag" 
   google:
-    tracking_id          : G-ZTHQWM0C7P
+    tracking_id          : UA-188649460-1
     anonymize_ip         : # true, false (default)
 
 

@@ -90,7 +90,7 @@ analytics:
     - "google-universal"
     - "google-gtag" 
   google:
-    tracking_id          : "G-ZTHQWM0C7P"
+    tracking_id          : G-ZTHQWM0C7P
     anonymize_ip         : # true, false (default)
 
 

@@ -1,3 +1,15 @@
+---
+title: 권력, 가질수록 위험한 것
+date: 2021-02-25
+categories: [Essay]
+tags: [essay, power]
+pin: true
+math: false
+toc: true
+toc_sticky: true
+---
+
+
 ## __큰 권력__
 
 ### __권력는 나눠가지는 게 아니다__

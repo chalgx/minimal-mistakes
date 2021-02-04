@@ -115,7 +115,7 @@ Jekyll-feed 플러그인으로 자동으로 생성해줄 수 있는데 이때는
 
 1. 기존에 feed 파일이 있다면 제거한다. _config.yml에 가서 plugins에 있는 것도 삭제하거나 주석 처리를 한다.
 
-   ![RssFeed1](/images/GithubJekyll3/RssFeed1.PNG)
+   ![RssFeed1](/images/ekyll3/RssFeed1.PNG)
 
 2. 새로 feed.xml을 생성하고 다음 내용을 넣는다. 혹은 위의 사이트에서 다운받아서 Jekyll 폴더가 있는 곳에 넣는다. 같은 것이다.
 

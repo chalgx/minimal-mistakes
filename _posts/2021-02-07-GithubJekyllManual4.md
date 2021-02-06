@@ -175,11 +175,17 @@ minimal-mistakes는 설정한 애널리틱스를 사용할 수 있도록 별도�
 
 ![NWM4](/images/Jekyll4/NWM4.PNG)
 
-왼쪽 메뉴에서 요청->사이트맵에 들어간다. 만들어놓은 사이트맵을 제출한다.
+왼쪽 메뉴에서 요청->사이트맵에 들어간다.
+
+![NWM5](/images/Jekyll4/NWM5.PNG)
+
+만들어놓은 사이트맵을 제출한다.
+
+![NWM6](/images/Jekyll4/NWM6.PNG)
 
 RSS를 제출하고자 한다면 요청->RSS에 들어가서 feed.xml을 제출한다. 네이버가 사용하는 RSS는 Jekyll 플러그인으로 생성하는 것과는 다르므로 따로 만들어야 한다. 이전 포스트에서 해당 내용을 설명했다.
 
-![NWM6](/images/Jekyll4/NWM6.PNG)
+![NWM6](/images/Jekyll4/NWM7.PNG)
 
 ***
 

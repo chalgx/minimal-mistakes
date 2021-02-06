@@ -153,8 +153,6 @@ minimal-mistakes는 설정한 애널리틱스를 사용할 수 있도록 별도�
 
 여기서는 analytucs-providers 폴더에 custom.html 파일을 만들어서 코드를 넣었다. 그리고 이것을 head.html에 삽입되는 head 폴더 내에 있는 custom.html에 include 했다.
 
-![GA17](/images/Jekyll4/GA17.PNG)
-
 애널리스틱의 실시간 페이지에 접속해서 인식되는지 확인한다.
 
 ***

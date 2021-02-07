@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: 믿을 수 있는 정보와 그렇지 않은 것을 구분할 방법을 소개한다.
 ---
 
 ## __정보를 믿는 다는 것__

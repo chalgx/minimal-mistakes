@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 권위에 대한 복종 실험의 논문에 대해 살펴봤다.
 ---
 
 ## __초록, 요약__

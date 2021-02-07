@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: 권력에 대해 살펴봤다.
 ---
 
 ## __권력의 발생__

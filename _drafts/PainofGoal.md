@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: 목표를 가져서 힘들었던 것과 그것을 어떻게 극복했는지에 대한 글이다.
 ---
 
 ## __목표 없는 삶__

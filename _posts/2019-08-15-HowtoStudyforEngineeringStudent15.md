@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 실험 및 실습 과목을 어떻게 준비하고 효율적으로 진행할지 설명한다.
 ---
 
 ## __배경 이론 이해__

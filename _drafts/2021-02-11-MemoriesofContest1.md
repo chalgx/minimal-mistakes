@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: 공모전을 하면서 예선에서부터 탈락한 이유에 대해 알아봤다.
 ---
 
 공모전을 여러 개 했는데 참가 기회조차 받지 못한 경우도 있었다.

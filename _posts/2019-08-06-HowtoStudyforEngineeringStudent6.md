@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 수업이 중요한 이유와 이 시간을 최대한 활용할 방법을 소개한다.
 ---
 
 심리가 전반적인 공부를 하는 것에 있어서 가장 중요했다면 이번에 작성하는 수업 편은 고득점, 효율적인 공부를 하는 데 가장 중요하다 할 수 있다.

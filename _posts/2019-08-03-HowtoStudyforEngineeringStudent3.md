@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 공부를 지속할 수 있는 동기에 대해 알아본다.
 ---
 
 ## __동기__

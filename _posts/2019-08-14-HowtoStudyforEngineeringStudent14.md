@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 발표를 준비하는 방법에 대해 소개한다.
 ---
 
 ## __수시발표__

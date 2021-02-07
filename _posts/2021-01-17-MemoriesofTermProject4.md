@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 텀 프로젝트를 하면서 때로는 배우지도 않은 것을 수업 과제로 제출해야 하므로 미리 다양한 분야를 공부할 필요성을 느꼈다.
 ---
 
 ## __발단__

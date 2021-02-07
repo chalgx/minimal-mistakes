@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 대학생 때 봉사활동을 하며 느낀 점을 적었다.
 ---
 
 ## __동기__

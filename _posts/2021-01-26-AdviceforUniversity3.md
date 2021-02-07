@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 수업을 잘 듣고 이해하기 위한 방법을 소개했다.
 ---
 
 _※ 본 내용은 필자의 개인적인 경험과 생각을 기반으로 작성한 것으로 독자의 대학, 전공, 가치관 등에 따라 선택해서 받아들이길 바람._  

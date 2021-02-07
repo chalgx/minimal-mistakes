@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: ruby 설치법을 알아봤다.
 ---
 
 _※ 본 내용은 2021-01-31 기준으로 작성된 것으로 이 글을 읽는 시점에 따라 적용되지 않을 수 있음._

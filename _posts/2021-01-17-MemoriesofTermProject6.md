@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 텀 프로젝트를 하면서 정말 어렵고, 해결하지 못 하는 문제도 있지만 결국 지나갈 것이란 걸 알았다.
 ---
 
 3학년 2학기. 마이크로프로세서 2. 대학 생활 중 가장 고생했던 기간을 만들어준 프로젝트.

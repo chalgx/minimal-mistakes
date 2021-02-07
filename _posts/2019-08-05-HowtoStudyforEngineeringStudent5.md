@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 기억의 메커니즘을 이해하고 활용할 방법을 찾는다.
 ---
 
 ## __기억의 정의 & 단계__

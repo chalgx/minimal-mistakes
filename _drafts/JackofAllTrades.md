@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: 일을 잘하는 방법에 대해 소개한다.
 ---
 
 ## __직장 상사__

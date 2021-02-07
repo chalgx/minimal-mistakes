@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 복습의 중요성과 어떤 방식으로 해야 하는지 알아본다.
 ---
 
 ## __복습의 목적__

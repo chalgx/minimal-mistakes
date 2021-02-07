@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: 리더가 되면 직면할 문제에 관해 설명한다.
 ---
 
 군대에 있었던 경험, 대학에서 팀장을 하며 느꼈던 리더라는 역할에 대한 내용이다.

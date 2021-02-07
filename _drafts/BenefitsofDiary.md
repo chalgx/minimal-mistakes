@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: 일기를 쓰면 좋은 점을 소개한다.
 ---
 
 일기를 쓰면 여로모로 유용한 게 있다. 이젠 검사를 받기 위해 매일 쓸 필요도 없고 15줄 이상 써야 한다는 조건도 없다. 마음 편하게 자기만의 이야기를 풀어낼 수 있다.

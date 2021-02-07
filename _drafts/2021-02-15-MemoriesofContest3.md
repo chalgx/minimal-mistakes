@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: 공모전을 하면서 수상을 할 수 있었던 이유에 대해서 알아봤다.
 ---
 
 공모전에 참여한 것 중 상을 받았던 건 무엇이 달랐던 것일까?

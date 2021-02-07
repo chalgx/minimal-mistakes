@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: 공모전 중 수기 공모전에 관한 경험을 소개한다.
 ---
 
 공대생이지만, 뭔가 만드는 공모전만 참여한 건 아니다. 수기 공모전에도 참가했었다.

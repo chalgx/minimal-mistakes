@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: jekyll에서 포스트와 페이지를 만드는 법에 대해 알아봤다.
 ---
 
 _※ 본 내용은 2021-02-03 기준으로 작성된 것으로 이 글을 읽는 시점에 따라 적용되지 않을 수 있음._
@@ -51,6 +52,7 @@ title: 제목 예시
 date: 2021-02-03
 categories: [category1]
 tags: [tag1, tag2]
+description: 
 pin: true
 math: false
 toc: true
@@ -63,6 +65,8 @@ title은 작성하는 포스트의 제목이 된다.
 date는 업로드한 날짜로 파일의 이름보다도 우선순위를 가진다.
 
 카테고리와 태그는 여러 개를 작성할 수 있다. 카테고리를 2개 이상 할 경우 그것에 맞게 블로그를 꾸며야 서로 엮이지 않는다. 사용하는 블로그에서 해당 기능이 있는지 확인해봐야 한다. 태그는 소문자로만 이루어지는 게 좋다.
+
+description은 태그에 표시될 설명이다. 해당 포스트가 어떤 글인지 간략하게 적으면 된다.
 
 pin을 true로 두면 포스트가 메인에 보인다.
 

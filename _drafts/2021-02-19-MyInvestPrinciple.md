@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: 개인적인 투자원칙에 관해 설명한다.
 ---
 
 ## __투자의 필요성__

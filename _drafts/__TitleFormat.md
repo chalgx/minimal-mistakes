@@ -4,9 +4,9 @@ date:
 categories: []
 tags: []
 pin: true
-math: true
 toc: true
 toc_sticky: true
+description: 
 ---
 
 ## __1. 제목1__

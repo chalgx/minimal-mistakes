@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 취업에 도움이 되는 것과 그렇지 않은 것을 구체적으로 알아봤다.
 ---
 
 _※ 본 내용은 필자의 개인적인 경험과 생각을 기반으로 작성한 것으로 독자의 대학, 전공, 가치관 등에 따라 선택해서 받아들이길 바람._  

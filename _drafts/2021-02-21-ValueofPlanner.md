@@ -7,6 +7,7 @@ pin: true
 math: false
 toc: true
 toc_sticky: true
+description: 플래너를 사용하게 된 계기와 그 효능에 관해 설명한다.
 ---
 
 ## __스터디 플래너__

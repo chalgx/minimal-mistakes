@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 예습을 하는 이유와 그 방법에 대해 알아본다.
 ---
 
 ## __예습의 목적__

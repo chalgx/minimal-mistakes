@@ -7,6 +7,7 @@ pin: true
 use_math: true
 toc: true
 toc_sticky: true
+description: 공대생이 처한 환경과 그들을 위한 공부법을 소개한다.
 ---
 
 ## __들어가며__

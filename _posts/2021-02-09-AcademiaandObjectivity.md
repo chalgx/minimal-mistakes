@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 학벌과 객관성
 date: 2021-02-09
 categories: [Essay]

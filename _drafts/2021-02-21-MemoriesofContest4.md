@@ -1,10 +1,9 @@
 ---
 title: 공모전의 추억_4.글 잘 쓰나?
-date: 2021-02-19
+date: 2021-02-21
 categories: [Essay]
 tags: [essay, contest]
 pin: true
-math: false
 toc: true
 toc_sticky: true
 description: 공모전 중 수기 공모전에 관한 경험을 소개한다.

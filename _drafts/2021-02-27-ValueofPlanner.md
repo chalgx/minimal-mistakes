@@ -1,10 +1,9 @@
 ---
 title: 플래너의 가치
-date: 2021-02-21
+date: 2021-02-27
 categories: [Essay]
 tags: [essay, planner]
 pin: true
-math: false
 toc: true
 toc_sticky: true
 description: 플래너를 사용하게 된 계기와 그 효능에 관해 설명한다.

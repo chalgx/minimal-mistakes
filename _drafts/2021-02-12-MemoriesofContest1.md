@@ -1,10 +1,9 @@
 ---
 title: 공모전의 추억_1.기회조차 얻지 못한 이유
-date: 2021-02-11
+date: 2021-02-12
 categories: [Essay]
 tags: [essay, contest]
 pin: true
-math: false
 toc: true
 toc_sticky: true
 description: 공모전을 하면서 예선에서부터 탈락한 이유에 대해 알아봤다.

@@ -1,10 +1,9 @@
 ---
 title: 공모전의 추억_2.날려버린 기회
-date: 2021-02-13
+date: 2021-02-15
 categories: [Essay]
 tags: [essay, contest]
 pin: true
-math: false
 toc: true
 toc_sticky: true
 description: 공모전을 하면서 수상을 할 수 있는 기회가 있었는데 놓친 이유에 대해서 알아봤다.

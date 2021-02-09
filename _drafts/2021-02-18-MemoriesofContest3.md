@@ -1,10 +1,9 @@
 ---
 title: 공모전의 추억_3.무엇이 다를까
-date: 2021-02-15
+date: 2021-02-18
 categories: [Essay]
 tags: [essay, contest]
 pin: true
-math: false
 toc: true
 toc_sticky: true
 description: 공모전을 하면서 수상을 할 수 있었던 이유에 대해서 알아봤다.

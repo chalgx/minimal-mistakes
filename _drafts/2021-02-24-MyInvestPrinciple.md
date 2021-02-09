@@ -1,10 +1,9 @@
 ---
 title: 내 투자 원칙
-date: 2021-02-17
+date: 2021-02-24
 categories: [Essay]
 tags: [essay, invest]
 pin: true
-math: false
 toc: true
 toc_sticky: true
 description: 개인적인 투자원칙에 관해 설명한다.

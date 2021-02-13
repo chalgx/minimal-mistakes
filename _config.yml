@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Engineerin BA degree"
   location         : "South Korea"
-  email            : knsofy@gmail.com
+  email            : "knsofy@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

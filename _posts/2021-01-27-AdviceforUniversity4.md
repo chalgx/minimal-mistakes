@@ -1,5 +1,5 @@
 ---
-title: 대학 생활을 위한 조언_4.본접 뽑기
+title: 대학 생활을 위한 조언_4.본전 뽑기
 date: 2021-01-27
 categories: [Essay]
 tags: [essay, university, college, advice]

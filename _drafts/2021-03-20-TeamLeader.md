@@ -1,6 +1,6 @@
 ---
 title: 팀장 하실 분?
-date: 2021-03-15
+date: 2021-03-20
 categories: [Essay]
 tags: [essay, leader]
 pin: true

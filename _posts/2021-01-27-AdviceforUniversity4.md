@@ -99,7 +99,7 @@ _※ 본 내용은 필자의 개인적인 경험과 생각을 기반으로 작�
 - [1.전략 수립](https://chalgx.github.io/essay/AdviceforUniversity1)
 - [2.수강 신청](https://chalgx.github.io/essay/AdviceforUniversity2)
 - [3.말할 줄 아는 감자](https://chalgx.github.io/essay/AdviceforUniversity3)
-- [4.본전 뽑기](https://chalgx.github.io/essay/AdviceforUniversity4)
+- 4.본전 뽑기
 - [5.낭만](https://chalgx.github.io/essay/AdviceforUniversity5)
 - [6.방학 때 뭐 하지](https://chalgx.github.io/essay/AdviceforUniversity6)
 - [7.취업에 도움이 될까?](https://chalgx.github.io/essay/AdviceforUniversity7)

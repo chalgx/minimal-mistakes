@@ -129,6 +129,6 @@ CC를 하면 사랑하는 사람과 매일 볼 수 있다는 장점이 있지만
 - [2.수강 신청](https://chalgx.github.io/essay/AdviceforUniversity2)
 - [3.말할 줄 아는 감자](https://chalgx.github.io/essay/AdviceforUniversity3)
 - [4.본전 뽑기](https://chalgx.github.io/essay/AdviceforUniversity4)
-- [5.낭만](https://chalgx.github.io/essay/AdviceforUniversity5)
+- 5.낭만
 - [6.방학 때 뭐 하지](https://chalgx.github.io/essay/AdviceforUniversity6)
 - [7.취업에 도움이 될까?](https://chalgx.github.io/essay/AdviceforUniversity7)

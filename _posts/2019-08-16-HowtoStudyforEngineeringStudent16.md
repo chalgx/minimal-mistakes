@@ -70,5 +70,5 @@ description: 다양한 형태의 보고서를 작성하는 방법에 대해 소�
 - [13.지필고사 & 수시고사](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent13)
 - [14.발표](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent14)
 - [15.실험 & 실습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent15)
-- [16.보고서](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent16)
+- 16.보고서
 - [17.텀프로젝트](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent17)

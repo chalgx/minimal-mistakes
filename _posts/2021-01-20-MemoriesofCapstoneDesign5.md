@@ -98,5 +98,5 @@ description: 캡스톤 디자인을 하면서 경력자가 있으면 얼마나 �
 - [2.후천적 쌍둥이](https://chalgx.github.io/essay/MemoriesofCapstoneDesign2)
 - [3.환상을 팔아라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign3)
 - [4.작업을 거꾸로 거슬러 오르는 우리들](https://chalgx.github.io/essay/MemoriesofCapstoneDesign4)
-- [5.이래라 저래라 하는 사람](https://chalgx.github.io/essay/MemoriesofCapstoneDesign5)
+- 5.이래라 저래라 하는 사람
 - [6.같은 작품 다른 평가](https://chalgx.github.io/essay/MemoriesofCapstoneDesign6)

@@ -102,7 +102,7 @@ description: 이해란 어떤 과정이고 이것을 위해 어떤 식으로 공
 - [1.오해](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent1)
 - [2.심리](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent2)
 - [3.동기](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent3)
-- [4.이해](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent4)
+- 4.이해
 - [5.기억](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent5)
 - [6.수업](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent6)
 - [7.예습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent7)

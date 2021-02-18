@@ -54,7 +54,7 @@ description: 개념위주의 과목과 교양과목의 공부법을 알아본다
 - [9.프로그래밍 언어](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent9)
 - [10.수학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent10)
 - [11.과학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent11)
-- [12.개념 & 교양](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent12)
+- 12.개념 & 교양
 - [13.지필고사 & 수시고사](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent13)
 - [14.발표](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent14)
 - [15.실험 & 실습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent15)

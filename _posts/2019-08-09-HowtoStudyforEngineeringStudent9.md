@@ -93,7 +93,7 @@ description: 프로그래밍 언어를 공부하는 구체적인 방법에 대�
 - [6.수업](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent6)
 - [7.예습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent7)
 - [8.복습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent8)
-- [9.프로그래밍 언어](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent9)
+- 9.프로그래밍 언어
 - [10.수학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent10)
 - [11.과학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent11)
 - [12.개념 & 교양](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent12)

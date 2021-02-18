@@ -66,7 +66,7 @@ NXT를 굴리며 테스트를 하는데 문제가 발생했다. 돌아야 하는
 
 ## __텀 프로젝트의 추억 글__
 
-- [1.움직이지마](https://chalgx.github.io/essay/MemoriesofTermProject1)
+- 1.움직이지마
 - [2.미루지마](https://chalgx.github.io/essay/MemoriesofTermProject2)
 - [3.원래 한 번에 안 되는 거야](https://chalgx.github.io/essay/MemoriesofTermProject3)
 - [4.안 배웠는데](https://chalgx.github.io/essay/MemoriesofTermProject4)

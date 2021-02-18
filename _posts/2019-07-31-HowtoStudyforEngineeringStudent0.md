@@ -40,7 +40,7 @@ description: 공대생이 처한 환경과 그들을 위한 공부법을 소개�
 
 ## __공대생을 위한 공부법 글__
 
-- [0.시작하면서](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent0)
+- 0.시작하면서
 - [1.오해](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent1)
 - [2.심리](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent2)
 - [3.동기](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent3)

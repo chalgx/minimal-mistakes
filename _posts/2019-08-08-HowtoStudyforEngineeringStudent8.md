@@ -112,7 +112,7 @@ description: 복습의 중요성과 어떤 방식으로 해야 하는지 알아�
 - [5.기억](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent5)
 - [6.수업](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent6)
 - [7.예습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent7)
-- [8.복습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent8)
+- 8.복습
 - [9.프로그래밍 언어](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent9)
 - [10.수학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent10)
 - [11.과학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent11)

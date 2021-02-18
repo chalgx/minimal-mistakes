@@ -65,6 +65,6 @@ description: 실험 및 실습 과목을 어떻게 준비하고 효율적으로 
 - [12.개념 & 교양](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent12)
 - [13.지필고사 & 수시고사](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent13)
 - [14.발표](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent14)
-- [15.실험 & 실습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent15)
+- 15.실험 & 실습
 - [16.보고서](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent16)
 - [17.텀프로젝트](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent17)

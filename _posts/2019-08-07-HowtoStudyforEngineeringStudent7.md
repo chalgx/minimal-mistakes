@@ -67,7 +67,7 @@ description: 예습을 하는 이유와 그 방법에 대해 알아본다.
 - [4.이해](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent4)
 - [5.기억](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent5)
 - [6.수업](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent6)
-- [7.예습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent7)
+- 7.예습
 - [8.복습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent8)
 - [9.프로그래밍 언어](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent9)
 - [10.수학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent10)

@@ -102,7 +102,7 @@ description: 발표를 준비하는 방법에 대해 소개한다.
 - [11.과학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent11)
 - [12.개념 & 교양](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent12)
 - [13.지필고사 & 수시고사](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent13)
-- [14.발표](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent14)
+- 14.발표
 - [15.실험 & 실습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent15)
 - [16.보고서](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent16)
 - [17.텀프로젝트](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent17)

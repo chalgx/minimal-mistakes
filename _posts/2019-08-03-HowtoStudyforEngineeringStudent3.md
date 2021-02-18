@@ -65,7 +65,7 @@ description: 공부를 지속할 수 있는 동기에 대해 알아본다.
 - [0.시작하면서](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent0)
 - [1.오해](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent1)
 - [2.심리](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent2)
-- [3.동기](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent3)
+- 3.동기
 - [4.이해](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent4)
 - [5.기억](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent5)
 - [6.수업](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent6)

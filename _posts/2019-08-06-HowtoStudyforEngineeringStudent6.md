@@ -102,7 +102,7 @@ description: 수업이 중요한 이유와 이 시간을 최대한 활용할 방
 - [3.동기](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent3)
 - [4.이해](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent4)
 - [5.기억](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent5)
-- [6.수업](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent6)
+- 6.수업
 - [7.예습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent7)
 - [8.복습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent8)
 - [9.프로그래밍 언어](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent9)

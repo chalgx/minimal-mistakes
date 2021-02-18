@@ -89,7 +89,7 @@ description: 텀 프로젝트를 하면서 때로는 배우지도 않은 것을 
 - [1.움직이지마](https://chalgx.github.io/essay/MemoriesofTermProject1)
 - [2.미루지마](https://chalgx.github.io/essay/MemoriesofTermProject2)
 - [3.원래 한 번에 안 되는 거야](https://chalgx.github.io/essay/MemoriesofTermProject3)
-- [4.안 배웠는데](https://chalgx.github.io/essay/MemoriesofTermProject4)
+- 4.안 배웠는데
 - [5.잘난척](https://chalgx.github.io/essay/MemoriesofTermProject5)
 - [6.고행 그리고 기도](https://chalgx.github.io/essay/MemoriesofTermProject6)
 - [7.에라 모르겠다](https://chalgx.github.io/essay/MemoriesofTermProject7)

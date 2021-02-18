@@ -95,7 +95,7 @@ description: 기억의 메커니즘을 이해하고 활용할 방법을 찾는�
 - [2.심리](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent2)
 - [3.동기](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent3)
 - [4.이해](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent4)
-- [5.기억](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent5)
+- 5.기억
 - [6.수업](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent6)
 - [7.예습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent7)
 - [8.복습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent8)

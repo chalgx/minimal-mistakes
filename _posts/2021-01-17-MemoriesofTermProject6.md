@@ -242,5 +242,5 @@ OrCad로 회로도를 제출하는 게 첫 번째 과제였다. 하지만 바로
 - [3.원래 한 번에 안 되는 거야](https://chalgx.github.io/essay/MemoriesofTermProject3)
 - [4.안 배웠는데](https://chalgx.github.io/essay/MemoriesofTermProject4)
 - [5.잘난척](https://chalgx.github.io/essay/MemoriesofTermProject5)
-- [6.고행 그리고 기도](https://chalgx.github.io/essay/MemoriesofTermProject6)
+- 6.고행 그리고 기도
 - [7.에라 모르겠다](https://chalgx.github.io/essay/MemoriesofTermProject7)

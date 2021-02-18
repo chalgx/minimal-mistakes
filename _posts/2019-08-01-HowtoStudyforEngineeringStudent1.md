@@ -67,7 +67,7 @@ description: 공부에 관한 잘못된 선입견에 관해 설명하고 효율�
 ## __공대생을 위한 공부법 글__
 
 - [0.시작하면서](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent0)
-- [1.오해](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent1)
+- 1.오해
 - [2.심리](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent2)
 - [3.동기](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent3)
 - [4.이해](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent4)

@@ -69,7 +69,7 @@ description: 과학 혹은 이와 비슷한 분야를 공부하는 방법을 소
 - [8.복습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent8)
 - [9.프로그래밍 언어](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent9)
 - [10.수학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent10)
-- [11.과학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent11)
+- 11.과학
 - [12.개념 & 교양](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent12)
 - [13.지필고사 & 수시고사](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent13)
 - [14.발표](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent14)

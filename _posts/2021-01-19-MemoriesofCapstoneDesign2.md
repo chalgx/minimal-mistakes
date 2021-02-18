@@ -115,7 +115,7 @@ IT 분야라면 한이음 공모전, 프로보노 공모전, 이브와 공모전
 ## __캡스톤디자인(졸업작품)의 추억 글__
 
 - [1.깊게 좀 생각해라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign1)
-- [2.후천적 쌍둥이](https://chalgx.github.io/essay/MemoriesofCapstoneDesign2)
+- 2.후천적 쌍둥이
 - [3.환상을 팔아라](https://chalgx.github.io/essay/MemoriesofCapstoneDesign3)
 - [4.작업을 거꾸로 거슬러 오르는 우리들](https://chalgx.github.io/essay/MemoriesofCapstoneDesign4)
 - [5.이래라 저래라 하는 사람](https://chalgx.github.io/essay/MemoriesofCapstoneDesign5)

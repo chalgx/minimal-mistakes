@@ -79,7 +79,7 @@ description: 시험을 어떻게 준비해야 잘 볼 수 있는지 소개한다
 - [10.수학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent10)
 - [11.과학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent11)
 - [12.개념 & 교양](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent12)
-- [13.지필고사 & 수시고사](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent13)
+- 13.지필고사 & 수시고사
 - [14.발표](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent14)
 - [15.실험 & 실습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent15)
 - [16.보고서](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent16)

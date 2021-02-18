@@ -41,7 +41,7 @@ description: 텀 프로젝트를 하면서 일을 미루지 않고 최대한 빨
 ## __텀 프로젝트의 추억 글__
 
 - [1.움직이지마](https://chalgx.github.io/essay/MemoriesofTermProject1)
-- [2.미루지마](https://chalgx.github.io/essay/MemoriesofTermProject2)
+- 2.미루지마
 - [3.원래 한 번에 안 되는 거야](https://chalgx.github.io/essay/MemoriesofTermProject3)
 - [4.안 배웠는데](https://chalgx.github.io/essay/MemoriesofTermProject4)
 - [5.잘난척](https://chalgx.github.io/essay/MemoriesofTermProject5)

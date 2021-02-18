@@ -88,7 +88,7 @@ description: 수학이나 이와 유사한 특징을 가지는 분야를 공부�
 - [7.예습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent7)
 - [8.복습](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent8)
 - [9.프로그래밍 언어](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent9)
-- [10.수학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent10)
+- 10.수학
 - [11.과학](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent11)
 - [12.개념 & 교양](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent12)
 - [13.지필고사 & 수시고사](https://chalgx.github.io/essay/HowtoStudyforEngineeringStudent13)

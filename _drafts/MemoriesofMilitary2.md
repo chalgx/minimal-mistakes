@@ -1,5 +1,5 @@
 ---
-title: 군대의 추억_2.이등병이 되는 건 매우 어렵다.
+title: 군대의 추억_2.입소식은 속임수와 같다.
 date: 
 categories: [Essay]
 tags: [essay, memories, military]

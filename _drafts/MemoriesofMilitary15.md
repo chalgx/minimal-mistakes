@@ -1,12 +1,12 @@
 ---
-title: 군대의 추억_15.성격을 고치고 담배를 피자
+title: 군대의 추억_15.사람이 너무 부족하다.
 date: 
 categories: [Essay]
 tags: [essay, memories, military]
 pin: true
 toc: true
 toc_sticky: true
-description: 성격을 고쳐야겠다고 느낀 일과 담배를 펴야만 한다고 생각했던 이유에 대해 이야기한다.
+description: 후방 부대의 단점 중 하나인 사람이 부족한 게 얼마나 큰 문제인지 설명한다.
 ---
 
 _본 내용에는 과장되거나 허위 사실이 포함되어 있음._

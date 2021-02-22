@@ -1,6 +1,6 @@
 ---
 title: 내 투자 원칙
-date: 2021-02-24
+date: 2021-03-10
 categories: [Essay]
 tags: [essay, invest]
 pin: true

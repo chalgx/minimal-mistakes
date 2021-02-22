@@ -1,6 +1,6 @@
 ---
 title: 과제의 추억_2.보고서 작성
-date: 2021-04-05
+date: 2021-02-28
 categories: [Essay]
 tags: [essay, report]
 pin: true

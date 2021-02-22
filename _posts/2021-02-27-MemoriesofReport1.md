@@ -1,6 +1,6 @@
 ---
 title: 과제의 추억_1.문제 풀기
-date: 2021-03-30
+date: 2021-02-27
 categories: [Essay]
 tags: [essay, report]
 pin: true

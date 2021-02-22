@@ -1,6 +1,6 @@
 ---
 title: 내부고발자
-date: 2021-03-25
+date: 2021-03-05
 categories: [Essay]
 tags: [essay, whistleblow]
 pin: true

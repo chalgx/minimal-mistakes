@@ -1,6 +1,6 @@
 ---
 title: 일 잘하는 사람이 되는 법
-date: 2021-03-10
+date: 2021-02-24
 categories: [Essay]
 tags: [essay, career]
 pin: true

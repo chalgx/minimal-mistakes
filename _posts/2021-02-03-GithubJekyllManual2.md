@@ -113,3 +113,15 @@ permalink: /about/
 그러면 /about/만 경로로 설정해도 접속이 가능하다. 이 주소는 다른 것과 겹치면 안 된다.
 
 혹은 _config.yml에 permalink 변수를 추가해서 사용할 수 있다.
+
+***
+
+## __Jekyll을 이용해서 깃허브로 블로그 만들기__
+
+- [1.Jekyll 설치 및 github 연동](https://chalgx.github.io/manual/GithubJekyllManual1/)
+
+- 2.포스트, 페이지 작성
+
+- [3.robots.txt, sitemap, feed 생성 및 설정](https://chalgx.github.io/manual/GithubJekyllManual3/)
+
+- [4.서치 콘솔, 애널리틱스, 웹마스터 연동](https://chalgx.github.io/manual/GithubJekyllManual4/)

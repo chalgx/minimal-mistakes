@@ -95,3 +95,15 @@ C언어로 필요한 기능을 만드는 식으로 접근하는 것은 처음이
 그에 반해 우리가 알기로는 우리 학교에서 처음으로 나가는 것이었다. 연구실은 생긴 지 얼마 안 돼서 가지고 있는 것도 많지 않았다.
 
 역사와 유서가 깊은 곳에 간다는 것, IP를 가진 곳에 있는 게 얼마나 큰 행운인지를 알게 해준 경험이다.
+
+***
+
+## __공모전의 추억__
+
+- 1.기회조차 얻지 못한 이유
+
+- [2.날려버린 기회](https://chalgx.github.io/essay/MemoriesofContest2/)
+
+- [3.무엇이 다를까](https://chalgx.github.io/essay/MemoriesofContest3/)
+
+- [4.글 잘 쓰나?](https://chalgx.github.io/essay/MemoriesofContest4/)

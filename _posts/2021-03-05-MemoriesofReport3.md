@@ -1,6 +1,6 @@
 ---
 title: 과제의 추억_3.교양
-date: 2021-04-10
+date: 2021-03-05
 categories: [Essay]
 tags: [essay, report]
 pin: true
@@ -74,3 +74,15 @@ description: 대학 생활 중 교양과목의 과제를 하며 느낀 점을 �
 지하경제 양성화도 별로 효과가 없을 것인 게 실물자산이나 해외 도피처로 돈이 갈 게 자명했다.
 
 각종 발생할 수 있는 혼란까지 고려하면 실행할 필요가 있을까 하는 생각이 들었다.
+
+***
+
+## __과제의 추억__
+
+- [1.문제풀기](https://chalgx.github.io/essay/MemoriesofReport1/)
+
+- [2.보고서 작성](https://chalgx.github.io/essay/MemoriesofReport2/)
+
+- 3.교양
+
+- [4.기타](https://chalgx.github.io/essay/MemoriesofReport4/)

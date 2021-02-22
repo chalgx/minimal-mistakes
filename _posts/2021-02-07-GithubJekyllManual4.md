@@ -215,3 +215,15 @@ _includes에 있는 default.html이나 head.html, footer.html 중 한 곳에 붙
 블로그에 접속하고 애널리틱스에서 실시간 분석에 들어가서 접속이 감지되는지 확인한다. 잘 된다면 연결이 된 것이다.
 
 ![NA7](/images/Jekyll4/NA7.PNG)
+
+***
+
+## __Jekyll을 이용해서 깃허브로 블로그 만들기__
+
+- [1.Jekyll 설치 및 github 연동](https://chalgx.github.io/manual/GithubJekyllManual1/)
+
+- [2.포스트, 페이지 작성](https://chalgx.github.io/manual/GithubJekyllManual2/)
+
+- [3.robots.txt, sitemap, feed 생성 및 설정](https://chalgx.github.io/manual/GithubJekyllManual3/)
+
+- 4.서치 콘솔, 애널리틱스, 웹마스터 연동

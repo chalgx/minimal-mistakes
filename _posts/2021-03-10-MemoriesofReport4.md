@@ -1,6 +1,6 @@
 ---
 title: 과제의 추억_4.기타
-date: 2021-04-15
+date: 2021-03-10
 categories: [Essay]
 tags: [essay, report]
 pin: true
@@ -106,3 +106,15 @@ Spice 보고서는 조교가 채점하는데 양식을 아예 제공해서 줬�
 업무 관련 이메일 쓰는 과제도 있었는데 따로 상담을 잡아서 피드백을 받아야 했다. 난 크게 고칠 게 없어서 빠르게 끝났다.
 
 조별 발표를 하기 위해 진행한 회의록도 제출했다. 단순히 제출용이라서 적당히 쓰고 끝냈다.
+
+***
+
+## __과제의 추억__
+
+- [1.문제풀기](https://chalgx.github.io/essay/MemoriesofReport1/)
+
+- [2.보고서 작성](https://chalgx.github.io/essay/MemoriesofReport2/)
+
+- [3.교양](https://chalgx.github.io/essay/MemoriesofReport3/)
+
+- 4.기타

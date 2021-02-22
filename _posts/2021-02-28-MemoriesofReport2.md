@@ -124,3 +124,15 @@ SoC 때의 경험을 살려서 기본적인 틀을 갖췄다.
 나중에 교재와 이전 연도에 썼던 교재를 둘 다 찾아서 공부하면서 교수님이 원했던 방향이 무엇인지 알 수 있었다.
 
 과제는 이전 연도 교재에 맞춰서 많이 내주셨었다는 걸 뒤늦게 알았고 진작에 조사해보지 않은 걸 후회했다.
+
+***
+
+## __과제의 추억__
+
+- [1.문제풀기](https://chalgx.github.io/essay/MemoriesofReport1/)
+
+- 2.보고서 작성
+
+- [3.교양](https://chalgx.github.io/essay/MemoriesofReport3/)
+
+- [4.기타](https://chalgx.github.io/essay/MemoriesofReport4/)

@@ -108,3 +108,15 @@ description: 대학 생활 중 문제를 풀어서 제출하는 유형의 과제
 ## __RF__
 
 교수님은 이 과목보다 마이크로프로세서 같은 과목을 열심히 하라며 과제를 딱 1번 내셨다. 교재에 있는 문제를 풀어서 내는 거였는데 솔루션은 없었다. 과거의 경험을 통해 몰입해서 매달려서 모든 문제를 풀어서 제출했다.
+
+***
+
+## __과제의 추억__
+
+- 1.문제풀기
+
+- [2.보고서 작성](https://chalgx.github.io/essay/MemoriesofReport2/)
+
+- [3.교양](https://chalgx.github.io/essay/MemoriesofReport3/)
+
+- [4.기타](https://chalgx.github.io/essay/MemoriesofReport4/)

@@ -52,3 +52,15 @@ description: 공모전을 하면서 수상을 할 수 있는 기회가 있었는
 조금만 시간을 내면 할 수 있었다. 아니면 그냥 했던 걸 그대로 내놓을 수도 있었다.
 
 그래도 만든 게 영 좋아 보이지는 않아서 보이기가 부끄러웠는데 그냥 이렇게 끝난 게 다행이라는 생각도 조금 들었다.
+
+***
+
+## __공모전의 추억__
+
+- [1.기회조차 얻지 못한 이유](https://chalgx.github.io/essay/MemoriesofContest1/)
+
+- 2.날려버린 기회
+
+- [3.무엇이 다를까](https://chalgx.github.io/essay/MemoriesofContest3/)
+
+- [4.글 잘 쓰나?](https://chalgx.github.io/essay/MemoriesofContest4/)

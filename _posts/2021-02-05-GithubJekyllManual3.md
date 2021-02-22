@@ -169,3 +169,15 @@ Jekyll-feed 플러그인으로 자동으로 생성해줄 수 있는데 이때는
 여기까지 했으면 생성이 완료된 것이다.
 
 네이버 웹마스터에서 RSS를 제출하는 건 필수가 아니다. 번거롭다면 생략해도 된다.
+
+***
+
+## __Jekyll을 이용해서 깃허브로 블로그 만들기__
+
+- [1.Jekyll 설치 및 github 연동](https://chalgx.github.io/manual/GithubJekyllManual1/)
+
+- [2.포스트, 페이지 작성](https://chalgx.github.io/manual/GithubJekyllManual2/)
+
+- 3.robots.txt, sitemap, feed 생성 및 설정
+
+- [4.서치 콘솔, 애널리틱스, 웹마스터 연동](https://chalgx.github.io/manual/GithubJekyllManual4/)

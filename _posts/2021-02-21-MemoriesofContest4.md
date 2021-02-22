@@ -62,3 +62,15 @@ description: 공모전 중 수기 공모전에 관한 경험을 소개한다.
 20살 때부터 취미로 소설을 썼다. 논리적인 글과 소설은 다르기에 소설 많이 써본다고 글을 잘 쓰는 건 아니라고 생각했다. 하지만 아니었다. 내가 상상한 것, 이야기하고 싶은 것을 계속 적고, 고민하고, 고치다 보니 글 쓰는 근본적인 실력이 늘었다.
 
 수기 공모전에 참여해서 상을 받았는데 운이 좋았던 것일 수도 있으나 비록 소설이라도 많은 글을 써본 경험이 없었다면 이런 결과는 없었을 것 같다.
+
+***
+
+## __공모전의 추억__
+
+- [1.기회조차 얻지 못한 이유](https://chalgx.github.io/essay/MemoriesofContest1/)
+
+- [2.날려버린 기회](https://chalgx.github.io/essay/MemoriesofContest2/)
+
+- [3.무엇이 다를까](https://chalgx.github.io/essay/MemoriesofContest3/)
+
+- 4.글 잘 쓰나?

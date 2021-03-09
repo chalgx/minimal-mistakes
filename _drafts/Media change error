@@ -1,0 +1,10 @@
+Media change: please insert the disc labeled  'Ubuntu 18.04.5 LTS _Bionic Beaver_ - Release amd64 (20200806.1)' in the drive '/cdrom/' and press [Enter]
+
+
+sudo vi /etc/apt/sources.list
+
+deb cdrom:[Ubuntu 18.04.5 LTS _Bionic Beaver_ - Release amd64 (20200806.1)]/ bionic main restricted
+
+->
+
+#deb cdrom:[Ubuntu 18.04.5 LTS _Bionic Beaver_ - Release amd64 (20200806.1)]/ bionic main restricted

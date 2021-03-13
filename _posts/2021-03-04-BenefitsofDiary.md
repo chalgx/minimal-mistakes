@@ -1,6 +1,6 @@
 ---
 title: 일기의 장점
-date: 2021-03-30
+date: 2021-03-04
 categories: [Essay]
 tags: [essay, diary]
 pin: true

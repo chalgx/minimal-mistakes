@@ -1,6 +1,6 @@
 ---
 title: 잘 되길 바라며
-date: 2021-04-25
+date: 2021-03-03
 categories: [Essay]
 tags: [essay]
 pin: true

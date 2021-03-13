@@ -4,6 +4,8 @@ Allow: /
 
 User-agent: *
 
-Disallow: /essay/PainofGoal/
+Disallow: /writing/essay/AdviceforUniversity7/
+Disallow: /2021-02-07-GithubJekyllManual4/
+Disallow: google695ca0511bccc0fa.html
 
 Sitemap: https://chalgx.github.io/sitemap.xml

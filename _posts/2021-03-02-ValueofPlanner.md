@@ -1,6 +1,6 @@
 ---
 title: 플래너의 가치
-date: 2021-04-05
+date: 2021-03-02
 categories: [Essay]
 tags: [essay, planner]
 pin: true

@@ -1,6 +1,6 @@
 ---
 title: 목표가 있기에 받는 고통
-date: 2021-03-15
+date: 2021-03-13
 categories: [Essay]
 tags: [essay]
 pin: true

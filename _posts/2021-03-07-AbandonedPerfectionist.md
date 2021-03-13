@@ -1,6 +1,6 @@
 ---
 title: 포기하는 완벽주의자
-date: 2021-04-20
+date: 2021-03-07
 categories: [Essay]
 tags: [essay, perfectionist]
 pin: true

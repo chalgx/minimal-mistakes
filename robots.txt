@@ -2,4 +2,8 @@ User-agent: *
 
 Allow: /
 
+User-agent: *
+
+Disallow: /essay/PainofGoal/
+
 Sitemap: https://chalgx.github.io/sitemap.xml

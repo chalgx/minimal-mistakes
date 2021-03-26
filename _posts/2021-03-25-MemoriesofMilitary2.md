@@ -1,6 +1,6 @@
 ---
 title: 군대의 추억_2.군대에 가는 게 실감나지 않는다.
-date: 
+date: 2021-03-25
 categories: [Essay]
 tags: [essay, memories, military]
 pin: true

@@ -529,14 +529,14 @@ URL에 빈 공백이 있어야 한다면 %20을 삽입해야 함
   ![Test](/images/TestImage.png "This is  a test image")
 
   이미지에 링크 연동
-  [![Test](/images/TestImage.png) "THIS IS A TEST IMAGE"](https://changx545.github.io)
+  [![Test](/images/TestImage.png) "THIS IS A TEST IMAGE"](https://chalgx.github.io)
   ```
 
 * 출력 결과
 
   ![Test](/images/TestImage.png "This is  a test image")
 
-  [![Test](/images/TestImage.png "THIS IS A TEST IMAGE")](https://changx545.github.io)
+  [![Test](/images/TestImage.png "THIS IS A TEST IMAGE")](https://chalgx.github.io)
 
 ***
 

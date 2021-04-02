@@ -6,7 +6,7 @@ tags: [essay, memories, military]
 pin: true
 toc: true
 toc_sticky: true
-description: 입소실 할 때의 느낀 것을 설명한다.
+description: 입소 할 때의 느낀 것을 설명한다.
 ---
 
 _본 내용에는 과장되거나 허위 사실이 포함되어 있음._

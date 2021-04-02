@@ -1,6 +1,6 @@
 ---
 title: 군대의 추억_3.이등병이 되는 건 매우 어렵다.
-date: 
+date: 2021-04-02
 categories: [Essay]
 tags: [essay, memories, military]
 pin: true

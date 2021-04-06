@@ -8,5 +8,6 @@ Disallow: /images
 Disallow: /writing/essay/AdviceforUniversity7/
 Disallow: /2021-02-07-GithubJekyllManual4/
 Disallow: /google695ca0511bccc0fa.html
+Disallow: /_pages
 
 Sitemap: https://chalgx.github.io/sitemap.xml

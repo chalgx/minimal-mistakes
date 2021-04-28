@@ -1,6 +1,6 @@
 ---
 title: 과학혁명의 구조 리뷰
-date: 2021-04-26
+date: 2021-04-28
 categories: [Review]
 tags: [review]
 pin: true

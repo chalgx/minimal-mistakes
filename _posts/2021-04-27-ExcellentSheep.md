@@ -1,6 +1,6 @@
 ---
 title: 85학번 영수를 아시나요 리뷰
-date: 2021-04-26
+date: 2021-04-27
 categories: [Review]
 tags: [review]
 pin: true

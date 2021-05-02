@@ -1,5 +1,5 @@
 ---
-title: 글쓰기의 공중부양
+title: 글쓰기의 공중부양 리뷰
 date: 2021-05-02
 categories: [Review]
 tags: [review]

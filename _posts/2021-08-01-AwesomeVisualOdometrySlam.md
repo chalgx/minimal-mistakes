@@ -6,10 +6,9 @@ tags: [research, awesome, visual, odometry, slam]
 pin: true
 toc: true
 toc_sticky: true
-description: 
+description: List of Visual Odometry, SLAM Contents
 ---
 
-## Table of Contents
 
 ## Learning
 

@@ -26,7 +26,7 @@ description: List of Visual Odometry, SLAM Contents
 - [Visual Odometry [Tutorial], Scaramuzza and Fraundorfer, RAM 2011](https://ieeexplore.ieee.org/abstract/document/6096039)
 - [Visual Odometry : Part II: Matching, Robustness, Optimization, and Applications, Scaramuzza and Fraundorfer, RAM 2012](https://ieeexplore.ieee.org/abstract/document/6153423)
 - [An Overview to Visual Odometry and Visual SLAM: Applications to Mobile Robotics, Yousif et al.,  Intell Ind Syst 2015](https://link.springer.com/article/10.1007/s40903-015-0032-7)
-- [The Future of Real-Time SLAM: Sensors, Processors, Representations, and Algorithms, Davison, ICCV 2015 Workshop](https://wp.doc.ic.ac.uk/thefutureofslam/) / [15 Years of Visual SLAM, Davison, ICCV 2015 Workshop](http://wp.doc.ic.ac.uk/thefutureofslam/wp-content/uploads/sites/93/2015/12/slides_ajd.pdf)
+- [The Future of Real-Time SLAM: Sensors, Processors, Representations, and Algorithms, Davison, ICCV 2015 Workshop](https://wp.doc.ic.ac.uk/thefutureofslam/) [15 Years of Visual SLAM, Davison, ICCV 2015 Workshop](http://wp.doc.ic.ac.uk/thefutureofslam/wp-content/uploads/sites/93/2015/12/slides_ajd.pdf)
 - [Past, present, and future of simultaneous localization and mapping: Toward the robust-perception age, Cadena et al., T-RO 2016](https://ieeexplore.ieee.org/abstract/document/7747236)
 - [Event-based Vision: A Survey, Gallego et al., arXiv 2019](https://arxiv.org/abs/1904.08405)
 - [A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence, Chen et al., arXiv 2020](https://arxiv.org/abs/2006.12567)
@@ -38,25 +38,32 @@ description: List of Visual Odometry, SLAM Contents
 |Year|Title|Name|Doc|Code|Website|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |2008|Make3D: Learning 3D Scene Structure from a Single Still Image|Make3D|[Pdf][Paper20081]|[Code][Code20081]|[Webpage][Webpage20081]|
+
 |2011|StereoScan: Dense 3d reconstruction in real-time|VISO2|[Pdf][Paper20111]|[Code][Code20111]|[Webpage][Webpage20111]|
+
 |2015|ORB-SLAM: A Versatile and Accurate Monocular SLAM System|ORB-SLAM2|[Pdf][Paper20151]|-|-|
 |2015|Depth and Surface Normal Estimation From Monocular Images Using Regression on Deep Features and Hierarchical CRFs|-|[Pdf][Paper20152]|-|-|
+
 |2016|Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue|-|[Pdf][Paper20161]|[Code][Code20161]|-|
+
 |2017|Unsupervised Learning of Depth and Ego-Motion From Video|SfM-Learner|[Pdf][Paper20171]|[Code][Code20171]|-|
 |2017|Multi-Scale Continuous CRFs as Sequential Deep networks for Monocular Depth Estimation|MS-CRF|[Pdf][Paper20172]|[Code][Code20172]|-|
+
 |2018|Unsupervised Learning of Depth and Ego-Motion From Monocular Video Using 3D Geometric Constraints|Vid2Depth|[Pdf][Paper20181]|[Code][Code20181]|[Webpage][Webpage20181]|
 |2018|GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose|GeoNet|[Pdf][Paper20182]|[Code][Code20182]|-|
 |2018| Unsupervised Learning of Monocular Depth Estimation and Visual Odometry With Deep Feature Reconstruction|Depth-VO-Feat|[Pdf][Paper20183]|[Code][Code20183]|-|
 |2018|Unsupervised Learning of Depth and Ego-Motion From Monocular Video Using 3D Geometric Constraints|-|[Pdf][Paper20183]|-|-|
 |2018|Deep Ordinal Regression Network for Monocular Depth Estimation|DORN|[Pdf][Paper20184]|[Code][Code20184]|-|
+
 |2019|Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry|-|[Pdf][Paper20191]|-|-|
 |2019|Digging Into Self-Supervised Monocular Depth Estimation|Monodepth2|[Pdf][Paper20192]|[Code][Code20192]|-|
 |2019|Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video|SC-SfMLearner|[Pdf][Paper20193]|-|-|
 |2021|Unsupervised Scale-consistent Depth Learning from Video|SC-SfMLearner|[Pdf][Paper20211]|[Code][Code20211]|[Webpage][Webpage20211]|
 |2019|Moving Indoor: Unsupervised Video Depth Learning in Challenging Environments|-|[Pdf][Paper20194]|-|-|
 |2019|Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation|-|[Pdf][Paper20195]|[Code][Code20195]|-|
+
 |2020|Visual Odometry Revisited: What Should Be Learnt?|DF-VO|[Pdf][Paper20205]|[Code][Code20205]|-|
-|2021|DF-VO: What Should Be Learnt for Visual Odometry?|DF-VO|[Pdf][Paper20212]|||
+|2021|DF-VO: What Should Be Learnt for Visual Odometry?|DF-VO|[Pdf][Paper20212]|[Code][Code20212]|-|
 |2020|D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry|D3VO|[Pdf][Paper20202]|-|-|
 |2020|Towards Better Generalization: Joint Depth-Pose Learning without PoseNet|TrianFlow|[Pdf][Paper20203]|[Code][Code20203]|-|
 |2020|P2Net: Patch-Match and Plane-Regularization for Unsupervised Indoor Depth Estimation|-|[Pdf][Paper20204]|-|-|
@@ -81,7 +88,7 @@ description: List of Visual Odometry, SLAM Contents
 [Code20171]: https://github.com/tinghuiz/SfMLearner
 
 [Paper20172]: https://openaccess.thecvf.com/content_cvpr_2017/html/Xu_Multi-Scale_Continuous_CRFs_CVPR_2017_paper.html
-[Code20172]: https://github.com/danxuhk/ContinuousCRF-CNN 
+[Code20172]: https://github.com/danxuhk/ContinuousCRF-CNN
 
 [Paper20181]: https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf
 [Code20181]: https://sites.google.com/view/vid2depth/home#h.p_2UNFmTrz01jq
@@ -141,9 +148,9 @@ description: List of Visual Odometry, SLAM Contents
 
 - SURF: Speeded Up Robust Features, Bay et al., ECCV 2006
 
-- MonoSLAM: Real-Time Single Camera SLAM, Davison et al., TPAMI 2007 | code
-- Parallel tracking and mapping for small AR workspaces, Klein and Murray, ISMAR 2007 | code
-- Georg Klein and David Murray, "Parallel Tracking and Mapping for Small AR Workspaces", Proc. ISMAR 2007 
+- MonoSLAM: Real-Time Single Camera SLAM, Davison et al., TPAMI 2007
+- Parallel tracking and mapping for small AR workspaces, Klein and Murray, ISMAR 2007
+- Georg Klein and David Murray, "Parallel Tracking and Mapping for Small AR Workspaces", Proc. ISMAR 2007
 
 - Real-time stereo visual odometry for autonomous ground vehicles, Howard, IROS 2008
 - Georg Klein and David Murray, "Improving the Agility of Keyframe-based SLAM", Proc. ECCV 2008
@@ -151,16 +158,16 @@ description: List of Visual Odometry, SLAM Contents
 - Faster and Better: A Machine Learning Approach to Corner Detection, Rosten et al., TPAMI 2010.
 
 - DTAM: Dense tracking and mapping in real-time, Newcombe et al., ICCV 2011
-- Real-Time Visual Odometry from Dense RGB-D Images, Steinbruecker et al. ICCV 2011 | code
+- Real-Time Visual Odometry from Dense RGB-D Images, Steinbruecker et al. ICCV 2011
 - KinectFusion: Real-time dense surface mapping and tracking, Newcombe et al., ISMAR 2011
 - ORB: An efficient alternative to SIFT or SURF, Rublee et al., ICCV 2011
 
-- Dense Visual SLAM for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the Int. Conf. on Intelligent Robot Systems (IROS), 2013. 
-- Robust Odometry Estimation for RGB-D Cameras, Kerl et al. ICRA 2013 | code
-- Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014 Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013 
+- Dense Visual SLAM for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the Int. Conf. on Intelligent Robot Systems (IROS), 2013.
+- Robust Odometry Estimation for RGB-D Cameras, Kerl et al. ICRA 2013
+- Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014 Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
 
-- SVO: Fast semi-direct monocular visual odometry, Forster et al., ICRA 2014 | code
-- LSD-SLAM: Large-Scale Direct Monocular SLAM, Engel et al., ECCV 2014 | code
+- SVO: Fast semi-direct monocular visual odometry, Forster et al., ICRA 2014
+- LSD-SLAM: Large-Scale Direct Monocular SLAM, Engel et al., ECCV 2014
 - FLANN: Scalable Nearest Neighbor Algorithms for High Dimensional Data, Muja and Lowe, TPAMI 2014
 - Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion, T. Whelan, M. Kaess, H. Johannsson, M.F. Fallon, J. J. Leonard and J.B. McDonald, IJRR '14
 
@@ -174,8 +181,8 @@ description: List of Visual Odometry, SLAM Contents
 - Simultaneous Optical Flow and Intensity Estimation From an Event Camera, Bardow et al., CVPR 2016
 - Deep Image Homography Estimation, DeTone et al., arXiv 2016
 
-- ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras, Mur-Artal et al., T-RO 2017 
-- DSO: Direct Sparse Odometry, Engel et al., TPAMI 2017 
+- ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras, Mur-Artal et al., T-RO 2017
+- DSO: Direct Sparse Odometry, Engel et al., TPAMI 2017
 - DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks
 - UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning
 - GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence, Bian et al., CVPR 2017
@@ -186,20 +193,20 @@ description: List of Visual Odometry, SLAM Contents
 - Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction, Zhan et al., CVPR 2018
 - CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM, Bloesch et al., CVPR 2018
 - Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry, Yang et al., ECCV 2018
-- DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes, Bescos et al., RA-L, 2018 
+- DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes, Bescos et al., RA-L, 2018
 - Digging Into Self-Supervised Monocular Depth Estimation
 - SuperPoint: Self-Supervised Interest Point Detection and Description, DeTone et al., CVPR 2018 Workshop
 - Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High-Speed Scenarios, Vidal, RA-L 2018
 
-- OpenVSLAM: A Versatile Visual SLAM Framework, Sumikura et al., ACM MM 2019 | code
+- OpenVSLAM: A Versatile Visual SLAM Framework, Sumikura et al., ACM MM 2019
 - GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks
-- Pose Graph Optimization for Unsupervised Monocular Visual Odometry |
+- Pose Graph Optimization for Unsupervised Monocular Visual Odometry
 - R2D2: Repeatable and Reliable Detector and Descriptor, Revaud et al., NeurIPS 2019
 - D2-Net: A Trainable CNN for Joint Description and Detection of Local Features, Dusmanu et al., CVPR 2019
 - Deep Graphical Feature Learning for the Feature Matching Problem, Zhang and Lee, ICCV 2019
 
-- Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping, Rosinol et al., ICRA 2020 
-- DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features, Li et al., IROS 2020 
+- Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping, Rosinol et al., ICRA 2020
+- DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features, Li et al., IROS 2020
 - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM, Campos et al., arXiv 2020
 - SuperGlue: Learning Feature Matching with Graph Neural Networks, Sarlin et al., CVPR 2020
 - High-dimensional Convolutional Networks for Geometric Pattern Recognition, Choy et al., CVPR 2020
@@ -216,22 +223,78 @@ description: List of Visual Odometry, SLAM Contents
 - [LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping](https://awesomeopensource.com/project/TixiaoShan/LVI-SAM)
 
 ## Dataset
+|Name|Paper|Website|
+|:-:|:-:|:-:|
+|nuScenes|||
+|KITTI|||
+|Waymo Open Dataset|||
+|Lyft Level 5 AV Dataset 2019|||
+|KAIST Urban Dataset|||
+|TUM RGB-D|||
+|TUM MonoVO|||
+|TUM VI|||
+|UNI-Freiburg|||
+|ADVIO|||
+|Oxford RobotCar Dataset|||
+|HRI (Honda Research Institute) Driving Datasets|||
+|Argoverse|||
+|EuRoC Dataset|||
+|Malaga|||
+|ICL-NUIM|||
+|Cityscapes|||
+|NYUv2|[Indoor Segmentation and Support Inference from RGBD Images][DatasetPaper]|[DatasetWebsite]|
+|:=:|:=:|:=:|:=:|:=:|:=:|
 
-- [nuScenes](https://www.nuscenes.org/)
-- [KITTI](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
-- [Waymo Open Dataset](https://waymo.com/open/)
-- [Lyft Level 5 AV Dataset 2019](https://level-5.global/data/)
-- [KAIST Urban Dataset](https://irap.kaist.ac.kr/dataset/)
-- [TUM RGB-D](https://vision.in.tum.de/data/datasets/rgbd-dataset/download)
-- [TUM MonoVO](https://vision.in.tum.de/data/datasets/mono-dataset)
-- [TUM VI](https://vision.in.tum.de/data/datasets/visual-inertial-dataset)
-- [UNI-Freiburg](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
-- [ADVIO](https://github.com/AaltoVision/ADVIO)
-- [Oxford RobotCar Dataset](https://robotcar-dataset.robots.ox.ac.uk)
-- [HRI (Honda Research Institute) Driving Datasets](https://usa.honda-ri.com/honda-driving-datasets)
-- [Argoverse](https://www.argoverse.org/data.html#download-link)
-- [EuRoC Dataset](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)
-- [Malaga](https://www.mrpt.org/MalagaUrbanDataset)
-- [ICL-NUIM](https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html)
-- Cityscapes
-- NYUv2
+[DatasetPaper]:
+[DatasetWebsite]:https://www.nuscenes.org/
+
+[DatasetPaper]:
+[DatasetWebsite]:http://www.cvlibs.net/datasets/kitti/eval_odometry.php
+
+[DatasetPaper]:
+[DatasetWebsite]:https://waymo.com/open/
+
+[DatasetPaper]:
+[DatasetWebsite]:https://level-5.global/data/
+
+[DatasetPaper]:
+[DatasetWebsite]:https://irap.kaist.ac.kr/dataset/
+
+[DatasetPaper]:
+[DatasetWebsite]:https://vision.in.tum.de/data/datasets/rgbd-dataset/download
+
+[DatasetPaper]:
+[DatasetWebsite]:https://vision.in.tum.de/data/datasets/mono-dataset
+
+[DatasetPaper]:
+[DatasetWebsite]:https://vision.in.tum.de/data/datasets/visual-inertial-dataset
+
+[DatasetPaper]:
+[DatasetWebsite]:https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html
+
+[DatasetPaper]:
+[DatasetWebsite]:https://github.com/AaltoVision/ADVIO
+
+[DatasetPaper]:
+[DatasetWebsite]:https://robotcar-dataset.robots.ox.ac.uk
+
+[DatasetPaper]:
+[DatasetWebsite]:https://usa.honda-ri.com/honda-driving-datasets
+
+[DatasetPaper]:
+[DatasetWebsite]:https://www.argoverse.org/data.html#download-link
+
+[DatasetPaper]:
+[DatasetWebsite]:https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
+
+[DatasetPaper]:
+[DatasetWebsite]:https://www.mrpt.org/MalagaUrbanDataset
+
+[DatasetPaper]:
+[DatasetWebsite]:https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
+
+[DatasetPaper]:
+[DatasetWebsite]:https://www.cityscapes-dataset.com/
+
+[DatasetPaper]: https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf
+[DatasetWebsite]: https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html

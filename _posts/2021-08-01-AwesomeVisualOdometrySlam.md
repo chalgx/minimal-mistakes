@@ -30,7 +30,9 @@ description:
 - [An Overview to Visual Odometry and Visual SLAM: Applications to Mobile Robotics](https://link.springer.com/article/10.1007/s40903-015-0032-7)
 
 ### VO
+
 #### Learning
+
 |Year|Title|Name|Doc|Code|Website|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |2008|Make3D: Learning 3D Scene Structure from a Single Still Image|Make3D|[Pdf][Paper20081]|[Code][Code20081]|[Webpage][Webpage20081]|
@@ -56,6 +58,7 @@ description:
 |2020|D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry|D3VO|[Pdf][Paper20202]|-|-|
 |2020|Towards Better Generalization: Joint Depth-Pose Learning without PoseNet|TrianFlow|[Pdf][Paper20203]|[Code][Code20203]|-|
 |2020|P2Net: Patch-Match and Plane-Regularization for Unsupervised Indoor Depth Estimation|-|[Pdf][Paper20204]|-|-|
+|:=:|:=:|:=:|:=:|:=:|:=:|
 
 [Paper20081]: https://ieeexplore.ieee.org/abstract/document/4531745
 [Code20081]: https://make3d.cs.cornell.edu/code.html
@@ -211,13 +214,13 @@ description:
 - LoFTR: Detector-Free Local Feature Matching with Transformers, Sun et al., CVPR 2021
 - Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction, Gehrig et al., RA-L, 2021
 
-
-
 ## Project
+
 - [An Invitation to 3D Vision: A Tutorial for Everyone](https://awesomeopensource.com/project/sunglok/3dv_tutorial)
 - [LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping](https://awesomeopensource.com/project/TixiaoShan/LVI-SAM)
 
 ## Dataset
+
 - [nuScenes](https://www.nuscenes.org/)
 - [KITTI](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 - [Waymo Open Dataset](https://waymo.com/open/)

@@ -26,7 +26,7 @@ description: List of Visual Odometry, SLAM Contents
 - [Visual Odometry [Tutorial], Scaramuzza and Fraundorfer, RAM 2011](https://ieeexplore.ieee.org/abstract/document/6096039)
 - [Visual Odometry : Part II: Matching, Robustness, Optimization, and Applications, Scaramuzza and Fraundorfer, RAM 2012](https://ieeexplore.ieee.org/abstract/document/6153423)
 - [An Overview to Visual Odometry and Visual SLAM: Applications to Mobile Robotics, Yousif et al.,  Intell Ind Syst 2015](https://link.springer.com/article/10.1007/s40903-015-0032-7)
-- [The Future of Real-Time SLAM: Sensors, Processors, Representations, and Algorithms, Davison, ICCV 2015 Workshop](https://wp.doc.ic.ac.uk/thefutureofslam/), [15 Years of Visual SLAM, Davison, ICCV 2015 Workshop](http://wp.doc.ic.ac.uk/thefutureofslam/wp-content/uploads/sites/93/2015/12/slides_ajd.pdf)
+- [The Future of Real-Time SLAM: Sensors, Processors, Representations, and Algorithms, Davison, ICCV 2015 Workshop](https://wp.doc.ic.ac.uk/thefutureofslam/) / [15 Years of Visual SLAM, Davison, ICCV 2015 Workshop](http://wp.doc.ic.ac.uk/thefutureofslam/wp-content/uploads/sites/93/2015/12/slides_ajd.pdf)
 - [Past, present, and future of simultaneous localization and mapping: Toward the robust-perception age, Cadena et al., T-RO 2016](https://ieeexplore.ieee.org/abstract/document/7747236)
 - [Event-based Vision: A Survey, Gallego et al., arXiv 2019](https://arxiv.org/abs/1904.08405)
 - [A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence, Chen et al., arXiv 2020](https://arxiv.org/abs/2006.12567)

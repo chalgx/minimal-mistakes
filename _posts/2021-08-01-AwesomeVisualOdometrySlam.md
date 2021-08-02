@@ -78,9 +78,8 @@ description: List of Visual Odometry, SLAM Contents
 [PaperORBSLAM2]: https://ieeexplore.ieee.org/abstract/document/7946260
 [CodeORBSLAM2]: https://github.com/raulmur/ORB_SLAM2
 
-[PaperORBSLAM2]: https://ieeexplore.ieee.org/abstract/document/9440682
+[PaperORBSLAM3]: https://ieeexplore.ieee.org/abstract/document/9440682
 [CodeORBSLAM3]: https://github.com/UZ-SLAMLab/ORB_SLAM3
-
 
 [Paper20152]: https://openaccess.thecvf.com/content_cvpr_2015/html/Li_Depth_and_Surface_2015_CVPR_paper.html
 

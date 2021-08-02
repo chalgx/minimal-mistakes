@@ -41,7 +41,7 @@ description: List of Visual Odometry, SLAM Contents
 |2011|StereoScan: Dense 3d reconstruction in real-time|VISO2|[Pdf][Paper20111]|[Code][Code20111]|[Webpage][Webpage20111]|
 |2015|ORB-SLAM: A Versatile and Accurate Monocular SLAM System|ORB-SLAM|[Pdf][PaperORBSLAM]|[Code][CodeORBSLAM]|-|
 |2017|ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras|ORB-SLAM2|[Pdf][PaperORBSLAM2]|[Code][CodeORBSLAM2]|-|
-|2021|ORB-SLAM3|ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM|ORB-SLAM3|[Pdf][PaperORBSLAM3]|[Code][CodeORBSLAM3]|-|
+|2021|ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM|ORB-SLAM3|[Pdf][PaperORBSLAM3]|[Code][CodeORBSLAM3]|-|
 |2015|Depth and Surface Normal Estimation From Monocular Images Using Regression on Deep Features and Hierarchical CRFs|-|[Pdf][Paper20152]|-|-|
 |2016|Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue|-|[Pdf][Paper20161]|[Code][Code20161]|-|
 |2017|Unsupervised Learning of Depth and Ego-Motion From Video|SfM-Learner|[Pdf][Paper20171]|[Code][Code20171]|-|

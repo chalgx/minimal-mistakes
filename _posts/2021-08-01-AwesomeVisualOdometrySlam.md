@@ -9,7 +9,6 @@ toc_sticky: true
 description: List of Visual Odometry, SLAM Contents
 ---
 
-
 ## Learning
 
 ### Courses
@@ -429,8 +428,8 @@ description: List of Visual Odometry, SLAM Contents
 [Code]: 
 [Webpage]: 
 
-|2021|LoFTR: Detector-Free Local Feature Matching with Transformers||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://openaccess.thecvf.com/content/CVPR2021/html/Sun_LoFTR_Detector-Free_Local_Feature_Matching_With_Transformers_CVPR_2021_paper.html
+|2021|LoFTR: Detector-Free Local Feature Matching with Transformers|LoFTR|[Paper][PaperLoFTR]|[Code][Code]|[Webpage][Webpage]|
+[PaperLoFTR]: https://openaccess.thecvf.com/content/CVPR2021/html/Sun_LoFTR_Detector-Free_Local_Feature_Matching_With_Transformers_CVPR_2021_paper.html
 [Code]: 
 [Webpage]: 
 

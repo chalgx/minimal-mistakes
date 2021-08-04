@@ -446,76 +446,76 @@ description: List of Visual Odometry, SLAM Contents
 ## Dataset
 |Name|Paper|Website|
 |:-:|:-:|:-:|
-|nuScenes|||
-|KITTI|||
-|Waymo Open Dataset|||
-|Lyft Level 5 AV Dataset 2019|||
-|KAIST Urban Dataset|||
-|TUM RGB-D|||
-|TUM MonoVO|||
-|TUM VI|||
-|UNI-Freiburg|||
-|ADVIO|||
-|Oxford RobotCar Dataset|||
-|HRI (Honda Research Institute) Driving Datasets|||
-|Argoverse|||
-|EuRoC Dataset|||
-|Malaga|||
-|ICL-NUIM|||
-|Cityscapes|||
-|NYUv2|[Indoor Segmentation and Support Inference from RGBD Images][DatasetPaper]|[DatasetWebsite]|
+|nuScenes|[Pdf][]|[Site][DatasetWebsitenuscenes]|
+|KITTI|[Pdf][]|[Site][DatasetWebsitekitti]|
+|Waymo Open Dataset|[Pdf][]|[Site][DatasetWebsitewaymo]|
+|Lyft Level 5 AV Dataset 2019|[Pdf][]|[Site][DatasetWebsiteLyft]|
+|KAIST Urban Dataset|[Pdf][]|[Site][DatasetWebsiteKAIST]|
+|TUM RGB-D|[Pdf][]|[Site][DatasetWebsiteTUM_RGB_D]|
+|TUM MonoVO|[Pdf][]|[Site][DatasetWebsiteTUM_MonoVO]|
+|TUM VI|[Pdf][]|[Site][DatasetWebsiteTUM_VI]|
+|UNI-Freiburg|[Pdf][]|[Site][DatasetWebsiteUNI_Freiburg]|
+|ADVIO|[Pdf][]|[Site][DatasetWebsiteADVIO]|
+|Oxford RobotCar Dataset|[Pdf][]|[Site][DatasetWebsiteOxford]|
+|HRI (Honda Research Institute) Driving Datasets|[Pdf][]|[Site][DatasetWebsiteHRI]|
+|Argoverse|[Pdf][]|[Site][DatasetWebsiteArgoverse]|
+|EuRoC Dataset|[Pdf][]|[Site][DatasetWebsiteEuRoC]|
+|Malaga|[Pdf][]|[Site][DatasetWebsiteMalaga]|
+|ICL-NUIM|[Pdf][]|[Site][DatasetWebsiteICL_NUIM]|
+|Cityscapes|[Pdf][]|[Site][DatasetWebsiteCityscapes]|
+|NYUv2|[Indoor Segmentation and Support Inference from RGBD Images][Pdf][DatasetPaperNYUv2]|[Site][DatasetWebsiteNYUv2]|
 |:=:|:=:|:=:|:=:|:=:|:=:|
 
-[DatasetPaper]:
-[DatasetWebsite]:https://www.nuscenes.org/
+[DatasetPapernuscenes]:
+[DatasetWebsitenuscenes]:https://www.nuscenes.org/
 
-[DatasetPaper]:
-[DatasetWebsite]:http://www.cvlibs.net/datasets/kitti/eval_odometry.php
+[DatasetPaperkitti]:
+[DatasetWebsitekitti]:http://www.cvlibs.net/datasets/kitti/eval_odometry.php
 
-[DatasetPaper]:
-[DatasetWebsite]:https://waymo.com/open/
+[DatasetPaperwaymo]:
+[DatasetWebsitewaymo]:https://waymo.com/open/
 
-[DatasetPaper]:
-[DatasetWebsite]:https://level-5.global/data/
+[DatasetPaperLyft]:
+[DatasetWebsiteLyft]:https://level-5.global/data/
 
-[DatasetPaper]:
-[DatasetWebsite]:https://irap.kaist.ac.kr/dataset/
+[DatasetPaperKAIST]:
+[DatasetWebsiteKAIST]:https://irap.kaist.ac.kr/dataset/
 
-[DatasetPaper]:
-[DatasetWebsite]:https://vision.in.tum.de/data/datasets/rgbd-dataset/download
+[DatasetPaperTUM_RGB_D]:
+[DatasetWebsiteTUM_RGB_D]:https://vision.in.tum.de/data/datasets/rgbd-dataset/download
 
-[DatasetPaper]:
-[DatasetWebsite]:https://vision.in.tum.de/data/datasets/mono-dataset
+[DatasetPaperTUM_MonoVO]:
+[DatasetWebsiteTUM_MonoVO]:https://vision.in.tum.de/data/datasets/mono-dataset
 
-[DatasetPaper]:
-[DatasetWebsite]:https://vision.in.tum.de/data/datasets/visual-inertial-dataset
+[DatasetPaperTUM_VI]:
+[DatasetWebsiteTUM_VI]:https://vision.in.tum.de/data/datasets/visual-inertial-dataset
 
-[DatasetPaper]:
-[DatasetWebsite]:https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html
+[DatasetPaperUNI_Freiburg]:
+[DatasetWebsiteUNI_Freiburg]:https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html
 
-[DatasetPaper]:
-[DatasetWebsite]:https://github.com/AaltoVision/ADVIO
+[DatasetPaperADVIO]:
+[DatasetWebsiteADVIO]:https://github.com/AaltoVision/ADVIO
 
-[DatasetPaper]:
-[DatasetWebsite]:https://robotcar-dataset.robots.ox.ac.uk
+[DatasetPaperOxford]:
+[DatasetWebsiteOxford]:https://robotcar-dataset.robots.ox.ac.uk
 
-[DatasetPaper]:
-[DatasetWebsite]:https://usa.honda-ri.com/honda-driving-datasets
+[DatasetPaperHRI]:
+[DatasetWebsiteHRI]:https://usa.honda-ri.com/honda-driving-datasets
 
-[DatasetPaper]:
-[DatasetWebsite]:https://www.argoverse.org/data.html#download-link
+[DatasetPaperArgoverse]:
+[DatasetWebsiteArgoverse]:https://www.argoverse.org/data.html#download-link
 
-[DatasetPaper]:
-[DatasetWebsite]:https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
+[DatasetPaperEuRoC]:
+[DatasetWebsiteEuRoC]:https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
 
-[DatasetPaper]:
-[DatasetWebsite]:https://www.mrpt.org/MalagaUrbanDataset
+[DatasetPaperMalaga]:
+[DatasetWebsiteMalaga]:https://www.mrpt.org/MalagaUrbanDataset
 
-[DatasetPaper]:
-[DatasetWebsite]:https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
+[DatasetPaperICL_NUIM]:
+[DatasetWebsiteICL_NUIM]:https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
 
-[DatasetPaper]:
-[DatasetWebsite]:https://www.cityscapes-dataset.com/
+[DatasetPaperCityscapes]:
+[DatasetWebsiteCityscapes]:https://www.cityscapes-dataset.com/
 
-[DatasetPaper]: https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf
-[DatasetWebsite]: https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html
+[DatasetPaperNYUv2]: https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf
+[DatasetWebsiteNYUv2]: https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html

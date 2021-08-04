@@ -444,78 +444,60 @@ description: List of Visual Odometry, SLAM Contents
 - [LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping](https://awesomeopensource.com/project/TixiaoShan/LVI-SAM)
 
 ## Dataset
-|Name|Paper|Website|
-|:-:|:-:|:-:|
-|nuScenes|[Pdf][]|[Site][DatasetWebsitenuscenes]|
-|KITTI|[Pdf][]|[Site][DatasetWebsitekitti]|
-|Waymo Open Dataset|[Pdf][]|[Site][DatasetWebsitewaymo]|
-|Lyft Level 5 AV Dataset 2019|[Pdf][]|[Site][DatasetWebsiteLyft]|
-|KAIST Urban Dataset|[Pdf][]|[Site][DatasetWebsiteKAIST]|
-|TUM RGB-D|[Pdf][]|[Site][DatasetWebsiteTUM_RGB_D]|
-|TUM MonoVO|[Pdf][]|[Site][DatasetWebsiteTUM_MonoVO]|
-|TUM VI|[Pdf][]|[Site][DatasetWebsiteTUM_VI]|
-|UNI-Freiburg|[Pdf][]|[Site][DatasetWebsiteUNI_Freiburg]|
-|ADVIO|[Pdf][]|[Site][DatasetWebsiteADVIO]|
-|Oxford RobotCar Dataset|[Pdf][]|[Site][DatasetWebsiteOxford]|
-|HRI (Honda Research Institute) Driving Datasets|[Pdf][]|[Site][DatasetWebsiteHRI]|
-|Argoverse|[Pdf][]|[Site][DatasetWebsiteArgoverse]|
-|EuRoC Dataset|[Pdf][]|[Site][DatasetWebsiteEuRoC]|
-|Malaga|[Pdf][]|[Site][DatasetWebsiteMalaga]|
-|ICL-NUIM|[Pdf][]|[Site][DatasetWebsiteICL_NUIM]|
-|Cityscapes|[Pdf][]|[Site][DatasetWebsiteCityscapes]|
-|NYUv2|[Pdf][DatasetPaperNYUv2]|[DatasetPaperNYUv2]|[Site][DatasetWebsiteNYUv2]|
-|:=:|:=:|:=:|:=:|:=:|:=:|
+|Name|Website|
+|:-:|:-:|
+|nuScenes|[Site][DatasetWebsitenuscenes]|
+|KITTI|[Site][DatasetWebsitekitti]|
+|Waymo Open Dataset|[Site][DatasetWebsitewaymo]|
+|Lyft Level 5 AV Dataset 2019|[Site][DatasetWebsiteLyft]|
+|KAIST Urban Dataset|[Site][DatasetWebsiteKAIST]|
+|TUM RGB-D|[Site][DatasetWebsiteTUM_RGB_D]|
+|TUM MonoVO|[Site][DatasetWebsiteTUM_MonoVO]|
+|TUM VI|[Site][DatasetWebsiteTUM_VI]|
+|UNI-Freiburg|[Site][DatasetWebsiteUNI_Freiburg]|
+|ADVIO|[Site][DatasetWebsiteADVIO]|
+|Oxford RobotCar Dataset|[Site][DatasetWebsiteOxford]|
+|HRI (Honda Research Institute) Driving Datasets|[Site][DatasetWebsiteHRI]|
+|Argoverse|[Site][DatasetWebsiteArgoverse]|
+|EuRoC Dataset|[Site][DatasetWebsiteEuRoC]|
+|Malaga|[Site][DatasetWebsiteMalaga]|
+|ICL-NUIM|[Site][DatasetWebsiteICL_NUIM]|
+|Cityscapes|[Site][DatasetWebsiteCityscapes]|
+|NYUv2|[Site][DatasetWebsiteNYUv2]|
 
-[DatasetPapernuscenes]: 
+
 [DatasetWebsitenuscenes]: https://www.nuscenes.org/
 
-[DatasetPaperkitti]: 
 [DatasetWebsitekitti]: http://www.cvlibs.net/datasets/kitti/eval_odometry.php
 
-[DatasetPaperwaymo]: 
 [DatasetWebsitewaymo]: https://waymo.com/open/
 
-[DatasetPaperLyft]: 
 [DatasetWebsiteLyft]: https://level-5.global/data/
 
-[DatasetPaperKAIST]: 
 [DatasetWebsiteKAIST]: https://irap.kaist.ac.kr/dataset/
 
-[DatasetPaperTUM_RGB_D]: 
 [DatasetWebsiteTUM_RGB_D]: https://vision.in.tum.de/data/datasets/rgbd-dataset/download
 
-[DatasetPaperTUM_MonoVO]: 
 [DatasetWebsiteTUM_MonoVO]: https://vision.in.tum.de/data/datasets/mono-dataset
 
-[DatasetPaperTUM_VI]: 
 [DatasetWebsiteTUM_VI]: https://vision.in.tum.de/data/datasets/visual-inertial-dataset
 
-[DatasetPaperUNI_Freiburg]: 
 [DatasetWebsiteUNI_Freiburg]: https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html
 
-[DatasetPaperADVIO]: 
 [DatasetWebsiteADVIO]: https://github.com/AaltoVision/ADVIO
 
-[DatasetPaperOxford]: 
 [DatasetWebsiteOxford]: https://robotcar-dataset.robots.ox.ac.uk
 
-[DatasetPaperHRI]: 
 [DatasetWebsiteHRI]: https://usa.honda-ri.com/honda-driving-datasets
 
-[DatasetPaperArgoverse]: 
 [DatasetWebsiteArgoverse]: https://www.argoverse.org/data.html#download-link
 
-[DatasetPaperEuRoC]: 
 [DatasetWebsiteEuRoC]: https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
 
-[DatasetPaperMalaga]: 
 [DatasetWebsiteMalaga]: https://www.mrpt.org/MalagaUrbanDataset
 
-[DatasetPaperICL_NUIM]: 
 [DatasetWebsiteICL_NUIM]: https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
 
-[DatasetPaperCityscapes]: 
 [DatasetWebsiteCityscapes]: https://www.cityscapes-dataset.com/
 
-[DatasetPaperNYUv2]: https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf
 [DatasetWebsiteNYUv2]: https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html

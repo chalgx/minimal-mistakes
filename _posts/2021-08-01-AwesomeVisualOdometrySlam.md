@@ -463,7 +463,7 @@ description: List of Visual Odometry, SLAM Contents
 |Malaga|[Pdf][]|[Site][DatasetWebsiteMalaga]|
 |ICL-NUIM|[Pdf][]|[Site][DatasetWebsiteICL_NUIM]|
 |Cityscapes|[Pdf][]|[Site][DatasetWebsiteCityscapes]|
-|NYUv2|[Indoor Segmentation and Support Inference from RGBD Images][Pdf][DatasetPaperNYUv2]|[Site][DatasetWebsiteNYUv2]|
+|NYUv2|[Pdf][DatasetPaperNYUv2]|[DatasetPaperNYUv2]|[Site][DatasetWebsiteNYUv2]|
 |:=:|:=:|:=:|:=:|:=:|:=:|
 
 [DatasetPapernuscenes]: 

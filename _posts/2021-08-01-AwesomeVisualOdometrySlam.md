@@ -32,13 +32,16 @@ description: List of Visual Odometry, SLAM Contents
 - [A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence, Chen et al., arXiv 2020](https://arxiv.org/abs/2006.12567)
 
 ### VO
+### SLAM
+### VO/SLAM
 
 #### Learning
+#### Feature Tracking
 
 |Year|Title|Name|Doc|Code|Website|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|2008|Make3D: Learning 3D Scene Structure from a Single Still Image|Make3D|[Pdf][Paper20081]|[Code][Code20081]|[Webpage][Webpage20081]|
-|2011|StereoScan: Dense 3d reconstruction in real-time|VISO2|[Pdf][Paper20111]|[Code][Code20111]|[Webpage][Webpage20111]|
+|2008|Make3D: Learning 3D Scene Structure from a Single Still Image|Make3D|[Pdf][PaperMake3D]|[Code][CodeMake3D]|[Webpage][WebpageMake3D]|
+|2011|StereoScan: Dense 3d reconstruction in real-time|VISO2|[Pdf][PaperVISO2]|[Code][CodeVISO2]|[Webpage][WebpageVISO2]|
 |2015|ORB-SLAM: A Versatile and Accurate Monocular SLAM System|ORB-SLAM|[Pdf][PaperORBSLAM]|[Code][CodeORBSLAM]|-|
 |2017|ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras|ORB-SLAM2|[Pdf][PaperORBSLAM2]|[Code][CodeORBSLAM2]|-|
 |2021|ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM|ORB-SLAM3|[Pdf][PaperORBSLAM3]|[Code][CodeORBSLAM3]|-|
@@ -64,13 +67,13 @@ description: List of Visual Odometry, SLAM Contents
 |2020|P2Net: Patch-Match and Plane-Regularization for Unsupervised Indoor Depth Estimation|-|[Pdf][Paper20204]|-|-|
 |:=:|:=:|:=:|:=:|:=:|:=:|
 
-[Paper20081]: https://ieeexplore.ieee.org/abstract/document/4531745
-[Code20081]: https://make3d.cs.cornell.edu/code.html
-[Webpage20081]: http://make3d.cs.cornell.edu/
+[PaperMake3D]: https://ieeexplore.ieee.org/abstract/document/4531745
+[CodeMake3D]: https://make3d.cs.cornell.edu/code.html
+[WebpageMake3D]: http://make3d.cs.cornell.edu/
 
-[Paper20111]: https://ieeexplore.ieee.org/abstract/document/5940405
-[Code20111]: https://github.com/srv/viso2
-[Webpage20111]: https://wiki.ros.org/viso2
+[PaperVISO2]: https://ieeexplore.ieee.org/abstract/document/5940405
+[CodeVISO2]: https://github.com/srv/viso2
+[WebpageVISO2]: https://wiki.ros.org/viso2
 
 [PaperORBSLAM]: https://ieeexplore.ieee.org/abstract/document/7219438
 [CodeORBSLAM]: https://github.com/raulmur/ORB_SLAM
@@ -135,89 +138,306 @@ description: List of Visual Odometry, SLAM Contents
 
 [Paper20204]: https://link.springer.com/content/pdf/10.1007/978-3-030-58586-0_13.pdf
 
-||||
+||||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
 [Paper]: 
 [Code]: 
 [Webpage]: 
 
-- In defense of the eight-point algorithm, Hartley, TPAMI 1997
+|2003|Real-time simultaneous localisation and mapping with a single camera|-|[PaperRTSLAMSC][]|||
+[PaperRTSLAMSC]: https://ieeexplore.ieee.org/abstract/document/1238654
 
-- Real-time simultaneous localisation and mapping with a single camera, Davison, ICCV 2003
+|2004|Visual Odometry|-|[Paper][PaperVO]|-|-|
+[PaperVO]: https://ieeexplore.ieee.org/abstract/document/1315094
 
-- Visual Odometry, Nistér et al., CVPR 2004
-- SIFT: Distinctive Image Features from Scale-Invariant Keypoints, Lowe, IJCV 2004
-- An efficient solution to the five-point relative pose problem, Nistér, TPAMI 2004
+|2004|An efficient solution to the five-point relative pose problem||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- SURF: Speeded Up Robust Features, Bay et al., ECCV 2006
+|2004|SIFT: Distinctive Image Features from Scale-Invariant Keypoints|SIFT|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- MonoSLAM: Real-Time Single Camera SLAM, Davison et al., TPAMI 2007
-- Parallel tracking and mapping for small AR workspaces, Klein and Murray, ISMAR 2007
-- Georg Klein and David Murray, "Parallel Tracking and Mapping for Small AR Workspaces", Proc. ISMAR 2007
+|2006|Visual odometry for ground vehicle applications||[Paper][PaperVOGVA]|[Code][Code]|[Webpage][Webpage]|
+[PaperVOGVA]: https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.20103
+[Code]: 
+[Webpage]: 
 
-- Real-time stereo visual odometry for autonomous ground vehicles, Howard, IROS 2008
-- Georg Klein and David Murray, "Improving the Agility of Keyframe-based SLAM", Proc. ECCV 2008
+|2006|SURF: Speeded Up Robust Features, Bay et al|SURF|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- Faster and Better: A Machine Learning Approach to Corner Detection, Rosten et al., TPAMI 2010.
+|2007|Parallel tracking and mapping for small AR workspaces||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- DTAM: Dense tracking and mapping in real-time, Newcombe et al., ICCV 2011
-- Real-Time Visual Odometry from Dense RGB-D Images, Steinbruecker et al. ICCV 2011
-- KinectFusion: Real-time dense surface mapping and tracking, Newcombe et al., ISMAR 2011
-- ORB: An efficient alternative to SIFT or SURF, Rublee et al., ICCV 2011
+|2007|MonoSLAM: Real-Time Single Camera SLAM||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- Dense Visual SLAM for RGB-D Cameras (C. Kerl, J. Sturm, D. Cremers), In Proc. of the Int. Conf. on Intelligent Robot Systems (IROS), 2013.
-- Robust Odometry Estimation for RGB-D Cameras, Kerl et al. ICRA 2013
-- Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014 Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
+|2008|Improving the Agility of Keyframe-based SLAM||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- SVO: Fast semi-direct monocular visual odometry, Forster et al., ICRA 2014
-- LSD-SLAM: Large-Scale Direct Monocular SLAM, Engel et al., ECCV 2014
-- FLANN: Scalable Nearest Neighbor Algorithms for High Dimensional Data, Muja and Lowe, TPAMI 2014
-- Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion, T. Whelan, M. Kaess, H. Johannsson, M.F. Fallon, J. J. Leonard and J.B. McDonald, IJRR '14
+|2008|Real-time stereo visual odometry for autonomous ground vehicles||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- Dynamicfusion: Reconstruction and tracking of non-rigid scenes in real-time, Newcombe et al., CVPR 2015
-- ElasticFusion: Dense SLAM without a pose graph, Whelan et al. RSS 2015
-- Kahler, O. and Prisacariu, V.~A. and Ren, C.~Y. and Sun, X. and Torr, P.~H.~S and Murray, D.~W. Very High Frame Rate Volumetric Integration of Depth Images on Mobile Device. IEEE Transactions on Visualization and Computer Graphics (Proceedings International Symposium on Mixed and Augmented Reality 2015
-- PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization, Kendall et al., ICCV 2015
+|2010|Faster and Better: A Machine Learning Approach to Corner Detection||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- Real-time 3D reconstruction and 6-DoF tracking with an event camera, Kim et al., ECCV 2016
-- EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real Time, Rebecq et al., RA-L 2016
-- Simultaneous Optical Flow and Intensity Estimation From an Event Camera, Bardow et al., CVPR 2016
-- Deep Image Homography Estimation, DeTone et al., arXiv 2016
+|2011|ORB: An efficient alternative to SIFT or SURF||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras, Mur-Artal et al., T-RO 2017
-- DSO: Direct Sparse Odometry, Engel et al., TPAMI 2017
-- DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks
-- UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning
-- GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence, Bian et al., CVPR 2017
-- LF-Net: Learning Local Features from Images, Ono et al., NeurIPS 2017
-- Martin Rünz and Lourdes Agapito. Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects. 2017 IEEE International Conference on Robotics and Automation (ICRA)
-- Unsupervised Learning of Depth and Ego-Motion from Video, Zhou et al., CVPR 2017
+|2011|KinectFusion: Real-time dense surface mapping and tracking||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction, Zhan et al., CVPR 2018
-- CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM, Bloesch et al., CVPR 2018
-- Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry, Yang et al., ECCV 2018
-- DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes, Bescos et al., RA-L, 2018
-- Digging Into Self-Supervised Monocular Depth Estimation
-- SuperPoint: Self-Supervised Interest Point Detection and Description, DeTone et al., CVPR 2018 Workshop
-- Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High-Speed Scenarios, Vidal, RA-L 2018
+|2011|Real-Time Visual Odometry from Dense RGB-D Images||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- OpenVSLAM: A Versatile Visual SLAM Framework, Sumikura et al., ACM MM 2019
-- GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks
-- Pose Graph Optimization for Unsupervised Monocular Visual Odometry
-- R2D2: Repeatable and Reliable Detector and Descriptor, Revaud et al., NeurIPS 2019
-- D2-Net: A Trainable CNN for Joint Description and Detection of Local Features, Dusmanu et al., CVPR 2019
-- Deep Graphical Feature Learning for the Feature Matching Problem, Zhang and Lee, ICCV 2019
+|2011|DTAM: Dense tracking and mapping in real-time||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping, Rosinol et al., ICRA 2020
-- DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features, Li et al., IROS 2020
-- ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM, Campos et al., arXiv 2020
-- SuperGlue: Learning Feature Matching with Graph Neural Networks, Sarlin et al., CVPR 2020
-- High-dimensional Convolutional Networks for Geometric Pattern Recognition, Choy et al., CVPR 2020
+|2013|Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
-- Generalizing to the Open World: Deep Visual Odometry with Online Adaptation, Li et al., CVPR 2021
-- Tight Integration of Feature-based Relocalization in Monocular Direct Visual Odometry, Gladkova et al., ICRA 2021
-- Unsupervised Scale-consistent Depth Learning from Video, 2021
-- LoFTR: Detector-Free Local Feature Matching with Transformers, Sun et al., CVPR 2021
-- Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction, Gehrig et al., RA-L, 2021
+|2013|Robust Odometry Estimation for RGB-D Cameras||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2013|Dense Visual SLAM for RGB-D Cameras||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2014|Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2014|FLANN: Scalable Nearest Neighbor Algorithms for High Dimensional Data||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2014|LSD-SLAM: Large-Scale Direct Monocular SLAM||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2014|SVO: Fast semi-direct monocular visual odometry||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2015|Learning visual odometry with a convolutional network.||[Paper][PaperLVOCN]|[Code][Code]|[Webpage][Webpage]|
+[PaperLVOCN]: https://www.scitepress.org/papers/2015/52993/52993.pdf
+[Code]: 
+[Webpage]: 
+
+|2015|PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2015|Very High Frame Rate Volumetric Integration of Depth Images on Mobile Device||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2015|ElasticFusion: Dense SLAM without a pose graph||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2015|Dynamicfusion: Reconstruction and tracking of non-rigid scenes in real-time||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2016|Real-time 3D reconstruction and 6-DoF tracking with an event camera||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2016|EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real Time||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2016|Simultaneous Optical Flow and Intensity Estimation From an Event Camera||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2016|Deep Image Homography Estimation||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2017|DSO: Direct Sparse Odometry||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2017|DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks|DeepVO|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2017|UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning|UnDeepVO|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2017|GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2017|LF-Net: Learning Local Features from Images||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2017|Martin Rünz and Lourdes Agapito. Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2017|Unsupervised Learning of Depth and Ego-Motion from Video||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2018|Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2018|CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2018|Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2018|DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2018|Digging Into Self-Supervised Monocular Depth Estimation||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2018|SuperPoint: Self-Supervised Interest Point Detection and Description||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2018|Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High-Speed Scenarios||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2019|OpenVSLAM: A Versatile Visual SLAM Framework||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2019|GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2019|Pose Graph Optimization for Unsupervised Monocular Visual Odometry||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2019|R2D2: Repeatable and Reliable Detector and Descriptor||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2019|D2-Net: A Trainable CNN for Joint Description and Detection of Local Features||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2019|Deep Graphical Feature Learning for the Feature Matching Problem||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2020|Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2020|DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2020|SuperGlue: Learning Feature Matching with Graph Neural Networks||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2020|High-dimensional Convolutional Networks for Geometric Pattern Recognition||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2021|Generalizing to the Open World: Deep Visual Odometry with Online Adaptation||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2021|Tight Integration of Feature-based Relocalization in Monocular Direct Visual Odometry||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2021|Unsupervised Scale-consistent Depth Learning from Video||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2021|LoFTR: Detector-Free Local Feature Matching with Transformers||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
+
+|2021|Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: 
+[Code]: 
+[Webpage]: 
 
 ## Project
 

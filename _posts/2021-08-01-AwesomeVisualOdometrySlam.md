@@ -138,11 +138,6 @@ description: List of Visual Odometry, SLAM Contents
 
 [Paper20204]: https://link.springer.com/content/pdf/10.1007/978-3-030-58586-0_13.pdf
 
-||||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
-[Code]: 
-[Webpage]: 
-
 |2003|Real-time simultaneous localisation and mapping with a single camera|-|[PaperRTSLAMSC][]|||
 [PaperRTSLAMSC]: https://ieeexplore.ieee.org/abstract/document/1238654
 
@@ -150,12 +145,12 @@ description: List of Visual Odometry, SLAM Contents
 [PaperVO]: https://ieeexplore.ieee.org/abstract/document/1315094
 
 |2004|An efficient solution to the five-point relative pose problem||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/1288525/
 [Code]: 
 [Webpage]: 
 
-|2004|SIFT: Distinctive Image Features from Scale-Invariant Keypoints|SIFT|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+|2004|Distinctive Image Features from Scale-Invariant Keypoints|SIFT|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94
 [Code]: 
 [Webpage]: 
 
@@ -164,88 +159,88 @@ description: List of Visual Odometry, SLAM Contents
 [Code]: 
 [Webpage]: 
 
-|2006|SURF: Speeded Up Robust Features, Bay et al|SURF|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+|2006|SURF: Speeded Up Robust Features|SURF|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: https://www.sciencedirect.com/science/article/pii/S1077314207001555
 [Code]: 
 [Webpage]: 
 
 |2007|Parallel tracking and mapping for small AR workspaces||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/4538852
 [Code]: 
 [Webpage]: 
 
 |2007|MonoSLAM: Real-Time Single Camera SLAM||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/4160954
 [Code]: 
 [Webpage]: 
 
 |2008|Improving the Agility of Keyframe-based SLAM||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://link.springer.com/chapter/10.1007/978-3-540-88688-4_59#enumeration
 [Code]: 
 [Webpage]: 
 
 |2008|Real-time stereo visual odometry for autonomous ground vehicles||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/4651147
 [Code]: 
 [Webpage]: 
 
 |2010|Faster and Better: A Machine Learning Approach to Corner Detection||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/4674368
 [Code]: 
 [Webpage]: 
 
-|2011|ORB: An efficient alternative to SIFT or SURF||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+|2011|ORB: An efficient alternative to SIFT or SURF|ORB|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: https://ieeexplore.ieee.org/abstract/document/6126544
 [Code]: 
 [Webpage]: 
 
 |2011|KinectFusion: Real-time dense surface mapping and tracking||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/6162880
 [Code]: 
 [Webpage]: 
 
 |2011|Real-Time Visual Odometry from Dense RGB-D Images||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/6130321
 [Code]: 
 [Webpage]: 
 
 |2011|DTAM: Dense tracking and mapping in real-time||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/6126513
 [Code]: 
 [Webpage]: 
 
 |2013|Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/6942926
 [Code]: 
 [Webpage]: 
 
 |2013|Robust Odometry Estimation for RGB-D Cameras||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/6631104
 [Code]: 
 [Webpage]: 
 
 |2013|Dense Visual SLAM for RGB-D Cameras||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/6696650
 [Code]: 
 [Webpage]: 
 
 |2014|Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://journals.sagepub.com/doi/abs/10.1177/0278364914551008
 [Code]: 
 [Webpage]: 
 
-|2014|FLANN: Scalable Nearest Neighbor Algorithms for High Dimensional Data||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+|2014|Scalable Nearest Neighbor Algorithms for High Dimensional Data|FLANN|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: https://ieeexplore.ieee.org/abstract/document/6809191
 [Code]: 
 [Webpage]: 
 
 |2014|LSD-SLAM: Large-Scale Direct Monocular SLAM||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54
 [Code]: 
 [Webpage]: 
 
 |2014|SVO: Fast semi-direct monocular visual odometry||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/6906584
 [Code]: 
 [Webpage]: 
 
@@ -255,187 +250,192 @@ description: List of Visual Odometry, SLAM Contents
 [Webpage]: 
 
 |2015|PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_iccv_2015/html/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.html
 [Code]: 
 [Webpage]: 
 
 |2015|Very High Frame Rate Volumetric Integration of Depth Images on Mobile Device||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/7165673
 [Code]: 
 [Webpage]: 
 
 |2015|ElasticFusion: Dense SLAM without a pose graph||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://spiral.imperial.ac.uk/bitstream/10044/1/23438/2/whelan2015rss.pdf
+[Code]: 
+[Webpage]: 
+
+|2016|ElasticFusion: Real-time dense SLAM and light source estimation||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
+[Paper]: https://journals.sagepub.com/doi/abs/10.1177/0278364916669237
 [Code]: 
 [Webpage]: 
 
 |2015|Dynamicfusion: Reconstruction and tracking of non-rigid scenes in real-time||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Newcombe_DynamicFusion_Reconstruction_and_2015_CVPR_paper.html
 [Code]: 
 [Webpage]: 
 
 |2016|Real-time 3D reconstruction and 6-DoF tracking with an event camera||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://link.springer.com/chapter/10.1007/978-3-319-46466-4_21
 [Code]: 
 [Webpage]: 
 
 |2016|EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real Time||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/7797445
 [Code]: 
 [Webpage]: 
 
 |2016|Simultaneous Optical Flow and Intensity Estimation From an Event Camera||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_cvpr_2016/html/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.html
 [Code]: 
 [Webpage]: 
 
 |2016|Deep Image Homography Estimation||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://arxiv.org/abs/1606.03798
 [Code]: 
 [Webpage]: 
 
 |2017|DSO: Direct Sparse Odometry||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/7898369
 [Code]: 
 [Webpage]: 
 
 |2017|DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks|DeepVO|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/7989236
 [Code]: 
 [Webpage]: 
 
 |2017|UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning|UnDeepVO|[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/8461251
 [Code]: 
 [Webpage]: 
 
 |2017|GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_cvpr_2017/html/Bian_GMS_Grid-based_Motion_CVPR_2017_paper.html
 [Code]: 
 [Webpage]: 
 
 |2017|LF-Net: Learning Local Features from Images||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://arxiv.org/abs/1805.09662
 [Code]: 
 [Webpage]: 
 
 |2017|Martin Rünz and Lourdes Agapito. Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/7989518
 [Code]: 
 [Webpage]: 
 
 |2017|Unsupervised Learning of Depth and Ego-Motion from Video||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_cvpr_2017/html/Zhou_Unsupervised_Learning_of_CVPR_2017_paper.html
 [Code]: 
 [Webpage]: 
 
 |2018|Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_cvpr_2018/html/Zhan_Unsupervised_Learning_of_CVPR_2018_paper.html
 [Code]: 
 [Webpage]: 
 
 |2018|CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_cvpr_2018/html/Bloesch_CodeSLAM_--_Learning_CVPR_2018_paper.html
 [Code]: 
 [Webpage]: 
 
 |2018|Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_ECCV_2018/html/Nan_Yang_Deep_Virtual_Stereo_ECCV_2018_paper.html
 [Code]: 
 [Webpage]: 
 
 |2018|DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/8421015
 [Code]: 
 [Webpage]: 
 
 |2018|Digging Into Self-Supervised Monocular Depth Estimation||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_ICCV_2019/html/Godard_Digging_Into_Self-Supervised_Monocular_Depth_Estimation_ICCV_2019_paper.html
 [Code]: 
 [Webpage]: 
 
 |2018|SuperPoint: Self-Supervised Interest Point Detection and Description||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_cvpr_2018_workshops/w9/html/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.html
 [Code]: 
 [Webpage]: 
 
 |2018|Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High-Speed Scenarios||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/8258997
 [Code]: 
 [Webpage]: 
 
 |2019|OpenVSLAM: A Versatile Visual SLAM Framework||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://dl.acm.org/doi/abs/10.1145/3343031.3350539
 [Code]: 
 [Webpage]: 
 
 |2019|GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/8793512
 [Code]: 
 [Webpage]: 
 
 |2019|Pose Graph Optimization for Unsupervised Monocular Visual Odometry||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/8793706
 [Code]: 
 [Webpage]: 
 
 |2019|R2D2: Repeatable and Reliable Detector and Descriptor||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://arxiv.org/abs/1906.06195
 [Code]: 
 [Webpage]: 
 
 |2019|D2-Net: A Trainable CNN for Joint Description and Detection of Local Features||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_CVPR_2019/html/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.html
 [Code]: 
 [Webpage]: 
 
 |2019|Deep Graphical Feature Learning for the Feature Matching Problem||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Deep_Graphical_Feature_Learning_for_the_Feature_Matching_Problem_ICCV_2019_paper.html
 [Code]: 
 [Webpage]: 
 
 |2020|Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/9196885
 [Code]: 
 [Webpage]: 
 
 |2020|DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/9340907
 [Code]: 
 [Webpage]: 
 
 |2020|SuperGlue: Learning Feature Matching with Graph Neural Networks||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_CVPR_2020/html/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.html
 [Code]: 
 [Webpage]: 
 
 |2020|High-dimensional Convolutional Networks for Geometric Pattern Recognition||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content_CVPR_2020/html/Choy_High-Dimensional_Convolutional_Networks_for_Geometric_Pattern_Recognition_CVPR_2020_paper.html
 [Code]: 
 [Webpage]: 
 
 |2021|Generalizing to the Open World: Deep Visual Odometry with Online Adaptation||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content/CVPR2021/html/Li_Generalizing_to_the_Open_World_Deep_Visual_Odometry_With_Online_CVPR_2021_paper.html
 [Code]: 
 [Webpage]: 
 
 |2021|Tight Integration of Feature-based Relocalization in Monocular Direct Visual Odometry||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://arxiv.org/abs/2102.01191
 [Code]: 
 [Webpage]: 
 
 |2021|Unsupervised Scale-consistent Depth Learning from Video||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://link.springer.com/article/10.1007/s11263-021-01484-6
 [Code]: 
 [Webpage]: 
 
 |2021|LoFTR: Detector-Free Local Feature Matching with Transformers||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://openaccess.thecvf.com/content/CVPR2021/html/Sun_LoFTR_Detector-Free_Local_Feature_Matching_With_Transformers_CVPR_2021_paper.html
 [Code]: 
 [Webpage]: 
 
 |2021|Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction||[Paper][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: 
+[Paper]: https://ieeexplore.ieee.org/abstract/document/9359329
 [Code]: 
 [Webpage]: 
 

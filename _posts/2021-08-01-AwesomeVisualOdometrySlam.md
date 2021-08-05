@@ -66,11 +66,11 @@ description: List of Visual Odometry, SLAM Contents
 |2014|Scalable Nearest Neighbor Algorithms for High Dimensional Data|FLANN|[Pdf][PaperFLANN]|[Code][CodeFLANN]|-|
 |2014|SVO: Fast semi-direct monocular visual odometry||[Pdf][PaperSVO]|[Code][CodeSVO]|[Webpage][WebpageSVO]|
 |2015|Learning visual odometry with a convolutional network|-|[Pdf][PaperLVOCN]|-|-|
-|2015|PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization||[Pdf][PaperPoseNet]|[Code][CodePoseNet]|-|
-|2015|Very High Frame Rate Volumetric Integration of Depth Images on Mobile Device||[Pdf][PaperVHFRVIDIMD]|-|-|
-|2015|Dynamicfusion: Reconstruction and tracking of non-rigid scenes in real-time||[Pdf][PaperDynamicfusion]|-|-|
-|2015|ElasticFusion: Dense SLAM without a pose graph||[Pdf][PaperElasticFusion1]|[Code][CodeElasticFusion1]|-|
-|2016|ElasticFusion: Real-time dense SLAM and light source estimation||[Pdf][PaperElasticFusion2]|[Code][CodeElasticFusion2]|-|
+|2015|PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization|PoseNet|[Pdf][PaperPoseNet]|[Code][CodePoseNet]|-|
+|2015|Very High Frame Rate Volumetric Integration of Depth Images on Mobile Device|-|[Pdf][PaperVHFRVIDIMD]|-|-|
+|2015|Dynamicfusion: Reconstruction and tracking of non-rigid scenes in real-time|Dynamicfusion|[Pdf][PaperDynamicfusion]|-|-|
+|2015|ElasticFusion: Dense SLAM without a pose graph|ElasticFusion|[Pdf][PaperElasticFusion1]|[Code][CodeElasticFusion1]|-|
+|2016|ElasticFusion: Real-time dense SLAM and light source estimation|ElasticFusion|[Pdf][PaperElasticFusion2]|[Code][CodeElasticFusion2]|-|
 |2015|ORB-SLAM: A Versatile and Accurate Monocular SLAM System|ORB-SLAM|[Pdf][PaperORBSLAM]|[Code][CodeORBSLAM]|-|
 |2017|ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras|ORB-SLAM2|[Pdf][PaperORBSLAM2]|[Code][CodeORBSLAM2]|-|
 |2021|ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM|ORB-SLAM3|[Pdf][PaperORBSLAM3]|[Code][CodeORBSLAM3]|-|
@@ -117,9 +117,9 @@ description: List of Visual Odometry, SLAM Contents
 |2020|D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry|D3VO|[Pdf][Paper20202]|-|-|
 |2020|Towards Better Generalization: Joint Depth-Pose Learning without PoseNet|TrianFlow|[Pdf][Paper20203]|[Code][Code20203]|-|
 |2020|P2Net: Patch-Match and Plane-Regularization for Unsupervised Indoor Depth Estimation|-|[Pdf][Paper20204]|-|-|
-|2020|Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping||[Pdf][PaperKimera]|[Code][CodeKimera]|-|
+|2020|Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping|Kimera|[Pdf][PaperKimera]|[Code][CodeKimera]|-|
 |2020|DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features|DXSLAM|[Pdf][PaperDXSLAM]|[Code][CodeDXSLAM]|-|
-|2020|SuperGlue: Learning Feature Matching with Graph Neural Networks||[Pdf][PaperSuperGlue]|[Code][CodeSuperGlue]|[Webpage][WebpageSuperGlue]|
+|2020|SuperGlue: Learning Feature Matching with Graph Neural Networks|SuperGlue|[Pdf][PaperSuperGlue]|[Code][CodeSuperGlue]|[Webpage][WebpageSuperGlue]|
 |2020|High-dimensional Convolutional Networks for Geometric Pattern Recognition|-|[Pdf][PaperHighDimConvNets]|-|[Webpage][WebpageHighDimConvNets]|
 |2021|Generalizing to the Open World: Deep Visual Odometry with Online Adaptation|-|[Pdf][PaperGOWDVOOA]|-|-|
 |2021|Tight Integration of Feature-based Relocalization in Monocular Direct Visual Odometry|-|[Pdf][PaperTIFBRMDVO]|-|-|

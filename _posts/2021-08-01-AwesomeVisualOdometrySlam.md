@@ -218,7 +218,7 @@ description: List of Visual Odometry, SLAM Contents
 [PaperGOWDVOOA]: https://openaccess.thecvf.com/content/CVPR2021/html/Li_Generalizing_to_the_Open_World_Deep_Visual_Odometry_With_Online_CVPR_2021_paper.html
 [PaperTIFBRMDVO]: https://arxiv.org/abs/2102.01191
 [PaperLoFTR]: https://openaccess.thecvf.com/content/CVPR2021/html/Sun_LoFTR_Detector-Free_Local_Feature_Matching_With_Transformers_CVPR_2021_paper.html
-[CodeLoFTR: https://github.com/zju3dv/LoFTR
+[CodeLoFTR]: https://github.com/zju3dv/LoFTR
 [WebpageLoFTR]: https://zju3dv.github.io/loftr/
 [PaperCEFURAMNMDP]: https://ieeexplore.ieee.org/abstract/document/9359329
 [CodeCEFURAMNMDP]: https://github.com/uzh-rpg/rpg_ramnet

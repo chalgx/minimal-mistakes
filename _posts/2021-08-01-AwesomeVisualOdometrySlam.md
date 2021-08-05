@@ -123,8 +123,8 @@ description: List of Visual Odometry, SLAM Contents
 |2020|High-dimensional Convolutional Networks for Geometric Pattern Recognition|-|[Pdf][PaperHighDimConvNets]|-|[Webpage][WebpageHighDimConvNets]|
 |2021|Generalizing to the Open World: Deep Visual Odometry with Online Adaptation|-|[Pdf][PaperGOWDVOOA]|-|-|
 |2021|Tight Integration of Feature-based Relocalization in Monocular Direct Visual Odometry|-|[Pdf][PaperTIFBRMDVO]|-|-|
-|2021|LoFTR: Detector-Free Local Feature Matching with Transformers|LoFTR|[Pdf][PaperLoFTR]|[Code][Code]|[Webpage][WebpageLoFTR]|
-|2021|Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction||[Pdf][PaperCEFURAMNMDP]|[Code][CodeCEFURAMNMDP]|[Webpage][WebpageCEFURAMNMDP]|
+|2021|LoFTR: Detector-Free Local Feature Matching with Transformers|LoFTR|[Pdf][PaperLoFTR]|[Code][CodeLoFTR]|[Webpage][WebpageLoFTR]|
+|2021|Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction|-|[Pdf][PaperCEFURAMNMDP]|[Code][CodeCEFURAMNMDP]|[Webpage][WebpageCEFURAMNMDP]|
 
 ***
 

@@ -30,8 +30,8 @@ description: List of Visual Odometry, SLAM Contents
 - [Event-based Vision: A Survey, Gallego et al., arXiv 2019](https://arxiv.org/abs/1904.08405)
 - [A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence, Chen et al., arXiv 2020](https://arxiv.org/abs/2006.12567)
 
-### VO
-### SLAM
+
+
 ### VO/SLAM
 
 #### Learning
@@ -39,7 +39,23 @@ description: List of Visual Odometry, SLAM Contents
 
 |Year|Title|Name|Doc|Code|Website|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|2003|Real-time simultaneous localisation and mapping with a single camera|-|[Pdf][PaperRTSLAMSC]|-|-|
+|2004|Visual Odometry|-|[Pdf][PaperVO]|-|-|
+|2004|An efficient solution to the five-point relative pose problem|-|[Pdf][PaperESFPRPP]|-|-|
+|2004|Distinctive Image Features from Scale-Invariant Keypoints|SIFT|[Pdf][PaperSIFT]|-|-|
+|2006|Visual odometry for ground vehicle applications||[Pdf][PaperVOGVA]|-|-|
+|2006|SURF: Speeded Up Robust Features|SURF|[Pdf][PaperSURF]|[Code][CodeSURF]|-|
+|2006|Machine learning for high-speed corner detection|FAST|[Pdf][PaperFAST]|[Code][CodeFAST]|-|
+|2007|Parallel tracking and mapping for small AR workspaces|PTAM|[Pdf][PaperPTAM]|[Code][CodePTAM]|[Webpage][WebpagePTAM]|
+|2007|MonoSLAM: Real-Time Single Camera SLAM|MonoSLAM|[Pdf][PaperMonoSLAM]|-|-|
+|2008|Improving the Agility of Keyframe-based SLAM|-|[Pdf][PaperIAKBSLAM]|-|-|
+|2008|Real-time stereo visual odometry for autonomous ground vehicles|-|[Pdf][PaperRTSVOAGV]|-|-|
 |2008|Make3D: Learning 3D Scene Structure from a Single Still Image|Make3D|[Pdf][PaperMake3D]|[Code][CodeMake3D]|[Webpage][WebpageMake3D]|
+|2010|Faster and Better: A Machine Learning Approach to Corner Detection|FAST-ER|[Pdf][PaperFAST_ER]|[Code][CodeFAST_ER]|-|
+|2011|ORB: An efficient alternative to SIFT or SURF|ORB|[Pdf][PaperORB]|-|-|
+|2011|KinectFusion: Real-time dense surface mapping and tracking|KinectFusion|[Pdf][PaperKinectFusion]|-|-|
+|2011|Real-Time Visual Odometry from Dense RGB-D Images|-|[Pdf][PaperRTVODRGBDI]|-|-|
+|2011|DTAM: Dense tracking and mapping in real-time|DTAM|[Pdf][PaperDTAM]|-|-|
 |2011|StereoScan: Dense 3d reconstruction in real-time|VISO2|[Pdf][PaperVISO2]|[Code][CodeVISO2]|[Webpage][WebpageVISO2]|
 |2015|ORB-SLAM: A Versatile and Accurate Monocular SLAM System|ORB-SLAM|[Pdf][PaperORBSLAM]|[Code][CodeORBSLAM]|-|
 |2017|ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras|ORB-SLAM2|[Pdf][PaperORBSLAM2]|[Code][CodeORBSLAM2]|-|
@@ -65,122 +81,35 @@ description: List of Visual Odometry, SLAM Contents
 |2020|Towards Better Generalization: Joint Depth-Pose Learning without PoseNet|TrianFlow|[Pdf][Paper20203]|[Code][Code20203]|-|
 |2020|P2Net: Patch-Match and Plane-Regularization for Unsupervised Indoor Depth Estimation|-|[Pdf][Paper20204]|-|-|
 
+|2013|Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM|-|[Pdf][PaperOGLCDLSMSGBSLAM]|-|-|
+|2013|Robust Odometry Estimation for RGB-D Cameras||[Pdf][PaperROERGBDC]|-|-|
+|2013|Dense Visual SLAM for RGB-D Cameras|-|[Pdf][PaperDVSLAMRGBDC]|-|-|
+|2014|Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion|-|[Pdf][PaperRTLSDRGBDSLAMVF]|-|-|
 
-|2003|Real-time simultaneous localisation and mapping with a single camera|-|[Pdf][PaperRTSLAMSC]|||
-[PaperRTSLAMSC]: https://ieeexplore.ieee.org/abstract/document/1238654
+|2014|Scalable Nearest Neighbor Algorithms for High Dimensional Data|FLANN|[Pdf][PaperFLANN]|[Code][CodeFLANN]|-|
+[PaperFLANN]: https://ieeexplore.ieee.org/abstract/document/6809191
+[CodeFLANN]: https://github.com/flann-lib/flann
 
-|2004|Visual Odometry|-|[Pdf][PaperVO]|-|-|
-[PaperVO]: https://ieeexplore.ieee.org/abstract/document/1315094
+|2013|Semi-Dense Visual Odometry for a Monocular Camera|LSD-SLAM|[Pdf][PaperLSD_SLAM1]|[Code][CodeLSD_SLAM1]|[Webpage][WebpageLSD_SLAM1]|
+[PaperLSD_SLAM1]: https://openaccess.thecvf.com/content_iccv_2013/html/Engel_Semi-dense_Visual_Odometry_2013_ICCV_paper.html
+[CodeLSD_SLAM1]: https://github.com/tum-vision/lsd_slam
+[WebpageLSD_SLAM1]: https://vision.in.tum.de/research/vslam/lsdslam?redirect=1
+|2014|LSD-SLAM: Large-Scale Direct Monocular SLAM|LSD-SLAM|[Pdf][PaperLSD_SLAM2]|[Code][CodeLSD_SLAM2]|[Webpage][WebpageLSD_SLAM2]|
+[PaperLSD_SLAM2]: https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54
+[CodeLSD_SLAM2]: https://github.com/tum-vision/lsd_slam
+[WebpageLSD_SLAM2]: https://vision.in.tum.de/research/vslam/lsdslam?redirect=1
 
-|2004|An efficient solution to the five-point relative pose problem||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/1288525/
-[Code]: 
-[Webpage]: 
+|2014|SVO: Fast semi-direct monocular visual odometry||[Pdf][PaperSVO]|[Code][CodeSVO]|[Webpage][WebpageSVO]|
+[PaperSVO]: https://ieeexplore.ieee.org/abstract/document/6906584
+[CodeSVO]: https://github.com/uzh-rpg/rpg_svo
+[WebpageSVO]: http://uzh-rpg.github.io/rpg_svo/doc/namespaces.html
 
-|2004|Distinctive Image Features from Scale-Invariant Keypoints|SIFT|[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94
-[Code]: 
-[Webpage]: 
-
-|2006|Visual odometry for ground vehicle applications||[Pdf][PaperVOGVA]|[Code][Code]|[Webpage][Webpage]|
-[PaperVOGVA]: https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.20103
-[Code]: 
-[Webpage]: 
-
-|2006|SURF: Speeded Up Robust Features|SURF|[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://www.sciencedirect.com/science/article/pii/S1077314207001555
-[Code]: 
-[Webpage]: 
-
-|2007|Parallel tracking and mapping for small AR workspaces||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/4538852
-[Code]: 
-[Webpage]: 
-
-|2007|MonoSLAM: Real-Time Single Camera SLAM||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/4160954
-[Code]: 
-[Webpage]: 
-
-|2008|Improving the Agility of Keyframe-based SLAM||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://link.springer.com/chapter/10.1007/978-3-540-88688-4_59#enumeration
-[Code]: 
-[Webpage]: 
-
-|2008|Real-time stereo visual odometry for autonomous ground vehicles||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/4651147
-[Code]: 
-[Webpage]: 
-
-|2010|Faster and Better: A Machine Learning Approach to Corner Detection||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/4674368
-[Code]: 
-[Webpage]: 
-
-|2011|ORB: An efficient alternative to SIFT or SURF|ORB|[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/6126544
-[Code]: 
-[Webpage]: 
-
-|2011|KinectFusion: Real-time dense surface mapping and tracking||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/6162880
-[Code]: 
-[Webpage]: 
-
-|2011|Real-Time Visual Odometry from Dense RGB-D Images||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/6130321
-[Code]: 
-[Webpage]: 
-
-|2011|DTAM: Dense tracking and mapping in real-time||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/6126513
-[Code]: 
-[Webpage]: 
-
-|2013|Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/6942926
-[Code]: 
-[Webpage]: 
-
-|2013|Robust Odometry Estimation for RGB-D Cameras||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/6631104
-[Code]: 
-[Webpage]: 
-
-|2013|Dense Visual SLAM for RGB-D Cameras||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/6696650
-[Code]: 
-[Webpage]: 
-
-|2014|Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://journals.sagepub.com/doi/abs/10.1177/0278364914551008
-[Code]: 
-[Webpage]: 
-
-|2014|Scalable Nearest Neighbor Algorithms for High Dimensional Data|FLANN|[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/6809191
-[Code]: 
-[Webpage]: 
-
-|2014|LSD-SLAM: Large-Scale Direct Monocular SLAM||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54
-[Code]: 
-[Webpage]: 
-
-|2014|SVO: Fast semi-direct monocular visual odometry||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://ieeexplore.ieee.org/abstract/document/6906584
-[Code]: 
-[Webpage]: 
-
-|2015|Learning visual odometry with a convolutional network.||[Pdf][PaperLVOCN]|[Code][Code]|[Webpage][Webpage]|
+|2015|Learning visual odometry with a convolutional network|-|[Pdf][PaperLVOCN]|-|-|
 [PaperLVOCN]: https://www.scitepress.org/papers/2015/52993/52993.pdf
-[Code]: 
-[Webpage]: 
 
-|2015|PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
-[Paper]: https://openaccess.thecvf.com/content_iccv_2015/html/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.html
-[Code]: 
-[Webpage]: 
+|2015|PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization||[Pdf][PaperPoseNet]|[Code][CodePoseNet]|-|
+[PaperPoseNet]: https://openaccess.thecvf.com/content_iccv_2015/html/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.html
+[CodePoseNet]: https://github.com/alexgkendall/caffe-posenet
 
 |2015|Very High Frame Rate Volumetric Integration of Depth Images on Mobile Device||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
 [Paper]: https://ieeexplore.ieee.org/abstract/document/7165673
@@ -364,8 +293,35 @@ description: List of Visual Odometry, SLAM Contents
 
 |2021|Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction||[Pdf][Paper]|[Code][Code]|[Webpage][Webpage]|
 [Paper]: https://ieeexplore.ieee.org/abstract/document/9359329
-[Code]: 
-[Webpage]: 
+[Code]: https://github.com/uzh-rpg/rpg_ramnet
+[Webpage]: http://rpg.ifi.uzh.ch/RAMNet.html
+
+***
+[PaperRTSLAMSC]: https://ieeexplore.ieee.org/abstract/document/1238654
+[PaperVO]: https://ieeexplore.ieee.org/abstract/document/1315094
+[PaperESFPRPP]: https://ieeexplore.ieee.org/abstract/document/1288525/
+[PaperSIFT]: https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94
+[PaperVOGVA]: https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.20103
+[PaperSURF]: https://www.sciencedirect.com/science/article/pii/S1077314207001555
+[CodeSURF]: https://github.com/herbertbay/SURF
+[PaperPTAM]: https://ieeexplore.ieee.org/abstract/document/4538852
+[CodePTAM]: https://github.com/t-thanh/PTAM-linux-cv2.3
+[WebpagePTAM]: https://www.robots.ox.ac.uk/~gk/PTAM/
+[PaperMonoSLAM]: https://ieeexplore.ieee.org/abstract/document/4160954
+[PaperIAKBSLAM]: https://link.springer.com/chapter/10.1007/978-3-540-88688-4_59#enumeration
+[PaperRTSVOAGV]: https://ieeexplore.ieee.org/abstract/document/4651147
+[PaperFAST]: https://link.springer.com/chapter/10.1007/11744023_34
+[CodeFAST]: https://github.com/edrosten/fast-C-src
+[PaperFAST_ER]: https://ieeexplore.ieee.org/abstract/document/4674368
+[CodeFAST_ER]: https://github.com/edrosten/fast-er
+[PaperORB]: https://ieeexplore.ieee.org/abstract/document/6126544
+[PaperKinectFusion]: https://ieeexplore.ieee.org/abstract/document/6162880
+[PaperRTVODRGBDI]: https://ieeexplore.ieee.org/abstract/document/6130321
+[PaperDTAM]: https://ieeexplore.ieee.org/abstract/document/6126513
+[PaperOGLCDLSMSGBSLAM]: https://ieeexplore.ieee.org/abstract/document/6942926
+[PaperROERGBDC]: https://ieeexplore.ieee.org/abstract/document/6631104
+[PaperDVSLAMRGBDC]: https://ieeexplore.ieee.org/abstract/document/6696650
+[PaperRTLSDRGBDSLAMVF]: https://journals.sagepub.com/doi/abs/10.1177/0278364914551008
 
 [PaperMake3D]: https://ieeexplore.ieee.org/abstract/document/4531745
 [CodeMake3D]: https://make3d.cs.cornell.edu/code.html

@@ -43,7 +43,7 @@ description: List of Visual Odometry, SLAM Contents
 |2004|Visual Odometry|-|[Pdf][PaperVO]|-|-|
 |2004|An efficient solution to the five-point relative pose problem|-|[Pdf][PaperESFPRPP]|-|-|
 |2004|Distinctive Image Features from Scale-Invariant Keypoints|SIFT|[Pdf][PaperSIFT]|-|-|
-|2006|Visual odometry for ground vehicle applications||[Pdf][PaperVOGVA]|-|-|
+|2006|Visual odometry for ground vehicle applications|-|[Pdf][PaperVOGVA]|-|-|
 |2006|SURF: Speeded Up Robust Features|SURF|[Pdf][PaperSURF]|[Code][CodeSURF]|-|
 |2006|Machine learning for high-speed corner detection|FAST|[Pdf][PaperFAST]|[Code][CodeFAST]|-|
 |2010|Faster and Better: A Machine Learning Approach to Corner Detection|FAST-ER|[Pdf][PaperFAST_ER]|[Code][CodeFAST_ER]|-|
@@ -58,13 +58,13 @@ description: List of Visual Odometry, SLAM Contents
 |2011|DTAM: Dense tracking and mapping in real-time|DTAM|[Pdf][PaperDTAM]|-|-|
 |2011|StereoScan: Dense 3d reconstruction in real-time|VISO2|[Pdf][PaperVISO2]|[Code][CodeVISO2]|[Webpage][WebpageVISO2]|
 |2013|Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM|-|[Pdf][PaperOGLCDLSMSGBSLAM]|-|-|
-|2013|Robust Odometry Estimation for RGB-D Cameras||[Pdf][PaperROERGBDC]|-|-|
+|2013|Robust Odometry Estimation for RGB-D Cameras|-|[Pdf][PaperROERGBDC]|-|-|
 |2013|Dense Visual SLAM for RGB-D Cameras|-|[Pdf][PaperDVSLAMRGBDC]|-|-|
 |2013|Semi-Dense Visual Odometry for a Monocular Camera|LSD-SLAM|[Pdf][PaperLSD_SLAM1]|[Code][CodeLSD_SLAM1]|[Webpage][WebpageLSD_SLAM1]|
 |2014|LSD-SLAM: Large-Scale Direct Monocular SLAM|LSD-SLAM|[Pdf][PaperLSD_SLAM2]|[Code][CodeLSD_SLAM2]|[Webpage][WebpageLSD_SLAM2]|
 |2014|Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion|-|[Pdf][PaperRTLSDRGBDSLAMVF]|-|-|
 |2014|Scalable Nearest Neighbor Algorithms for High Dimensional Data|FLANN|[Pdf][PaperFLANN]|[Code][CodeFLANN]|-|
-|2014|SVO: Fast semi-direct monocular visual odometry||[Pdf][PaperSVO]|[Code][CodeSVO]|[Webpage][WebpageSVO]|
+|2014|SVO: Fast semi-direct monocular visual odometry|SVO|[Pdf][PaperSVO]|[Code][CodeSVO]|[Webpage][WebpageSVO]|
 |2015|Learning visual odometry with a convolutional network|-|[Pdf][PaperLVOCN]|-|-|
 |2015|PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization|PoseNet|[Pdf][PaperPoseNet]|[Code][CodePoseNet]|-|
 |2015|Very High Frame Rate Volumetric Integration of Depth Images on Mobile Device|-|[Pdf][PaperVHFRVIDIMD]|-|-|

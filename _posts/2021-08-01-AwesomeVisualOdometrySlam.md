@@ -9,11 +9,7 @@ toc_sticky: true
 description: List of Visual Odometry, SLAM Contents
 ---
 
-## Learning
-
-### Courses
-
-### Books
+## Books
 
 - Multiple View Geometry in Computer Vision, Hartley and Zisserman, 2004
 - Computer Vision: Algorithms and Applications, Szeliski, 2010
@@ -32,10 +28,7 @@ description: List of Visual Odometry, SLAM Contents
 
 
 
-### VO/SLAM
-
-#### Learning
-#### Feature Tracking
+### Journal, Conference
 
 |Year|Title|Name|Doc|Code|Website|
 |:-:|:-:|:-:|:-:|:-:|:-:|

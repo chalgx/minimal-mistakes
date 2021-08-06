@@ -79,7 +79,6 @@ description: List of Visual Odometry, SLAM Contents
 |2017|GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence|GMS|[Pdf][PaperGMS]|[Code][CodeGMS]|-|
 |2017|LF-Net: Learning Local Features from Images|LF-Net|[Pdf][PaperLF_Net]|-|-|
 |2017|Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects|Co-Fusion|[Pdf][PaperCo_Fusion]|[Code][CodeCo_Fusion]|-|
-|2017|Unsupervised Learning of Depth and Ego-Motion from Video||[Pdf][PaperULDEMV]|-|-|
 |2017|Unsupervised Learning of Depth and Ego-Motion From Video|SfM-Learner|[Pdf][Paper20171]|[Code][Code20171]|-|
 |2017|Multi-Scale Continuous CRFs as Sequential Deep networks for Monocular Depth Estimation|MS-CRF|[Pdf][Paper20172]|[Code][Code20172]|-|
 |2018|Unsupervised Learning of Depth and Ego-Motion From Monocular Video Using 3D Geometric Constraints|Vid2Depth|[Pdf][Paper20181]|[Code][Code20181]|[Webpage][Webpage20181]|

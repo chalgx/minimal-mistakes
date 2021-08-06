@@ -100,7 +100,7 @@ description: List of Visual Odometry, SLAM Contents
 |2019|D2-Net: A Trainable CNN for Joint Description and Detection of Local Features|D2-Net|[Pdf][PaperD2-Net]|[Code][CodeD2-Net]|[Webpage][WebpageD2-Net]|
 |2019|Deep Graphical Feature Learning for the Feature Matching Problem|-|[Pdf][PaperDGFLFMP]|-|-|
 |2019|Digging Into Self-Supervised Monocular Depth Estimation|Monodepth2|[Pdf][Paper20192]|[Code][Code20192]|-|
-|2019|Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video|SC-SfMLearner|[Pdf][Paper20193]|-|-|
+|2019|Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video|SC-SfMLearner|[Pdf][Paper20193]|[Code][Code20211]|[Webpage][Webpage20211]|
 |2021|Unsupervised Scale-consistent Depth Learning from Video|SC-SfMLearner|[Pdf][Paper20211]|[Code][Code20211]|[Webpage][Webpage20211]|
 |2019|Moving Indoor: Unsupervised Video Depth Learning in Challenging Environments|-|[Pdf][Paper20194]|-|-|
 |2019|Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation|-|[Pdf][Paper20195]|[Code][Code20195]|-|

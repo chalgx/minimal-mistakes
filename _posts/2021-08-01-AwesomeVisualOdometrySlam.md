@@ -76,7 +76,7 @@ description: List of Visual Odometry, SLAM Contents
 |2017|DSO: Direct Sparse Odometry|DSO|[Pdf][PaperDSO]|[Code][CodeDSO]|-|
 |2017|DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks|DeepVO|[Pdf][PaperDeepVO]|-|-|
 |2017|UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning|UnDeepVO|[Pdf][PaperUnDeepVO]|-|-|
-|2017|GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence||[Pdf][PaperGMS]|[Code][CodeGMS]|-|
+|2017|GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence|GMS|[Pdf][PaperGMS]|[Code][CodeGMS]|-|
 |2017|LF-Net: Learning Local Features from Images|LF-Net|[Pdf][PaperLF_Net]|-|-|
 |2017|Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects|Co-Fusion|[Pdf][PaperCo_Fusion]|[Code][CodeCo_Fusion]|-|
 |2017|Unsupervised Learning of Depth and Ego-Motion from Video||[Pdf][PaperULDEMV]|-|-|
